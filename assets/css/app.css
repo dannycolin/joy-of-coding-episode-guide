@@ -1,0 +1,226 @@
+:root {
+  /* Colorscheme */
+  --grey-05: #fafafa;
+  --grey-10: #e8e8e8;
+  --grey-20: #d0d0d0;
+  --grey-30: #b6b6b6;
+  --grey-40: #919191;
+  --grey-50: #5e5e5e;
+  --grey-70: #434343;
+  --grey-80: #343434; /* add to the design system */
+  --grey-90: #252525;
+  --grey-95: #131313;
+  --yellow-10: #ffcc00;
+  --yellow-90: #885500;
+  
+  /* Global variables */
+  --global-font: "Open Sans", sans-serif;
+  --global-radius: 2px;
+  
+  /* Element variables */
+  --body-bg: var(--grey-90);
+  --body-fg: var(--grey-10);
+  --button-bg: var(--grey-30);
+  --button-border: var(--grey-30);
+  --button-hover-bg: var(--grey-40);
+  --button-fg: var(--grey-90);
+  --button-pressed-bg: var(--grey-50);
+  --button-primary-bg: var(--yellow-10);
+  --button-primary-border: var(--yellow-10);
+  --button-primary-fg: var(--grey-90);
+  --link-fg: var(--yellow-10);
+  --header-bg: var(--grey-95);
+  --main-title-fg: var(--grey-10);
+  --separator-bg: var(--grey-70);
+  --table-th-bg: var(--grey-90);
+  --table-th-fg: var(--yellow-10);
+  --table-tr-bg: var(--grey-70);
+  --table-tr-bg-alt: var(--grey-80);
+
+  /* Branding */
+  --youtube-bg: #ff0000;
+  --youtube-fg: #ffffff;
+  --mozilla-bg: #000000;
+  --mozilla-fg: #ffffff;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    /* Element variables */
+    --body-bg: var(--grey-05);
+    --body-fg: var(--grey-90);
+    --button-bg: var(--grey-20);
+    --button-border: var(--grey-20);
+    --button-hover-bg: var(--grey-30);
+    --button-fg: var(--grey-90);
+    --button-pressed-bg: var(--grey-40);
+    --button-primary-bg: var(--yellow-90);
+    --button-primary-border: var(--yellow-90);
+    --button-primary-fg: var(--grey-05);
+    --link-fg: var(--yellow-90);
+    --header-bg: var(--grey-90);
+    --main-title-fg: var(--grey-10);
+    --separator-bg: var(--grey-30);
+    --table-th-bg: var(--grey-05);
+    --table-th-fg: var(--yellow-90);
+    --table-tr-bg: var(--grey-10);
+    --table-tr-bg-alt: var(--white-100);
+  }
+}
+
+body {
+  background-color: var(--body-bg);
+  color: var(--body-fg);
+  font-family: var(--global-font);
+}
+
+/* Links */
+a {
+  color: var(--link-fg);
+  text-decoration: underline dashed;
+  text-underline-offset: 2px;
+}
+
+/* Headings */
+
+h1,
+h2 {
+  font-weight: 400;
+  margin: 0;
+  padding: 16px 0;
+}
+
+/* Table */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+}
+
+td {
+  border-bottom: solid 1px var(--body-bg);
+  padding: 0 16px;
+  height: 48px;
+}
+
+tr {
+  background-color: var(--table-tr-bg-alt);
+}
+
+tr:nth-child(odd) {
+  background-color: var(--table-tr-bg);
+}
+
+th {
+  background-color: var(--table-th-bg);
+  color: var(--table-th-fg);
+  height: 32px;
+  padding: 0 16px;
+  text-align: left;
+}
+
+tr:first-child td:first-child {
+  border-top-left-radius: var(--global-radius);
+}
+
+tr:first-child td:last-child {
+  border-top-right-radius: var(--global-radius);
+}
+
+tr:last-child td:first-child {
+  border-bottom-left-radius: var(--global-radius);
+}
+
+tr:last-child td:last-child {
+  border-bottom-right-radius: var(--global-radius);
+}
+
+/* Buttons */
+.button {
+  background-color: var(--button-bg);
+  border-radius: var(--global-radius);
+  color: var(--button-fg);
+  height: 24px;
+  margin: 0 4px;
+  min-width: 132px;
+  padding: 8px 8px 0 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.button:focus {
+  box-shadow: 
+    0px 0px 0px 4px rgba(255,204,0,0.4),
+    0px 0px 0px 2px rgba(255,204,0,1);
+}
+
+.button:hover {
+  background-color: var(--button-hover-bg);
+}
+
+.button.primary {
+  background-color: var(--button-primary-bg);
+  color: var(--button-primary-fg);
+}
+
+/* Buttons List */
+.button-list {
+  padding: 16px 0;
+}
+
+.button-list li {
+  display: inline-block;
+}
+
+/* Header */
+.page-header {
+  background-color: var(--header-bg);
+  border-bottom: solid 1px var(--separator-bg);
+}
+
+.main-title a {
+  color: var(--main-title-fg);
+  text-decoration: none;
+}
+
+h1.main-title {
+  font-size: 1em;
+  font-weight: 600;
+}
+
+/* Footer */
+.page-footer {
+  border-top: solid 1px var(--separator-bg);
+  margin-top: 32px;
+  padding: 16px 0;
+  text-align: center;
+}
+
+/* Flex */
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.flex-auto {
+  flex: 1 1 auto;
+}
+
+/* Utils */
+.wrapper {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 8px;
+}
+
+.show-for-sr { 
+  position: absolute !important;
+  height: 1px; 
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  white-space: nowrap; /* added line */
+}
