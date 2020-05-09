@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<main>
+  <h1 class="show-for-sr">The Joy of Coding: Episode Guide</h1>
+  {{ content }} 
+
+  <h2>List of Episodes</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Episode Number</th>
+        <th>Aired On</th>
+        <th>Watch On</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% assign episodes = site.episodes | reverse %}
+      {% for episode in episodes %}
+      <tr>
+        <td>
+          <a href="{{ episode.url | relative_url }}">
+            Episode {{ episode.number }}
+          </a>
+        </td>
+        <td>{{ episode.date | date: "%b %d, %Y" }}</td>
+        <td>
+          <a href="{{ episode.watch.air }}">Air Mozilla</a> 
+          <a href="https://www.youtube.com/watch?v={{ episode.watch.youtube }}">
+            Youtube
+          </a>
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</main>
