@@ -1,11 +1,18 @@
-theme: jekyll-theme-midnight
 title: "The Joy of Coding: Episode Guide"
+baseurl: /joy-of-coding-episode-guide
 
 collections:
   episodes:
     output: true
 
-baseurl: /joy-of-coding-episode-guide
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "episodes"
+    values:
+      layout: "episode"
 
 exclude:
   - CONTRIBUTE.md
@@ -16,3 +23,5 @@ exclude:
   - vendor/
   - utils/
 
+livereload: true
+incremental: true
