@@ -26,10 +26,17 @@ layout: default
         </td>
         <td>{{ episode.date | date: "%b %d, %Y" }}</td>
         <td>
-          <a href="{{ episode.watch.air }}">Air Mozilla</a> 
-          <a href="https://www.youtube.com/watch?v={{ episode.watch.youtube }}">
-            Youtube
+          <a href="{{ episode.watch.air }}"
+             style="margin-right: 8px;">
+            Air Mozilla
           </a>
+          <a href="https://invidio.us/watch?v={{ episode.watch.youtube }}"
+             style="margin-right: 8px;">
+           Invidio.us
+          </a>
+          <a href="https://youtube.com/watch?v={{ episode.watch.youtube }}">
+            Youtube
+          </a> 
         </td>
       </tr>
       {% endfor %}

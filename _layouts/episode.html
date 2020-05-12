@@ -11,16 +11,12 @@ layout: default
       <a class="button primary" href="{{ page.rate }}">Rate this episode</a>
     </div>
   </div>
-  <iframe width="960" 
-          height="540" 
-          src="https://www.youtube-nocookie.com/embed/{{ page.watch.youtube }}"
-          frameborder="0" 
-          allow="accelerometer; 
-                 autoplay; 
-                 encrypted-media; 
-                 gyroscope; 
-                 picture-in-picture" 
-          allowfullscreen>
+  <iframe id="ivplayer"
+          width="960"
+          height="540"
+          src="https://invidio.us/embed/{{ page.watch.youtube }}"
+          allowfullscreen
+          style="border:none;">
   </iframe>
   <h3>Watch On</h3>
   <ul class="button-list">
@@ -28,7 +24,16 @@ layout: default
       <a class="button mozilla" href="{{ page.watch.air }}">Air Mozilla</a>
     </li>
     <li>
-      <a class="button youtube" href="{{ page.watch.youtube }}">Youtube</a>
+      <a class="button youtube" 
+         href="https://invidio.us/watch?v={{ page.watch.youtube }}">
+        Invidio.us
+      </a>
+    </li>
+    <li>
+      <a class="button youtube" 
+         href="https://youtube.com/watch?v={{ page.watch.youtube }}">
+        Youtube
+      </a>
     </li>
   </ul>
   {{ content }} 
