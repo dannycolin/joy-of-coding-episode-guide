@@ -25,3 +25,11 @@ exclude:
 
 livereload: true
 incremental: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+feed:
+  collections:
+    - episodes

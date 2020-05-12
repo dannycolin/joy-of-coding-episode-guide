@@ -11,7 +11,25 @@
     {% endif %}
     {% if site.title %}{{ site.title }}{% endif %}
   </title>
-  <link rel="stylesheet" href="{{ "assets/css/normalize.css" | relative_url }}">
+
+  <!-- SEO -->
+  <meta property="og:title" content="The Joy of Coding: Episode Guide" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:url" 
+        content="http://localhost:4000/joy-of-coding-episode-guide/" />
+  <meta property="og:site_name" content="The Joy of Coding: Episode Guide" />
+  <link rel="canonical" 
+        href="http://localhost:4000/joy-of-coding-episode-guide/" />
+
+  <!-- RSS -->
+  <link type="application/atom+xml" 
+        rel="alternate" 
+        href="http://localhost:4000/joy-of-coding-episode-guide/feed.xml" 
+        title="The Joy of Coding: Episode Guide" />
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" 
+        href="{{ "assets/css/normalize.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "assets/css/app.css" | relative_url }}">
 </head>
 <body>
