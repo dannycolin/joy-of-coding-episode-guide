@@ -11,13 +11,7 @@ layout: default
       <a class="button primary" href="{{ page.rate }}">Rate this episode</a>
     </div>
   </div>
-  <iframe id="ivplayer"
-          width="960"
-          height="540"
-          src="https://invidio.us/embed/{{ page.watch.youtube }}"
-          allowfullscreen
-          style="border:none;">
-  </iframe>
+  <div id="video-player"></div>
   <h3>Watch On</h3>
   <ul class="button-list">
     <li>
@@ -39,3 +33,23 @@ layout: default
   {{ content }} 
   <p>You can <a href="{{ page.agenda }}">view the original agenda on Evernote</a></p>
 </main>
+
+<!-- add an embedded video if DNT is set to false -->
+<script>
+  document.body.onload = createVideoPlayer;
+
+  function createVideoPlayer() {
+    if (!navigator.doNotTrack) {
+      var createVideoPlayer = document.createElement("iframe");
+      createVideoPlayer.height = "540";
+      createVideoPlayer.id = "ivplayer";
+      createVideoPlayer.width = "960";
+      createVideoPlayer.src = 
+        "https://invidio.us/embed/{{ page.watch.youtube }}";
+      createVideoPlayer.style = "border: none;";
+
+      var videoPlayer = document.getElementById("video-player");
+      videoPlayer.appendChild(createVideoPlayer);  
+    }
+  }
+</script>
