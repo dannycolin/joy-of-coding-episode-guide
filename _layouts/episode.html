@@ -4,7 +4,9 @@ layout: default
 
 <main>
   <div class="flex">
-    <h2 class="flex-auto">Episode {{ page.number }}: {{ page.date | date: "%b %d, %Y" }}</h2>
+    <h2 class="flex-auto">
+      {{ page.title }}: {{ page.date | date: "%b %d, %Y" }}
+    </h2>
     <div>
       <a class="button primary" href="{{ page.rate }}">Rate this episode</a>
     </div>
