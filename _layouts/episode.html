@@ -39,7 +39,7 @@ layout: default
   document.body.onload = createVideoPlayer;
 
   function createVideoPlayer() {
-    if (!navigator.doNotTrack) {
+    if (navigator.doNotTrack != 1) {
       var createVideoPlayer = document.createElement("iframe");
       createVideoPlayer.height = "540";
       createVideoPlayer.id = "ivplayer";
