@@ -6,6 +6,35 @@ layout: default
   <h1 class="show-for-sr">The Joy of Coding: Episode Guide</h1>
   {{ content }} 
 
+  <h2>Latest Episode</h2>
+  {% assign latest_episode = site.episodes | last %}
+  <h3>
+    <a href="{{ latest_episode.url | relative_url }}">
+      {{ latest_episode.title }}: {{ latest_episode.date | date: "%b %d, %Y" }}
+    </a>
+  </h3>
+  <div id="video-player"></div>
+  <div class="flex">
+    <h4>Watch on:</h4>
+    <ul class="button-list">
+      <li>
+        <a class="button mozilla" href="{{ page.watch.air }}">Air Mozilla</a>
+      </li>
+      <li>
+        <a class="button youtube" 
+           href="https://invidio.us/watch?v={{ page.watch.youtube }}">
+          Invidio.us
+        </a>
+      </li>
+      <li>
+        <a class="button youtube" 
+           href="https://youtube.com/watch?v={{ page.watch.youtube }}">
+          Youtube
+        </a>
+      </li>
+    </ul>
+  </div>
+
   <h2>List of Episodes</h2>
   <table>
     <thead>
@@ -43,3 +72,23 @@ layout: default
     </tbody>
   </table>
 </main>
+
+<!-- add an embedded video if DNT is set to false -->
+<script>
+  document.body.onload = createVideoPlayer;
+
+  function createVideoPlayer() {
+    if (navigator.doNotTrack != 1) {
+      var createVideoPlayer = document.createElement("iframe");
+      createVideoPlayer.height = "540";
+      createVideoPlayer.id = "ivplayer";
+      createVideoPlayer.width = "960";
+      createVideoPlayer.src = 
+        "https://invidio.us/embed/{{ latest_episode.watch.youtube }}";
+      createVideoPlayer.style = "border: none;";
+
+      var videoPlayer = document.getElementById("video-player");
+      videoPlayer.appendChild(createVideoPlayer);  
+    }
+  }
+</script>
