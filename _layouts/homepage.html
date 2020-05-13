@@ -35,7 +35,7 @@ layout: default
     </ul>
   </div>
 
-  <h2>List of Episodes</h2>
+  <h2>Previous Episodes</h2>
   <table>
     <thead>
       <tr>
@@ -47,27 +47,29 @@ layout: default
     <tbody>
       {% assign episodes = site.episodes | reverse %}
       {% for episode in episodes %}
-      <tr>
-        <td>
-          <a href="{{ episode.url | relative_url }}">
-            {{ episode.title }}
-          </a>
-        </td>
-        <td>{{ episode.date | date: "%b %d, %Y" }}</td>
-        <td>
-          <a href="{{ episode.watch.air }}"
-             style="margin-right: 8px;">
-            Air Mozilla
-          </a>
-          <a href="https://invidio.us/watch?v={{ episode.watch.youtube }}"
-             style="margin-right: 8px;">
-           Invidio.us
-          </a>
-          <a href="https://youtube.com/watch?v={{ episode.watch.youtube }}">
-            Youtube
-          </a> 
-        </td>
-      </tr>
+        {% if forloop.first != true %}
+        <tr>
+          <td>
+            <a href="{{ episode.url | relative_url }}">
+              {{ episode.title }}
+            </a>
+          </td>
+          <td>{{ episode.date | date: "%b %d, %Y" }}</td>
+          <td>
+            <a href="{{ episode.watch.air }}"
+               style="margin-right: 8px;">
+              Air Mozilla
+            </a>
+            <a href="https://invidio.us/watch?v={{ episode.watch.youtube }}"
+               style="margin-right: 8px;">
+             Invidio.us
+            </a>
+            <a href="https://youtube.com/watch?v={{ episode.watch.youtube }}">
+              Youtube
+            </a> 
+          </td>
+        </tr>
+        {% endif %}
       {% endfor %}
     </tbody>
   </table>
