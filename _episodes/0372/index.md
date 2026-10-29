@@ -2,13 +2,12 @@
 date: 2024-07-10
 number: 372
 airmozilla: https://mzl.la/joy-of-coding-2024-07-10
+agenda: https://mikeconley.ca/joc/agendas/Episode-0372.html
 ---
 
 # Episode 372: Jul 10th, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0372.html)
 
 ## Topics
 * Finishing up [Bug 1906739](https://bugzilla.mozilla.org/show_bug.cgi?id=1906739) - Implement scheduled backups CTA and restore your data sections in backup-settings

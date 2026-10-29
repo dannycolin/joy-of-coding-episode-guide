@@ -2,13 +2,12 @@
 date: 2024-10-02
 number: 378
 airmozilla: https://mzl.la/joy-of-coding-2024-10-02
+agenda: https://mikeconley.ca/joc/agendas/Episode-0378.html
 ---
 
 # Episode 378: Oct 2nd, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0378.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/daca2f056f944ab6b334887bf074fb06 "What a week")

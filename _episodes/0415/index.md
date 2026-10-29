@@ -2,13 +2,12 @@
 date: 2025-08-27
 number: 415
 airmozilla: https://mzl.la/joy-of-coding-2025-08-27
+agenda: https://mikeconley.ca/joc/agendas/Episode-0415.html
 ---
 
 # Episode 415: Aug 27th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0415.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/b08ff93f94c44aed9186a23c6cf575f9 "keanu code 415")

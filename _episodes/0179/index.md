@@ -2,13 +2,12 @@
 date: 2019-06-05
 number: 179
 airmozilla: https://air.mozilla.org/event-redirect/332385/
+agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=629cb3c6-ca3a-46f0-be0d-8cad4a5e00ee&noteKey=14c6a3833b98b913&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F629cb3c6-ca3a-46f0-be0d-8cad4a5e00ee%2F14c6a3833b98b913&title=June%2B5th%252C%2B2019%2B-%2BEpisode%2B179
 ---
 
 # Episode 179: Jun 5th, 2019
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=629cb3c6-ca3a-46f0-be0d-8cad4a5e00ee&noteKey=14c6a3833b98b913&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F629cb3c6-ca3a-46f0-be0d-8cad4a5e00ee%2F14c6a3833b98b913&title=June%2B5th%252C%2B2019%2B-%2BEpisode%2B179)
 
 ## Topics
 * Patch review for [Bug 1505909](https://bugzilla.mozilla.org/show_bug.cgi?id=1505909)

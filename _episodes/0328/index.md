@@ -2,13 +2,12 @@
 date: 2023-06-14
 number: 328
 airmozilla: https://mzl.la/joy-of-coding-2023-06-14
+agenda: https://mikeconley.ca/joc/agendas/Episode-0328.html
 ---
 
 # Episode 328: Jun 14th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0328.html)
 
 ## Topics
 * WindowsJumpLists! Let's keep going!

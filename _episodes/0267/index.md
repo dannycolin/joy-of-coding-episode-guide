@@ -2,13 +2,12 @@
 date: 2021-10-27
 number: 267
 airmozilla: https://mzl.la/joy-of-coding-2021-10-27
+agenda: https://mikeconley.ca/joc/agendas/Episode-0267.html
 ---
 
 # Episode 267: Oct 27th, 2021
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0267.html)
 
 ## Topics
 * [Bug 1736690](https://bugzilla.mozilla.org/show_bug.cgi?id=1736690) - Remove or update probes expiring in Firefox 96: pictureinpicture.most_concurrent_players

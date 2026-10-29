@@ -2,13 +2,12 @@
 date: 2021-05-12
 number: 249
 airmozilla: https://mzl.la/joy-of-coding-2021-05-12
+agenda: https://mikeconley.ca/joc/agendas/Episode-0249.html
 ---
 
 # Episode 249: May 12th, 2021
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0249.html)
 
 ## Topics
 * Pandemic edition! Mike is streaming from home!

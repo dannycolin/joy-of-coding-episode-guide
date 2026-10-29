@@ -2,13 +2,12 @@
 date: 2026-02-11
 number: 429
 airmozilla: https://mzl.la/joy-of-coding-2026-02-11
+agenda: https://mikeconley.ca/joc/agendas/Episode-0429.html
 ---
 
 # Episode 429: Feb 11th, 2026
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0429.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/32e362d413434ffa931817a75773a4c4 "keanu code 429")

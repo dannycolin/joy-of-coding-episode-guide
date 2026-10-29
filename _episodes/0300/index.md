@@ -2,13 +2,12 @@
 date: 2022-09-14
 number: 300
 airmozilla: https://mzl.la/joy-of-coding-2022-09-14
+agenda: https://mikeconley.ca/joc/agendas/Episode-0300.html
 ---
 
 # Episode 300: Sep 14th, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0300.html)
 
 ## Topics
 * <b>WE DID IT - ~300 episodes! \o/</b>

@@ -2,13 +2,12 @@
 date: 2023-04-12
 number: 321
 airmozilla: https://mzl.la/joy-of-coding-2023-04-12
+agenda: https://mikeconley.ca/joc/agendas/Episode-0321.html
 ---
 
 # Episode 321: Apr 12th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0321.html)
 
 ## Topics
 * [Bug 1801266](https://bugzilla.mozilla.org/show_bug.cgi?id=1801266) - Handle the case where an extension widget is not visible and not in the unified extensions panel

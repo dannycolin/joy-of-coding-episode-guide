@@ -2,13 +2,12 @@
 date: 2023-10-25
 number: 344
 airmozilla: https://mzl.la/joy-of-coding-2023-10-25
+agenda: https://mikeconley.ca/joc/agendas/Episode-0344.html
 ---
 
 # Episode 344: Oct 25th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0344.html)
 
 ## Topics
 * Back to [WindowsJumpLists](https://bugzilla.mozilla.org/show_bug.cgi?id=1529276)

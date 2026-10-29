@@ -2,13 +2,12 @@
 date: 2016-11-02
 number: 78
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-78/
+agenda: https://www.evernote.com/l/AbKnuF5yWA1JdbY94-KDOlRcXrCfnIsy-do
 ---
 
 # Episode 78: November 2nd, 2016
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/l/AbKnuF5yWA1JdbY94-KDOlRcXrCfnIsy-do)
 
 ## Topics
 * Debugging a failing test, using --jsdebugger to bring up the browser toolbox to set breakpoints, step through test.

@@ -2,12 +2,10 @@
 date: 2016-11-09
 number: 79
 youtube: https://www.youtube.com/watch?v=V9aUBjuJ7CI
+agenda: https://www.evernote.com/l/AbK2VxuWl15IJbpoZPZdHv0llV4FoXE9jjs
 ---
 
 # Episode 79: November 9th, 2016 - Agenda
-
-## Links
-* [Evernote Agenda](https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.evernote.com%2Fl%2FAbK2VxuWl15IJbpoZPZdHv0llV4FoXE9jjs&event=video_description&v=V9aUBjuJ7CI&redir_token=JMSI6xr3qYqrtF1MIaWocsCcXbV8MTUxMTQ2MTcwMEAxNTExMzc1MzAw)
 
 ## Topics
 Bug 418833 - can't define the style of input when the type is set to "checkbox" or "radio" with CSS

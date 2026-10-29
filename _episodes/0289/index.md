@@ -2,13 +2,12 @@
 date: 2022-05-11
 number: 289
 airmozilla: https://mzl.la/joy-of-coding-2022-05-11
+agenda: https://mikeconley.ca/joc/agendas/Episode-0289.html
 ---
 
 # Episode 289: May 11th, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0289.html)
 
 ## Topics
 * [Bug 1354248](https://bugzilla.mozilla.org/show_bug.cgi?id=1354248) - Allow privileged about content process use page-icon protocol

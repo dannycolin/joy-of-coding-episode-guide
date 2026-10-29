@@ -2,13 +2,12 @@
 date: 2024-11-06
 number: 382
 airmozilla: https://mzl.la/joy-of-coding-2024-11-06
+agenda: https://mikeconley.ca/joc/agendas/Episode-0382.html
 ---
 
 # Episode 382: Nov 6th, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0382.html)
 
 ## Topics
 * VERY EARLY profile management in Nightly

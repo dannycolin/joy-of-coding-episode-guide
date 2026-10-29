@@ -2,13 +2,12 @@
 date: 2022-07-06
 number: 293
 airmozilla: https://mzl.la/joy-of-coding-2022-07-06
+agenda: https://mikeconley.ca/joc/agendas/Episode-0293.html
 ---
 
 # Episode 293: Jul 6st, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0293.html)
 
 ## Topics
 * [Bug 1778204](https://bugzilla.mozilla.org/show_bug.cgi?id=1778204) - LightweightThemeChild doesn't call update() for non-sidebar parent process documents

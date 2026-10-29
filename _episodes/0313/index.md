@@ -2,13 +2,12 @@
 date: 2023-01-25
 number: 313
 airmozilla: https://mzl.la/joy-of-coding-2023-01-25
+agenda: https://mikeconley.ca/joc/agendas/Episode-0313.html
 ---
 
 # Episode 313: Jan 25th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0313.html)
 
 ## Topics
 * Still hacking on WindowsJumpLists!

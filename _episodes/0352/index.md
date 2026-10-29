@@ -2,13 +2,12 @@
 date: 2024-01-17
 number: 352
 airmozilla: https://mzl.la/joy-of-coding-2024-01-17
+agenda: https://mikeconley.ca/joc/agendas/Episode-0352.html
 ---
 
 # Episode 352: Jan 17th, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0352.html)
 
 ## Topics
 * Help with [Bug 1873947](https://bugzilla.mozilla.org/show_bug.cgi?id=1873947) - Screenshots get broken when dragging the tab to a new window

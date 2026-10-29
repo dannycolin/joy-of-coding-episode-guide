@@ -2,6 +2,7 @@
 date: 2015-03-18
 number: 6
 youtube: https://www.youtube.com/watch?v=F98Pj0vu0dQ
+agenda: https://www.evernote.com/shard/s434/sh/ecf52506-c31e-481c-8b75-8aff8d546606/018c076e14eda294
 ---
 
 # Episode 6: Mar 18, 2015
@@ -9,7 +10,6 @@ youtube: https://www.youtube.com/watch?v=F98Pj0vu0dQ
 ## Links
 
 * [Blog post on this episode](https://mikeconley.ca/blog/2015/03/19/the-joy-of-coding-episode-6-plugins/)
-* [Evernote Agenda](https://www.evernote.com/shard/s434/sh/ecf52506-c31e-481c-8b75-8aff8d546606/018c076e14eda294)
 
 ## Topics
 

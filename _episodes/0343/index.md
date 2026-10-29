@@ -2,13 +2,12 @@
 date: 2023-10-18
 number: 343
 airmozilla: https://mzl.la/joy-of-coding-2023-10-18
+agenda: https://mikeconley.ca/joc/agendas/Episode-0343.html
 ---
 
 # Episode 343: Oct 18th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0343.html)
 
 ## Topics
 * Update on [Bug 1818237](https://bugzilla.mozilla.org/show_bug.cgi?id=1818237) - Make it possible to import from other browsers when Firefox is installed as a Snap package

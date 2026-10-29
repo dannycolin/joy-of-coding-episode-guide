@@ -2,13 +2,12 @@
 date: 2023-04-19
 number: 322
 airmozilla: https://mzl.la/joy-of-coding-2023-04-19
+agenda: https://mikeconley.ca/joc/agendas/Episode-0322.html
 ---
 
 # Episode 322: Apr 19th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0322.html)
 
 ## Topics
 * TODO: Hunt down race bug for "Pin to Toolbar"

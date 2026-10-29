@@ -2,13 +2,12 @@
 date: 2025-11-19
 number: 420
 airmozilla: https://mzl.la/joy-of-coding-2025-11-19
+agenda: https://mikeconley.ca/joc/agendas/Episode-0420.html
 ---
 
 # Episode 420: Nov 19th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0420.html)
 
 ## Topics
 * Keanu code for HTTP 420 ? There is no official HTTP status code 420.

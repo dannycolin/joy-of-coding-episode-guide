@@ -2,13 +2,12 @@
 date: 2021-08-04
 number: 257
 airmozilla: https://mzl.la/joy-of-coding-2021-08-04
+agenda: https://mikeconley.ca/joc/agendas/Episode-0257.html
 ---
 
 # Episode 257: Aug 4th, 2021
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0257.html)
 
 ## Topics
 * [Bug 1721454](https://bugzilla.mozilla.org/show_bug.cgi?id=1721454) - Second "Manage bookmarks" item is not at bottom of Bookmarks Menu after landing patch from bug #1720534

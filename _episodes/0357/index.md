@@ -2,13 +2,12 @@
 date: 2024-02-28
 number: 357
 airmozilla: https://mzl.la/joy-of-coding-2024-02-28
+agenda: https://mikeconley.ca/joc/agendas/Episode-0357.html
 ---
 
 # Episode 357: Feb 28th, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0357.html)
 
 ## Topics
 * Jump List stuff

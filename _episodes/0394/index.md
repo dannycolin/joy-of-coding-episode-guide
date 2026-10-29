@@ -2,13 +2,12 @@
 date: 2025-02-19
 number: 394
 airmozilla: https://mzl.la/joy-of-coding-2025-02-19
+agenda: https://mikeconley.ca/joc/agendas/Episode-0394.html
 ---
 
 # Episode 394: Feb 19th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0394.html)
 
 ## Topics
 * Whoops - accidental episode skippage last week

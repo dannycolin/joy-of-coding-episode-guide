@@ -2,13 +2,12 @@
 date: 2024-03-06
 number: 358
 airmozilla: https://mzl.la/joy-of-coding-2024-03-06
+agenda: https://mikeconley.ca/joc/agendas/Episode-0358.html
 ---
 
 # Episode 358: Mar 6th, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0358.html)
 
 ## Topics
 * Off-main-thread Windows Jump List got green sign-off to go out in Firefox 124!

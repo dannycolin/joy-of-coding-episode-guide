@@ -2,13 +2,12 @@
 date: 2023-11-15
 number: 347
 airmozilla: https://mzl.la/joy-of-coding-2023-11-15
+agenda: https://mikeconley.ca/joc/agendas/Episode-0347.html
 ---
 
 # Episode 347: Nov 15th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0347.html)
 
 ## Topics
 * Back to [WindowsJumpLists](https://bugzilla.mozilla.org/show_bug.cgi?id=1529276)

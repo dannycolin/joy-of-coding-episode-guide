@@ -2,13 +2,12 @@
 date: 2022-03-02
 number: 281
 airmozilla: https://mzl.la/joy-of-coding-2022-03-02
+agenda: https://mikeconley.ca/joc/agendas/Episode-0281.html
 ---
 
 # Episode 281: Mar 2nd, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0281.html)
 
 ## Topics
 * Are you Canadian? [Then consider donating to the Ukraine Humanitarian Crisis Appeal](https://donate.redcross.ca/page/100227/donate/1?_ga=2.69967120.1415423639.1645826820-1854297146.1645826820&_gl=1*zqfv37*_ga*MTg1NDI5NzE0Ni4xNjQ1ODI2ODIw*_ga_376D8LHM0R*MTY0NTgyNjgxOS4xLjEuMTY0NTgyNjk1OS4w)

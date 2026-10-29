@@ -2,13 +2,12 @@
 date: 2026-04-15
 number: 437
 airmozilla: https://mzl.la/joy-of-coding-2026-04-15
+agenda: https://mikeconley.ca/joc/agendas/Episode-0437.html
 ---
 
 # Episode 437: Apr 15th, 2026
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0437.html)
 
 ## Topics
 * Work on downloads sidebar

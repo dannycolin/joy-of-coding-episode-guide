@@ -2,13 +2,12 @@
 date: 2025-07-16
 number: 410
 airmozilla: https://mzl.la/joy-of-coding-2025-07-16
+agenda: https://mikeconley.ca/joc/agendas/Episode-0410.html
 ---
 
 # Episode 410: Jul 16th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0410.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/bbdf9d1427ee40f182d5790222c79b5e "keanu code 410")

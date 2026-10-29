@@ -2,13 +2,12 @@
 date: 2026-04-29
 number: 438
 airmozilla: https://mzl.la/joy-of-coding-2026-04-29
+agenda: https://mikeconley.ca/joc/agendas/Episode-0438.html
 ---
 
 # Episode 438: Apr 29th, 2026
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0438.html)
 
 ## Topics
 * Q: https://www.firefox.com/en-GB/firefox/150.0/releasenotes

@@ -2,13 +2,12 @@
 date: 2025-06-25
 number: 407
 airmozilla: https://mzl.la/joy-of-coding-2025-06-25
+agenda: https://mikeconley.ca/joc/agendas/Episode-0407.html
 ---
 
 # Episode 407: Jun 25th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0407.html)
 
 ## Topics
 * Fix Opera migrator

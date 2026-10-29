@@ -2,13 +2,12 @@
 date: 2022-10-12
 number: 302
 airmozilla: https://mzl.la/joy-of-coding-2022-10-12
+agenda: https://mikeconley.ca/joc/agendas/Episode-0302.html
 ---
 
 # Episode 302: Oct 12th, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0302.html)
 
 ## Topics
 * Today - Goal: I want the JumpListManager to only ever be accessed off of the main thread, so that the main thread in the parent process never has to await a lock.

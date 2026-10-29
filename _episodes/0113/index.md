@@ -2,13 +2,12 @@
 date: 2017-09-20
 number: 113
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-113/
+agenda: https://www.evernote.com/l/AbIhfkc9kSdFU5xHKnhw8VXO1ei_D4EV1H0
 ---
 
 # Episode 113: September 20th, 2017
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/l/AbIhfkc9kSdFU5xHKnhw8VXO1ei_D4EV1H0)
 
 ## Topics
 

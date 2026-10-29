@@ -2,13 +2,12 @@
 date: 2021-07-14
 number: 255
 airmozilla: https://mzl.la/joy-of-coding-2021-07-14
+agenda: https://mikeconley.ca/joc/agendas/Episode-0255.html
 ---
 
 # Episode 255: Jul 14th, 2021
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0255.html)
 
 ## Topics
 * [255](https://en.wikipedia.org/wiki/255_(number))

@@ -2,13 +2,12 @@
 date: 2022-11-02
 number: 305
 airmozilla: https://mzl.la/joy-of-coding-2022-11-02
+agenda: https://mikeconley.ca/joc/agendas/Episode-0305.html
 ---
 
 # Episode 305: Nov 2nd, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0305.html)
 
 ## Topics
 * Back in the office, so WindowsJumpList on pause this week. Back next week!

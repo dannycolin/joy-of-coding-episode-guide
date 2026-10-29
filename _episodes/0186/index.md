@@ -2,13 +2,12 @@
 date: 2019-08-14
 number: 186
 airmozilla: https://air.mozilla.org/event-redirect/339966/
+agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=e4f9356f-e8c6-4230-9814-0aa3d3d33a40&noteKey=b1a8c8e09c5954fa&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fe4f9356f-e8c6-4230-9814-0aa3d3d33a40%2Fb1a8c8e09c5954fa&title=August%2B14th%252C%2B2019%2B-%2BEpisode%2B186
 ---
 
 # Episode 186: Aug 14th, 2019
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=e4f9356f-e8c6-4230-9814-0aa3d3d33a40&noteKey=b1a8c8e09c5954fa&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fe4f9356f-e8c6-4230-9814-0aa3d3d33a40%2Fb1a8c8e09c5954fa&title=August%2B14th%252C%2B2019%2B-%2BEpisode%2B186)
 
 ## Topics
 * [Bug 1571214](https://bugzilla.mozilla.org/show_bug.cgi?id=1571214) - Video is shifted down in Picture-in-Picture player window

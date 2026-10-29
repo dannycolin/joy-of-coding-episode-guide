@@ -2,13 +2,12 @@
 date: 2024-07-31
 number: 374
 airmozilla: https://mzl.la/joy-of-coding-2024-07-31
+agenda: https://mikeconley.ca/joc/agendas/Episode-0374.html
 ---
 
 # Episode 374: Jul 31st, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0374.html)
 
 ## Topics
 * Travel during August, so no episodes on August 14th or 21st, back on August 28th!

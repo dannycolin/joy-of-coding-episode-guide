@@ -2,13 +2,12 @@
 date: 2019-02-06
 number: 165
 airmozilla: https://air.mozilla.org/event-redirect/320472/
+agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=87f66521-bcc9-4612-99c1-72bc2adc1cf1&noteKey=82fca0b556b395b4&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F87f66521-bcc9-4612-99c1-72bc2adc1cf1%2F82fca0b556b395b4&title=February%2B6th%252C%2B2019%2B-%2BEpisode%2B165
 ---
 
 # Episode 165: February 6th, 2019
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=87f66521-bcc9-4612-99c1-72bc2adc1cf1&noteKey=82fca0b556b395b4&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F87f66521-bcc9-4612-99c1-72bc2adc1cf1%2F82fca0b556b395b4&title=February%2B6th%252C%2B2019%2B-%2BEpisode%2B165)
 
 ## Topics
 * [Bug 1521964](https://bugzilla.mozilla.org/show_bug.cgi?id=1521964) - Provide a privileged API for compositing decoded video frames onto an alternate placeholder - [Notes](https://www.evernote.com/shard/s434/client/snv?noteGuid=f0cdc46b-6225-4cd7-939f-2d77157adaaa&noteKey=4ed440dc658017a6&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Ff0cdc46b-6225-4cd7-939f-2d77157adaaa%2F4ed440dc658017a6&title=Bug%2B1521964%2B-%2BProvide%2Ba%2Bprivileged%2BAPI%2Bfor%2Bcompositing%2Bdecoded%2Bvideo%2Bframes%2Bonto%2Ban%2Balternate%2Bplaceholder)

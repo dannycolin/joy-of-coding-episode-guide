@@ -2,13 +2,12 @@
 date: 2018-08-08
 number: 146
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-146/
+agenda: https://www.evernote.com/l/AbIjO9t0VeRL6aNbINmQ2-yUj_EPU1jGLyU
 ---
 
 # Episode 146: August 8th, 2018
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/l/AbIjO9t0VeRL6aNbINmQ2-yUj_EPU1jGLyU)
 
 ## Shoutouts
 * [Les Orchard](https://www.twitch.tv/lmorchard/videos/all) Hacks on [Firefox Color](https://color.firefox.com)

@@ -2,13 +2,12 @@
 date: 2018-03-14
 number: 132
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-132/
+agenda: https://www.evernote.com/l/AbJO81XWs_5JC5jv1aZopcmVGZXJ5uJAvXM
 ---
 
 # Episode 132: March 14st, 2018
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/l/AbJO81XWs_5JC5jv1aZopcmVGZXJ5uJAvXM)
 
 ## Topics
 

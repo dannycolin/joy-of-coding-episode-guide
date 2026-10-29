@@ -2,13 +2,12 @@
 date: 2022-02-16
 number: 279
 airmozilla: https://mzl.la/joy-of-coding-2022-02-16
+agenda: https://mikeconley.ca/joc/agendas/Episode-0279.html
 ---
 
 # Episode 279: Feb 16th, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0279.html)
 
 ## Topics
 * FOSDEM:

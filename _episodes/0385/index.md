@@ -2,13 +2,12 @@
 date: 2024-11-27
 number: 385
 airmozilla: https://mzl.la/joy-of-coding-2024-11-27
+agenda: https://mikeconley.ca/joc/agendas/Episode-0385.html
 ---
 
 # Episode 385: Nov 27th, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0385.html)
 
 ## Topics
 * Short episode due to network problems

@@ -2,13 +2,12 @@
 date: 2017-09-06
 number: 111
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-111/
+agenda: https://www.evernote.com/l/AbLjuPins4BIYLmUhdQ6Owgz0LxhCT0GYHI
 ---
 
 # Episode 111: September 6th, 2017
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/l/AbLjuPins4BIYLmUhdQ6Owgz0LxhCT0GYHI)
 
 ## Topics
 * [Bug 1387130](https://bugzilla.mozilla.org/show_bug.cgi?id=1387130) tab scrolling, [window.scrollBy](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollBy)

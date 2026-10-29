@@ -2,13 +2,12 @@
 date: 2020-02-26
 number: 207
 airmozilla: https://air.mozilla.org/event-redirect/359441/
+agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=148a9240-98a5-4abc-8445-d220d649bf95&noteKey=539b098fa471f00f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F148a9240-98a5-4abc-8445-d220d649bf95%2F539b098fa471f00f&title=February%2B26th%252C%2B2020%2B-%2BEpisode%2B207
 ---
 
 # Episode 207: Feb 26th, 2020
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=148a9240-98a5-4abc-8445-d220d649bf95&noteKey=539b098fa471f00f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F148a9240-98a5-4abc-8445-d220d649bf95%2F539b098fa471f00f&title=February%2B26th%252C%2B2020%2B-%2BEpisode%2B207)
 
 ## Topics
 * Tried some background [music](https://www.youtube.com/watch?v=2HiP-Sdtbck&list=PL06diOotXAJLAAHBY7kIUm5GQwm2ZinOz)

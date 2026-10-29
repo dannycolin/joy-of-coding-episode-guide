@@ -2,13 +2,12 @@
 date: 2022-03-09
 number: 282
 airmozilla: https://mzl.la/joy-of-coding-2022-03-09
+agenda: https://mikeconley.ca/joc/agendas/Episode-0282.html
 ---
 
 # Episode 282: Mar 9th, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0282.html)
 
 ## Topics
 * Help people not able to connect to internet, by setting up your own [TOR bridge](https://community.torproject.org/relay/setup/bridge/)!

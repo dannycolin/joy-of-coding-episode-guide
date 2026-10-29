@@ -2,13 +2,12 @@
 date: 2025-06-11
 number: 405
 airmozilla: https://mzl.la/joy-of-coding-2025-06-11
+agenda: https://mikeconley.ca/joc/agendas/Episode-0405.html
 ---
 
 # Episode 405: Jun 11th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0405.html)
 
 ## Topics
 * Starting in Firefox 140, users can remove the addons toolbar button

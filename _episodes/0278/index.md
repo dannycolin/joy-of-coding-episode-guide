@@ -2,13 +2,12 @@
 date: 2022-02-09
 number: 278
 airmozilla: https://mzl.la/joy-of-coding-2022-02-09
+agenda: https://mikeconley.ca/joc/agendas/Episode-0278.html
 ---
 
 # Episode 278: Feb 9th, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0278.html)
 
 ## Topics
 * How to debug Firefox's native code on macOS (lldb), then Linux (gdb), then Windows (Visual Studio)!

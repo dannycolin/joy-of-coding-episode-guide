@@ -2,13 +2,12 @@
 date: 2022-01-26
 number: 276
 airmozilla: https://mzl.la/joy-of-coding-2022-01-26
+agenda: https://mikeconley.ca/joc/agendas/Episode-0276.html
 ---
 
 # Episode 276: Jan 26th, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0276.html)
 
 ## Topics
 * FOSDEM! [Mozilla has a booth](https://fosdem.org/2022/schedule/track/mozilla/). I'm doing a talk. It's free! Lots of other interesting talks, too.

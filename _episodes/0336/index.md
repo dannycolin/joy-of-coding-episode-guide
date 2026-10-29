@@ -2,13 +2,12 @@
 date: 2023-08-30
 number: 336
 airmozilla: https://mzl.la/joy-of-coding-2023-08-30
+agenda: https://mikeconley.ca/joc/agendas/Episode-0336.html
 ---
 
 # Episode 336: Aug 30th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0336.html)
 
 ## Topics
 * aukkras with a tip: EXPECT_HRESULT_SUCCEEDED, ASSERT_HRESULT_SUCCEEDED

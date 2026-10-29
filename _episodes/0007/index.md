@@ -2,6 +2,7 @@
 date: 2015-03-25
 number: 7
 youtube: https://www.youtube.com/watch?v=TvXtfdS5AUE
+agenda: https://www.evernote.com/l/AbJGwcy3Gt1I3qlhCpUuZebtW82W3tnAujk
 ---
 
 # Episode 7: Mar 25, 2015
@@ -9,7 +10,6 @@ youtube: https://www.youtube.com/watch?v=TvXtfdS5AUE
 ## Links
 
 * [Blog post on this episode](https://mikeconley.ca/blog/2015/03/27/the-joy-of-coding-episode-7-code-review-and-a-regression/)
-* [Evernote Agenda](https://www.evernote.com/l/AbJGwcy3Gt1I3qlhCpUuZebtW82W3tnAujk)
 
 ## Topics
 

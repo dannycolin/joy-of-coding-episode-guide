@@ -2,13 +2,12 @@
 date: 2023-05-10
 number: 324
 airmozilla: https://mzl.la/joy-of-coding-2023-05-10
+agenda: https://mikeconley.ca/joc/agendas/Episode-0324.html
 ---
 
 # Episode 324: May 10th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0324.html)
 
 ## Topics
 * Mike was on a podcast! You can listen to it [here](https://blog.thunderbird.net/2023/05/thundercast-episode-2-with-special-mozilla-guest-mike-conley/). Thanks to Jason and Ryan for talking with me!

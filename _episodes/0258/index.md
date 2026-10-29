@@ -2,13 +2,12 @@
 date: 2021-08-11
 number: 258
 airmozilla: https://mzl.la/joy-of-coding-2021-08-11
+agenda: https://mikeconley.ca/joc/agendas/Episode-0258.html
 ---
 
 # Episode 258: Aug 11th, 2021
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0258.html)
 
 ## Topics
 * [Bug 1724675](https://bugzilla.mozilla.org/show_bug.cgi?id=1724675) - The button from the Synced Tabs doorhanger is missing the label

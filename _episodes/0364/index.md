@@ -2,13 +2,12 @@
 date: 2024-05-01
 number: 364
 airmozilla: https://mzl.la/joy-of-coding-2024-05-01
+agenda: https://mikeconley.ca/joc/agendas/Episode-0364.html
 ---
 
 # Episode 363: May 1st, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0364.html)
 
 ## Topics
 * Sorry about last week - network issues.

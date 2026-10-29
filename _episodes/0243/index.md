@@ -2,13 +2,12 @@
 date: 2021-03-10
 number: 243
 airmozilla: https://mzl.la/joy-of-coding-2021-03-10
+agenda: https://mikeconley.ca/joc/agendas/Episode-0243.html
 ---
 
 # Episode 243: Mar 10th, 2021
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0243.html)
 
 ## Topics
 * Back to Joplin! Need to clean up the code, and eventually I'll put it in the Joy of Coding Episode Guide repository.

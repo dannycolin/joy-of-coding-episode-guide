@@ -2,13 +2,12 @@
 date: 2024-07-03
 number: 371
 airmozilla: https://mzl.la/joy-of-coding-2024-07-03
+agenda: https://mikeconley.ca/joc/agendas/Episode-0371.html
 ---
 
 # Episode 371: Jul 3rd, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0371.html)
 
 ## Topics
 * Designing and writing tests for the OSKeyStore recovery mechanism

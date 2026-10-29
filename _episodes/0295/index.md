@@ -2,13 +2,12 @@
 date: 2022-07-27
 number: 295
 airmozilla: https://mzl.la/joy-of-coding-2022-07-27
+agenda: https://mikeconley.ca/joc/agendas/Episode-0295.html
 ---
 
 # Episode 295: Jul 27th, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0295.html)
 
 ## Topics
 * From the form: "You might want to mark [1738027](https://bugzil.la/1738027) a duplicate of [1779280](https://bugzil.la/1779280) from this stream, as it has the links back to the Tor bug 25660"

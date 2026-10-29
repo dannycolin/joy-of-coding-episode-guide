@@ -2,13 +2,12 @@
 date: 2025-03-12
 number: 395
 airmozilla: https://mzl.la/joy-of-coding-2025-03-12
+agenda: https://mikeconley.ca/joc/agendas/Episode-0395.html
 ---
 
 # Episode 395: Mar 12th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0395.html)
 
 ## Topics
 * "Smart" tab groups with local-only models examining the tabs to suggest tab group names and more tabs to add

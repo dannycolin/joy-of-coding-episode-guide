@@ -2,13 +2,12 @@
 date: 2019-05-15
 number: 178
 airmozilla: https://air.mozilla.org/event-redirect/330401/
+agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=18247142-4377-43d6-b73e-0fbe98d07bcf&noteKey=5da7a358d262eff0&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F18247142-4377-43d6-b73e-0fbe98d07bcf%2F5da7a358d262eff0&title=May%2B15th%252C%2B2019%2B-%2BEpisode%2B178
 ---
 
 # Episode 178: May 15th, 2019
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=18247142-4377-43d6-b73e-0fbe98d07bcf&noteKey=5da7a358d262eff0&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F18247142-4377-43d6-b73e-0fbe98d07bcf%2F5da7a358d262eff0&title=May%2B15th%252C%2B2019%2B-%2BEpisode%2B178)
 
 ## Topics
 * [Bug 1533949](https://bugzilla.mozilla.org/show_bug.cgi?id=1533949) - [Fission] Make BrowserChild ready for Fission

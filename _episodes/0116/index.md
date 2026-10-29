@@ -2,11 +2,9 @@
 date: 2017-10-11
 number: 116
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-116/
+agenda: https://www.evernote.com/shard/s434/sh/fde2097a-b4ed-4144-9d70-18f51e95bc8c/d7562cdbe7f38093A
 ---
 
 # Episode 116: October 11th, 2017
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/shard/s434/sh/fde2097a-b4ed-4144-9d70-18f51e95bc8c/d7562cdbe7f38093A)
-

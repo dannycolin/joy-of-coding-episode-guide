@@ -2,13 +2,12 @@
 date: 2024-06-19
 number: 369
 airmozilla: https://mzl.la/joy-of-coding-2024-06-19
+agenda: https://mikeconley.ca/joc/agendas/Episode-0369.html
 ---
 
 # Episode 369: Jun 19th, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0369.html)
 
 ## Topics
 * WindowsJumpList - the story is finally over!

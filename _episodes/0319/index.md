@@ -2,13 +2,12 @@
 date: 2023-03-22
 number: 319
 airmozilla: https://mzl.la/joy-of-coding-2023-03-22
+agenda: https://mikeconley.ca/joc/agendas/Episode-0319.html
 ---
 
 # Episode 319: Mar 22nd, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0319.html)
 
 ## Topics
 * New Migration Wizard - Sneak peek - by setting browser.migrate.content-modal.enabled to true in about:config. No need to restart. 

@@ -2,13 +2,12 @@
 date: 2018-03-28
 number: 134
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-134/
+agenda: https://www.evernote.com/l/AbLsl47akzFOx7LSG3nCFFYJop2UZZfCXzI
 ---
 
 # Episode 134: March 28th, 2018
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/l/AbLsl47akzFOx7LSG3nCFFYJop2UZZfCXzI)
 
 ## Topics
 

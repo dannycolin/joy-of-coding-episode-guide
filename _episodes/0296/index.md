@@ -2,13 +2,12 @@
 date: 2022-08-03
 number: 296
 airmozilla: https://mzl.la/joy-of-coding-2022-08-03
+agenda: https://mikeconley.ca/joc/agendas/Episode-0296.html
 ---
 
 # Episode 296: Aug 3rd, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0296.html)
 
 ## Topics
 * [Bug 1779280](https://bugzilla.mozilla.org/show_bug.cgi?id=1779280) - Still possible to open windows at about:privatebrowsing from the Windows Task Tray menu when in perma-PB mode.

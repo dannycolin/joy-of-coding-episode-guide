@@ -2,13 +2,12 @@
 date: 2023-10-11
 number: 342
 airmozilla: https://mzl.la/joy-of-coding-2023-10-11
+agenda: https://mikeconley.ca/joc/agendas/Episode-0342.html
 ---
 
 # Episode 342: Oct 11th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0342.html)
 
 ## Topics
 * [ ] While we wait for builds, let's start cleaning out the old migration wizard.

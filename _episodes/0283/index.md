@@ -2,13 +2,12 @@
 date: 2022-03-16
 number: 283
 airmozilla: https://mzl.la/joy-of-coding-2022-03-16
+agenda: https://mikeconley.ca/joc/agendas/Episode-0283.html
 ---
 
 # Episode 283: Mar 16th, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0283.html)
 
 ## Topics
 * Finishing up hashtable documentation patch

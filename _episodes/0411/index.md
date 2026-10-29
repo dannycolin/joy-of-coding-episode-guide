@@ -2,13 +2,12 @@
 date: 2025-07-30
 number: 411
 airmozilla: https://mzl.la/joy-of-coding-2025-07-30
+agenda: https://mikeconley.ca/joc/agendas/Episode-0411.html
 ---
 
 # Episode 411: Jul 30th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0411.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/62cb34e898154ae09e9cd1cee238632c "keanu code 411")

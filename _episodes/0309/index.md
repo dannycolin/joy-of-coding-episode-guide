@@ -2,13 +2,12 @@
 date: 2022-11-30
 number: 309
 airmozilla: https://mzl.la/joy-of-coding-2022-11-30
+agenda: https://mikeconley.ca/joc/agendas/Episode-0309.html
 ---
 
 # Episode 309: Nov 30th, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0309.html)
 
 ## Topics
 * Migrator reusable component infrastructure is being added in [this patch](https://phabricator.services.mozilla.com/D162623)

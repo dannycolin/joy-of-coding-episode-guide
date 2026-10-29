@@ -2,13 +2,12 @@
 date: 2017-11-15
 number: 120
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-120/
+agenda: https://www.evernote.com/l/AbLLTb_nSeNCJqP8LLQ95wmXyBPPD1HDmIo
 ---
 
 # Episode 120: November 15th, 2017
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/l/AbLLTb_nSeNCJqP8LLQ95wmXyBPPD1HDmIo)
 
 ## Topics
 * `mach try fuzzy` to trigger very specific tests to run on automation

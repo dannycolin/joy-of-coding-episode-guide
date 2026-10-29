@@ -2,13 +2,12 @@
 date: 2026-01-21
 number: 426
 airmozilla: https://mzl.la/joy-of-coding-2026-01-21
+agenda: https://mikeconley.ca/joc/agendas/Episode-0426.html
 ---
 
 # Episode 426: Jan 21th, 2026
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0426.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/3135123458e849fe9bdffc7f19501208 "keanu code 426")

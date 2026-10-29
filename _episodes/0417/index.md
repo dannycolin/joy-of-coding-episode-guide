@@ -2,13 +2,12 @@
 date: 2025-10-01
 number: 417
 airmozilla: https://mzl.la/joy-of-coding-2025-10-01
+agenda: https://mikeconley.ca/joc/agendas/Episode-0417.html
 ---
 
 # Episode 417: Oct 1st, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0417.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/eec94ed73d5642c3a5a6610096454cc2 "keanu code 417")

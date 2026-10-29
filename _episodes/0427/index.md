@@ -2,13 +2,12 @@
 date: 2026-01-28
 number: 427
 airmozilla: https://mzl.la/joy-of-coding-2026-01-28
+agenda: https://mikeconley.ca/joc/agendas/Episode-0427.html
 ---
 
 # Episode 427: Jan 28th, 2026
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0427.html)
 
 ## Topics
 * HTTP Error Code 427? Does not exist apparently. ¯\_(ツ)_/¯

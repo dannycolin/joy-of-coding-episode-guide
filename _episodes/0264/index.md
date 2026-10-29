@@ -2,13 +2,12 @@
 date: 2021-09-29
 number: 264
 airmozilla: https://mzl.la/joy-of-coding-2021-09-29
+agenda: https://mikeconley.ca/joc/agendas/Episode-0264.html
 ---
 
 # Episode 264: Sep 29th, 2021
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0264.html)
 
 ## Topics
 * [Fixing a security bug blog](https://blog.mozilla.org/attack-and-defense/2021/09/29/fixing-a-security-bug-by-changing-a-function-signature/)

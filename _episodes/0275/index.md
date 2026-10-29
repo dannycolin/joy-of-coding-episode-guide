@@ -2,13 +2,12 @@
 date: 2022-01-19
 number: 275
 airmozilla: https://mzl.la/joy-of-coding-2022-01-19
+agenda: https://mikeconley.ca/joc/agendas/Episode-0275.html
 ---
 
 # Episode 275: Jan 19th, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0275.html)
 
 ## Topics
 * FOSDEM! [Mozilla](https://fosdem.org/2022/schedule/track/mozilla/) has a booth. Mike is doing a talk, 5th february. It's free! 

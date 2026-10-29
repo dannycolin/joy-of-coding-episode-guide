@@ -2,13 +2,12 @@
 date: 2025-06-18
 number: 406
 airmozilla: https://mzl.la/joy-of-coding-2025-06-18
+agenda: https://mikeconley.ca/joc/agendas/Episode-0406.html
 ---
 
 # Episode 406: Jun 18th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0406.html)
 
 ## Topics
 * FilterAdult changes landed! \o/

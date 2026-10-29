@@ -2,13 +2,12 @@
 date: 2023-03-08
 number: 318
 airmozilla: https://mzl.la/joy-of-coding-2023-03-08
+agenda: https://mikeconley.ca/joc/agendas/Episode-0318.html
 ---
 
 # Episode 318: Mar 8th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0318.html)
 
 ## Topics
 * [Bug 1529276](https://bugzilla.mozilla.org/show_bug.cgi?id=1529276) - resource:///modules/WindowsJumpLists.jsm still does main thread I/O

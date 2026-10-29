@@ -2,13 +2,12 @@
 date: 2021-07-07
 number: 254
 airmozilla: https://mzl.la/joy-of-coding-2021-07-07
+agenda: https://mikeconley.ca/joc/agendas/Episode-0254.html
 ---
 
 # Episode 254: Jul 7th, 2021
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0254.html)
 
 ## Topics
 * [Bug 1712750](https://bugzilla.mozilla.org/show_bug.cgi?id=1712750) - Clear Recent History modal has the Old UI

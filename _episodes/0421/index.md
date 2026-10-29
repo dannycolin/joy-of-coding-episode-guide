@@ -2,13 +2,12 @@
 date: 2025-11-26
 number: 421
 airmozilla: https://mzl.la/joy-of-coding-2025-11-26
+agenda: https://mikeconley.ca/joc/agendas/Episode-0421.html
 ---
 
 # Episode 421: Nov 26th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0421.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/898f11a2e31c44df81c5aa80eafe99bb "keanu code 421")

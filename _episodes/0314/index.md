@@ -2,13 +2,12 @@
 date: 2023-02-01
 number: 314
 airmozilla: https://mzl.la/joy-of-coding-2023-02-01
+agenda: https://mikeconley.ca/joc/agendas/Episode-0314.html
 ---
 
 # Episode 314: Feb 1st, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0314.html)
 
 ## Topics
 * [Let's review this patch!](https://phabricator.services.mozilla.com/D166949)

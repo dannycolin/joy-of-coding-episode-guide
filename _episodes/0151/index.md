@@ -2,12 +2,12 @@
 date: 2018-10-03
 number: 151
 airmozilla: https://onlinexperiences.com/Launch/Event.htm?ShowKey=44908&DisplayItem=E305051
+agenda: https://www.evernote.com/client/snv?noteGuid=1bf24a7c-16c6-431d-8007-cf0fe9966d73&noteKey=7d29583028e777e9&var=b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F1bf24a7c-16c6-431d-8007-cf0fe9966d73%2F7d29583028e777e9&exp=ENB3538
 ---
 
 # Episode 151: October 3rd, 2018
 
 ## Links
-* [Evernote Agenda](https://www.evernote.com/client/snv?noteGuid=1bf24a7c-16c6-431d-8007-cf0fe9966d73&noteKey=7d29583028e777e9&var=b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F1bf24a7c-16c6-431d-8007-cf0fe9966d73%2F7d29583028e777e9&exp=ENB3538)
 
 ## Topics
 * Update [Bug 1492482](https://bugzilla.mozilla.org/show_bug.cgi?id=1492482) - Stop sending CPOWs from RemoteWebProgress.jsm  [Notes](https://www.evernote.com/client/snv?noteGuid=45a2bf63-bbc5-44b1-9377-1446fbae95ad&noteKey=36c821586733a679&var=b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F45a2bf63-bbc5-44b1-9377-1446fbae95ad%2F36c821586733a679&exp=ENB3538)

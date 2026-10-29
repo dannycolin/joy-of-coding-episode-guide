@@ -2,13 +2,12 @@
 date: 2026-02-04
 number: 428
 airmozilla: https://mzl.la/joy-of-coding-2026-02-04
+agenda: https://mikeconley.ca/joc/agendas/Episode-0428.html
 ---
 
 # Episode 428: Feb 4th, 2026
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0428.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/8581655ae38f4ed1b35ffa890eecbf34 "keanu code 428")

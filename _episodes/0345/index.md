@@ -2,13 +2,12 @@
 date: 2023-11-01
 number: 345
 airmozilla: https://mzl.la/joy-of-coding-2023-11-01
+agenda: https://mikeconley.ca/joc/agendas/Episode-0345.html
 ---
 
 # Episode 345: Nov 1st, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0345.html)
 
 ## Topics
 * Q: I would love if you could explain how to see what the MSRV of a specific Firefox release is using. The schedule on https://firefox-source-docs.mozilla.org/writing-rust-code/update-policy.html#schedule hasn't been updated for Firefox 117 and 118 (and now 119). I filed a docs bug (https://bugzilla.mozilla.org/show_bug.cgi?id=1860181), but it hasn't gained any traction. Not that I'm expecting you to do anything about this, I was just hoping you could point me in the right direction of figuring out what the MSRV for a specific Firefox release is.

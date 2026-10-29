@@ -2,10 +2,9 @@
 date: 2016-01-20
 number: 41
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-41/
+agenda: https://www.evernote.com/l/AbLYqyzxm5ZD1qO0OMMXgTALrBI8nA5HIF8
 ---
 
 # Episode 41: January 20th, 2016 - Agenda
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/l/AbLYqyzxm5ZD1qO0OMMXgTALrBI8nA5HIF8)

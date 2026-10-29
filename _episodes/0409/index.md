@@ -2,13 +2,12 @@
 date: 2025-07-09
 number: 409
 airmozilla: https://mzl.la/joy-of-coding-2025-07-09
+agenda: https://mikeconley.ca/joc/agendas/Episode-0409.html
 ---
 
 # Episode 409: Jul 9th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0409.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/d4c22c7458a84d9eb1916d1ca94912bf "keanu code 409")

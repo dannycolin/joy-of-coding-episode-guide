@@ -2,13 +2,12 @@
 date: 2026-03-25
 number: 434
 airmozilla: https://mzl.la/joy-of-coding-2026-03-25
+agenda: https://mikeconley.ca/joc/agendas/Episode-0434.html
 ---
 
 # Episode 434: Mar 25th, 2026
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0434.html)
 
 ## Topics
 * Go through more review feedback on the remote renderer

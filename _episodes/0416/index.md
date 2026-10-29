@@ -2,13 +2,12 @@
 date: 2025-09-24
 number: 416
 airmozilla: https://mzl.la/joy-of-coding-2025-09-24
+agenda: https://mikeconley.ca/joc/agendas/Episode-0416.html
 ---
 
 # Episode 416: Sep 24th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0416.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/9c953d188c7f402086dc6c26a551d5b3 "keanu code 416")

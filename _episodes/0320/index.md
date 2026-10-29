@@ -2,13 +2,12 @@
 date: 2023-04-05
 number: 320
 airmozilla: https://mzl.la/joy-of-coding-2023-04-05
+agenda: https://mikeconley.ca/joc/agendas/Episode-0320.html
 ---
 
 # Episode 320: Apr 5th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0320.html)
 
 ## Topics
 * New Migration Wizard - working on file import for bookmarks!

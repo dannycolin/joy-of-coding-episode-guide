@@ -2,13 +2,12 @@
 date: 2018-11-28
 number: 159
 airmozilla: https://air.mozilla.org/event-redirect/314181/
+agenda: https://www.evernote.com/client/snv?noteGuid=071c3784-6995-4b07-9322-eee14c7a0630&noteKey=dc681df5fab0019c&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F071c3784-6995-4b07-9322-eee14c7a0630%2Fdc681df5fab0019c&title=November%2B28th%252C%2B2018%2B-%2BEpisode%2B159
 ---
 
 # Episode 159: November 28th, 2018
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/client/snv?noteGuid=071c3784-6995-4b07-9322-eee14c7a0630&noteKey=dc681df5fab0019c&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F071c3784-6995-4b07-9322-eee14c7a0630%2Fdc681df5fab0019c&title=November%2B28th%252C%2B2018%2B-%2BEpisode%2B159)
 
 ## Topics
 * [Bug 1510631](https://bugzilla.mozilla.org/show_bug.cgi?id=1510631) - toolbuttons placed next to menubar unexpectedly move to the right most end

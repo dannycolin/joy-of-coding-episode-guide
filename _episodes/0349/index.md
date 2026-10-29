@@ -2,13 +2,12 @@
 date: 2023-12-06
 number: 349
 airmozilla: https://mzl.la/joy-of-coding-2023-12-06
+agenda: https://mikeconley.ca/joc/agendas/Episode-0349.html
 ---
 
 # Episode 349: Dec 6th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0349.html)
 
 ## Topics
 * Questions:

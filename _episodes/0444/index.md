@@ -2,13 +2,12 @@
 date: 2026-07-22
 number: 444
 airmozilla: https://mzl.la/joy-of-coding-2026-07-22
+agenda: https://mikeconley.ca/joc/agendas/Episode-0444.html
 ---
 
 # Episode 444: Jul 22nd, 2026
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0444.html)
 
 ## Topics
 * Why isn't moz-label appearing properly? What we we doing wrong in usage?

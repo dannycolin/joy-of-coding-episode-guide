@@ -2,13 +2,12 @@
 date: 2023-08-02
 number: 334
 airmozilla: https://mzl.la/joy-of-coding-2023-08-02
+agenda: https://mikeconley.ca/joc/agendas/Episode-0334.html
 ---
 
 # Episode 334: Aug 2nd, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0334.html)
 
 ## Topics
 * Firefox View Next

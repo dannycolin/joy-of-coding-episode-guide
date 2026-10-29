@@ -2,13 +2,12 @@
 date: 2026-02-25
 number: 431
 airmozilla: https://mzl.la/joy-of-coding-2026-02-25
+agenda: https://mikeconley.ca/joc/agendas/Episode-0431.html
 ---
 
 # Episode 431: Feb 25th, 2026
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0431.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/6b2852e03a62474293c223c1c94a3205 "keanu code 431")

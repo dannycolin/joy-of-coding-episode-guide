@@ -2,13 +2,12 @@
 date: 2022-06-22
 number: 292
 airmozilla: https://mzl.la/joy-of-coding-2022-06-22
+agenda: https://mikeconley.ca/joc/agendas/Episode-0292.html
 ---
 
 # Episode 292: Jun 22nd, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0292.html)
 
 ## Topics
 * The return of The Joy of Profiling! Soon!

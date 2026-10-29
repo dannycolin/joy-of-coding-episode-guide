@@ -2,13 +2,12 @@
 date: 2024-05-15
 number: 366
 airmozilla: https://mzl.la/joy-of-coding-2024-05-15
+agenda: https://mikeconley.ca/joc/agendas/Episode-0366.html
 ---
 
 # Episode 366: May 15th, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0366.html)
 
 ## Topics
 * No episode next week or the week after due to travel. Back on June 5th!

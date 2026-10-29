@@ -2,13 +2,12 @@
 date: 2019-09-18
 number: 189
 airmozilla: https://air.mozilla.org/event-redirect/342295/
+agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=1d3ee8f8-4e82-46b4-bb4e-04e9a9258f18&noteKey=32801a3ad676d439&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F1d3ee8f8-4e82-46b4-bb4e-04e9a9258f18%2F32801a3ad676d439&title=September%2B18th%252C%2B2019%2B-%2BEpisode%2B189
 ---
 
 # Episode 189: Sep 18th, 2019
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=1d3ee8f8-4e82-46b4-bb4e-04e9a9258f18&noteKey=32801a3ad676d439&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F1d3ee8f8-4e82-46b4-bb4e-04e9a9258f18%2F32801a3ad676d439&title=September%2B18th%252C%2B2019%2B-%2BEpisode%2B189)
 
 ## Topics
 * Update on the replacement of IRC

@@ -2,13 +2,12 @@
 date: 2024-04-17
 number: 363
 airmozilla: https://mzl.la/joy-of-coding-2024-04-17
+agenda: https://mikeconley.ca/joc/agendas/Episode-0363.html
 ---
 
 # Episode 363: Apr 17th, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0363.html)
 
 ## Topics
 * justdave hacking on Bugzilla

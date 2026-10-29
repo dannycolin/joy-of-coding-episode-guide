@@ -2,13 +2,12 @@
 date: 2018-01-17
 number: 126
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-126/
+agenda: https://www.evernote.com/l/AbLVMtSyZddO_qTWhtxOFUtPO6L99v0zT6M
 ---
 
 # Episode 126: January 17th, 2018
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/l/AbLVMtSyZddO_qTWhtxOFUtPO6L99v0zT6M)
 
 ## Topics
 

@@ -2,13 +2,12 @@
 date: 2025-08-06
 number: 412
 airmozilla: https://mzl.la/joy-of-coding-2025-08-06
+agenda: https://mikeconley.ca/joc/agendas/Episode-0412.html
 ---
 
 # Episode 412: Aug 6th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0412.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/77ceb7a8a5b144afb46a4c60bc4cbb11 "keanu code 412")

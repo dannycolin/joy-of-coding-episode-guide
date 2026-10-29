@@ -2,13 +2,12 @@
 date: 2023-01-18
 number: 312
 airmozilla: https://mzl.la/joy-of-coding-2023-01-18
+agenda: https://mikeconley.ca/joc/agendas/Episode-0312.html
 ---
 
 # Episode 312: Jan 18th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0312.html)
 
 ## Topics
 * No WindowsJumpList today. It's definitely possible to sign-in from home over the VPN but latency over Remote Desktop is far too high to be usable. :/ I'll go into the office next week!

@@ -2,13 +2,12 @@
 date: 2022-02-02
 number: 277
 airmozilla: https://mzl.la/joy-of-coding-2022-02-02
+agenda: https://mikeconley.ca/joc/agendas/Episode-0277.html
 ---
 
 # Episode 277: Feb 2nd, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0277.html)
 
 ## Topics
 * FOSDEM! [Mozilla has a booth](https://fosdem.org/2022/schedule/track/mozilla/). I'm doing a talk. It's free! Lots of other interesting talks, too.

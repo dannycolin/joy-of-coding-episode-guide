@@ -2,13 +2,12 @@
 date: 2026-05-06
 number: 439
 airmozilla: https://mzl.la/joy-of-coding-2026-05-06
+agenda: https://mikeconley.ca/joc/agendas/Episode-0439.html
 ---
 
 # Episode 439: May 6th, 2026
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0439.html)
 
 ## Topics
 * Q:

@@ -2,13 +2,12 @@
 date: 2018-12-19
 number: 160
 airmozilla: https://air.mozilla.org/event-redirect/316849/
+agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=69ffde3e-2816-45be-8783-75b431398dce&noteKey=fa62d7d9b282ede2&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F69ffde3e-2816-45be-8783-75b431398dce%2Ffa62d7d9b282ede2&title=December%2B19th%252C%2B2018%2B-%2BEpisode%2B160
 ---
 
 # Episode 160: December 19th, 2018
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=69ffde3e-2816-45be-8783-75b431398dce&noteKey=fa62d7d9b282ede2&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F69ffde3e-2816-45be-8783-75b431398dce%2Ffa62d7d9b282ede2&title=December%2B19th%252C%2B2018%2B-%2BEpisode%2B160)
 
 ## Topics
 * Holiday, back on January 9th, 2019

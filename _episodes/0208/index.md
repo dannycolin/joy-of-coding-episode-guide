@@ -2,13 +2,12 @@
 date: 2020-03-18
 number: 208
 airmozilla: https://air.mozilla.org/event-redirect/359654/
+agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=c4494bc4-09a8-474d-a89b-d027ff8f87dc&noteKey=59ec4c9087c616dd&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fc4494bc4-09a8-474d-a89b-d027ff8f87dc%2F59ec4c9087c616dd&title=March%2B18th%252C%2B2020%2B-%2BEpisode%2B208
 ---
 
 # Episode 208: Mar 18th, 2020
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=c4494bc4-09a8-474d-a89b-d027ff8f87dc&noteKey=59ec4c9087c616dd&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fc4494bc4-09a8-474d-a89b-d027ff8f87dc%2F59ec4c9087c616dd&title=March%2B18th%252C%2B2020%2B-%2BEpisode%2B208)
 
 ## Topics
 * Pandemic edition! Mike is streaming from home! Let's hope the wifi holds out (It did!)

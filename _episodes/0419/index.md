@@ -2,13 +2,12 @@
 date: 2025-11-05
 number: 419
 airmozilla: https://mzl.la/joy-of-coding-2025-11-05
+agenda: https://mikeconley.ca/joc/agendas/Episode-0419.html
 ---
 
 # Episode 419: Nov 5th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0419.html)
 
 ## Topics
 * Brought to you by HTTP status code 419 which... doesn't exist in the IANA HTTP status code list!

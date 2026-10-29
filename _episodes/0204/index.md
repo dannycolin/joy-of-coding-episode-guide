@@ -2,13 +2,12 @@
 date: 2020-01-22
 number: 204
 airmozilla: https://air.mozilla.org/event-redirect/353385/
+agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=e7a574a1-815e-4389-873c-35976a716668&noteKey=51003e0d3f3163fe&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fe7a574a1-815e-4389-873c-35976a716668%2F51003e0d3f3163fe&title=January%2B22nd%252C%2B2020%2B-%2BEpisode%2B204
 ---
 
 # Episode 204: Jan 22nd, 2020
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=e7a574a1-815e-4389-873c-35976a716668&noteKey=51003e0d3f3163fe&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fe7a574a1-815e-4389-873c-35976a716668%2F51003e0d3f3163fe&title=January%2B22nd%252C%2B2020%2B-%2BEpisode%2B204)
 
 ## Topics
 * [Bug 1576917](https://bugzilla.mozilla.org/show_bug.cgi?id=1576917) - Port PopupBlockingChild from a message manager actor to a JSWindowActor - [Patch](https://phabricator.services.mozilla.com/D53075)

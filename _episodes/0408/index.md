@@ -2,13 +2,12 @@
 date: 2025-07-02
 number: 408
 airmozilla: https://mzl.la/joy-of-coding-2025-07-02
+agenda: https://mikeconley.ca/joc/agendas/Episode-0408.html
 ---
 
 # Episode 408: Jul 2nd, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0408.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/c3aaecda87ce4d18a8c739da53b37dc6 "keanu code 408")

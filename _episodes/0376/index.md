@@ -2,13 +2,12 @@
 date: 2024-09-04
 number: 376
 airmozilla: https://mzl.la/joy-of-coding-2024-09-04
+agenda: https://mikeconley.ca/joc/agendas/Episode-0376.html
 ---
 
 # Episode 376: Sep 4th, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0376.html)
 
 ## Topics
 * I've started to use Git for my mozilla VCS work

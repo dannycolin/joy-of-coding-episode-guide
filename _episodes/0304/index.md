@@ -2,13 +2,12 @@
 date: 2022-10-26
 number: 304
 airmozilla: https://mzl.la/joy-of-coding-2022-10-26
+agenda: https://mikeconley.ca/joc/agendas/Episode-0304.html
 ---
 
 # Episode 304: Oct 26th, 2022
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0304.html)
 
 ## Topics
 * A very spoooOOOOOooky episode!

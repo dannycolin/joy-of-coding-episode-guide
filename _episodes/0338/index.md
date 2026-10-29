@@ -2,13 +2,12 @@
 date: 2023-09-13
 number: 338
 airmozilla: https://mzl.la/joy-of-coding-2023-09-13
+agenda: https://mikeconley.ca/joc/agendas/Episode-0338.html
 ---
 
 # Episode 338: Sep 13th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0338.html)
 
 ## Topics
 * [Faster Vue.js execution](https://hacks.mozilla.org/2023/09/faster-vue-js-execution-in-firefox/) in Firefox

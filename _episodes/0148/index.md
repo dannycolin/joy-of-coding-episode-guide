@@ -2,12 +2,12 @@
 date: 2018-09-05
 number: 148
 airmozilla: https://onlinexperiences.com/Launch/Event.htm?ShowKey=44908&DisplayItem=E300562
+agenda: https://www.evernote.com/client/snv?noteGuid=9ef78540-e4bf-4ded-a63c-4adb9aa8c738&noteKey=b49cb20615372885&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F9ef78540-e4bf-4ded-a63c-4adb9aa8c738%2Fb49cb20615372885
 ---
 
 # Episode 148: September 5th, 2018
 
 ## Links
-* [Evernote Agenda](https://www.evernote.com/client/snv?noteGuid=9ef78540-e4bf-4ded-a63c-4adb9aa8c738&noteKey=b49cb20615372885&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F9ef78540-e4bf-4ded-a63c-4adb9aa8c738%2Fb49cb20615372885)
 
 ## Shoutouts
 * [Les Orchard](https://www.twitch.tv/lmorchard/videos/all) Hacks on [Firefox Color](https://color.firefox.com)

@@ -2,13 +2,12 @@
 date: 2020-06-03
 number: 217
 airmozilla: https://air.mozilla.org/event-redirect/378329/
+agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=f78256b7-4e72-4b37-a437-a0a293ee1d9a&noteKey=6a2f2163761f9187&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Ff78256b7-4e72-4b37-a437-a0a293ee1d9a%2F6a2f2163761f9187&title=June%2B3rd%252C%2B2020%2B-%2BEpisode%2B217
 ---
 
 # Episode 217: Jun 3rd, 2020
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=f78256b7-4e72-4b37-a437-a0a293ee1d9a&noteKey=6a2f2163761f9187&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Ff78256b7-4e72-4b37-a437-a0a293ee1d9a%2F6a2f2163761f9187&title=June%2B3rd%252C%2B2020%2B-%2BEpisode%2B217)
 
 ## Topics
 * Pandemic edition! Mike is streaming from home! Let's hope the wifi holds out

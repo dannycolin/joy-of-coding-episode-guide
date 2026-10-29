@@ -2,13 +2,12 @@
 date: 2026-04-01
 number: 435
 airmozilla: https://mzl.la/joy-of-coding-2026-04-01
+agenda: https://mikeconley.ca/joc/agendas/Episode-0435.html
 ---
 
 # Episode 435: Apr 1st, 2026
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0435.html)
 
 ## Topics
 * Q: "could you please go over the about:config preferences for the Firefox Nova re-theme?"

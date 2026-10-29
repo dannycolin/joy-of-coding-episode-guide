@@ -2,13 +2,12 @@
 date: 2026-03-11
 number: 432
 airmozilla: https://mzl.la/joy-of-coding-2026-03-11
+agenda: https://mikeconley.ca/joc/agendas/Episode-0432.html
 ---
 
 # Episode 432: Mar 11th, 2026
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0432.html)
 
 ## Topics
 * No HTTP error code 432 in the standard

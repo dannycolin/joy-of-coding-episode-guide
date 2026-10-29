@@ -2,13 +2,12 @@
 date: 2025-08-20
 number: 414
 airmozilla: https://mzl.la/joy-of-coding-2025-08-20
+agenda: https://mikeconley.ca/joc/agendas/Episode-0414.html
 ---
 
 # Episode 414: Aug 20th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0414.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/23f4022ac0c84e4eb7903704898bcdf7 "keanu code 414")

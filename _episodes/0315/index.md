@@ -2,13 +2,12 @@
 date: 2023-02-08
 number: 315
 airmozilla: https://mzl.la/joy-of-coding-2023-02-08
+agenda: https://mikeconley.ca/joc/agendas/Episode-0315.html
 ---
 
 # Episode 315: Feb 8th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0315.html)
 
 ## Topics
 * Still hacking on WindowsJumpLists!

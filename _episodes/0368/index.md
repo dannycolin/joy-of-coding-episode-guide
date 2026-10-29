@@ -2,13 +2,12 @@
 date: 2024-06-12
 number: 368
 airmozilla: https://mzl.la/joy-of-coding-2024-06-12
+agenda: https://mikeconley.ca/joc/agendas/Episode-0368.html
 ---
 
 # Episode 368: Jun 12th, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0368.html)
 
 ## Topics
 * Commandeer, add some changes to, and then land a colleagues patch

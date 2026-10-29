@@ -2,13 +2,12 @@
 date: 2024-08-07
 number: 375
 airmozilla: https://mzl.la/joy-of-coding-2024-08-07
+agenda: https://mikeconley.ca/joc/agendas/Episode-0375.html
 ---
 
 # Episode 375: Aug 7th, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0375.html)
 
 ## Topics
 * No episode next week or the week after - I'll be back on August 28th!

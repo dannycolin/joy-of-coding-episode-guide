@@ -2,13 +2,12 @@
 date: 2025-12-17
 number: 423
 airmozilla: https://mzl.la/joy-of-coding-2025-12-17
+agenda: https://mikeconley.ca/joc/agendas/Episode-0423.html
 ---
 
 # Episode 423: Dec 17th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0423.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/73d8a9361b9a4298ad3ddcaa113ca143 "keanu code 423")

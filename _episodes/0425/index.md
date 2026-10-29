@@ -2,13 +2,12 @@
 date: 2026-01-14
 number: 425
 airmozilla: https://mzl.la/joy-of-coding-2026-01-14
+agenda: https://mikeconley.ca/joc/agendas/Episode-0425.html
 ---
 
 # Episode 425: Jan 14th, 2026
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0425.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/b5e029093db64440a2071604d6e5a9b9 "keanu code 425")

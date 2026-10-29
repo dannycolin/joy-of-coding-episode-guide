@@ -2,13 +2,12 @@
 date: 2026-01-07
 number: 424
 airmozilla: https://mzl.la/joy-of-coding-2026-01-07
+agenda: https://mikeconley.ca/joc/agendas/Episode-0424.html
 ---
 
 # Episode 424: Jan 7th, 2026
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0424.html)
 
 ## Topics
 * ![Alt text](https://keanustatus.edgecompute.app/e959ccbb747245cd.jpg "keanu code 424")

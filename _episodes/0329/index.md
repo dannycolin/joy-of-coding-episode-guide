@@ -2,13 +2,12 @@
 date: 2023-06-21
 number: 329
 airmozilla: https://mzl.la/joy-of-coding-2023-06-21
+agenda: https://mikeconley.ca/joc/agendas/Episode-0329.html
 ---
 
 # Episode 329: Jun 21st, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0329.html)
 
 ## Topics
 * Volume control in Picture-in-Picture! That's in Nightly right now, might roll out to users in Firefox 116.

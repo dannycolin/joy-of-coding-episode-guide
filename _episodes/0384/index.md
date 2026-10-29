@@ -2,13 +2,12 @@
 date: 2024-11-20
 number: 384
 airmozilla: https://mzl.la/joy-of-coding-2024-11-20
+agenda: https://mikeconley.ca/joc/agendas/Episode-0384.html
 ---
 
 # Episode 384: Nov 20th, 2024
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0384.html)
 
 ## Topics
 * Let's! Keep! Going! With documention - CustomizeMode.sys.mjs!

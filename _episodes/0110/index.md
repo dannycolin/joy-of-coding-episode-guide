@@ -2,13 +2,12 @@
 date: 2017-08-23
 number: 110
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-110/
+agenda: https://www.evernote.com/l/AbJLFX0rmFlMGJj5CIu42iM_aNc5qvnLHgk
 ---
 
 # Episode 110: August 23rd, 2017
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/l/AbJLFX0rmFlMGJj5CIu42iM_aNc5qvnLHgk)
 
 ## Topics
 * Troubleshooting mochitest perma-orange caused by [bug 1385453](https://bugzilla.mozilla.org/show_bug.cgi?id=1385453)

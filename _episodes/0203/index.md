@@ -2,13 +2,12 @@
 date: 2020-01-15
 number: 203
 airmozilla: https://air.mozilla.org/event-redirect/353384/
+agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=7af6dffd-ed79-441a-b24d-9b90df6e2b07&noteKey=90463e29479c4d50&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F7af6dffd-ed79-441a-b24d-9b90df6e2b07%2F90463e29479c4d50&title=January%2B16th%252C%2B2020%2B-%2BEpisode%2B203
 ---
 
 # Episode 203: Jan 15th, 2020
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=7af6dffd-ed79-441a-b24d-9b90df6e2b07&noteKey=90463e29479c4d50&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F7af6dffd-ed79-441a-b24d-9b90df6e2b07%2F90463e29479c4d50&title=January%2B16th%252C%2B2020%2B-%2BEpisode%2B203)
 
 ## Topics
 * Blog posts Mike helped write:

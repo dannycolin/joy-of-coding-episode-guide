@@ -2,13 +2,12 @@
 date: 2025-08-13
 number: 413
 airmozilla: https://mzl.la/joy-of-coding-2025-08-13
+agenda: https://mikeconley.ca/joc/agendas/Episode-0413.html
 ---
 
 # Episode 413: Aug 13th, 2025
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0413.html)
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/33432fe483234bb89ce1f0387f13e07d "keanu code 413")

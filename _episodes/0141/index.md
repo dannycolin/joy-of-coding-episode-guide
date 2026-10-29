@@ -2,13 +2,13 @@
 date: 2018-06-06
 number: 141
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-141/
+agenda: https://www.evernote.com/l/AbIm2WYcK7xAP4LjLkQa_RjZikPTWnSXtdU
 ---
 
 # Episode 141: Jun 6th, 2018
 
 ## Links
 
-* [Evernote Agenda](https://www.evernote.com/l/AbIm2WYcK7xAP4LjLkQa_RjZikPTWnSXtdU)
 * [Adso!](https://github.com/mikeconley/joy-of-coding-episode-guide/tree/master/utils/adso) Want to help me out? Please help correct transcriptions of episodes at [Amara](https://amara.org)
     * [Here is a spreadsheet](https://docs.google.com/spreadsheets/d/1LiDWBkZ762LZQDYyFPmiXEGCJLT7cnLiAh3inehjdWc/edit#gid=0) with current auto-transcription state
 

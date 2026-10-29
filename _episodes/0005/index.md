@@ -2,6 +2,7 @@
 date: 2015-03-11
 number: 5
 youtube: https://www.youtube.com/watch?v=wCb4fh8K3jE
+agenda: https://www.evernote.com/shard/s434/sh/4e04b929-05fc-4e97-86e1-7c661cca7519/973390e7243aa514
 ---
 
 # Episode 5: Mar 11, 2015
@@ -9,7 +10,7 @@ youtube: https://www.youtube.com/watch?v=wCb4fh8K3jE
 ## Links
 
 * [Blog post on this episode](https://mikeconley.ca/blog/2015/03/11/the-joy-of-coding-episode-5-much-code-review/)
-* [Evernote Agenda](https://www.evernote.com/shard/s434/sh/4e04b929-05fc-4e97-86e1-7c661cca7519/973390e7243aa514)
+
 ## Topics
 
 * [Bug 1140898 – [e10s] “View” > “Switch](https://bugzilla.mozilla.org/show_bug.cgi?id=1090448)

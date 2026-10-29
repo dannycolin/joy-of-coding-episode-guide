@@ -2,13 +2,12 @@
 date: 2021-10-20
 number: 266
 airmozilla: https://mzl.la/joy-of-coding-2021-10-20
+agenda: https://mikeconley.ca/joc/agendas/Episode-0266.html
 ---
 
 # Episode 266: Oct 20th, 2021
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0266.html)
 
 ## Topics
 * [Bug 1732572](https://bugzilla.mozilla.org/show_bug.cgi?id=1732572) - WebRTC global sharing indicator bug on macOS

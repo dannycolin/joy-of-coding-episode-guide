@@ -2,13 +2,12 @@
 date: 2021-09-15
 number: 262
 airmozilla: https://mzl.la/joy-of-coding-2021-09-15
+agenda: https://mikeconley.ca/joc/agendas/Episode-0262.html
 ---
 
 # Episode 262: Sep 15th, 2021
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0262.html)
 
 ## Topics
 * [Bug 1707582](https://bugzilla.mozilla.org/show_bug.cgi?id=1707582) - Bug 1707582 - Intermittent /modules/test/browser/browser_UsageTelemetry_interaction.js | Expected to see the correct value for bookmark-item in bookmarks_bar. - "undefined" == 1 - JS frame :: /browser/modules/test/browser/browser_UsageTelemetry_interaction.js :: assert

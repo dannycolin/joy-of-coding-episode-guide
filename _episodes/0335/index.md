@@ -2,13 +2,12 @@
 date: 2023-08-09
 number: 335
 airmozilla: https://mzl.la/joy-of-coding-2023-08-09
+agenda: https://mikeconley.ca/joc/agendas/Episode-0335.html
 ---
 
 # Episode 335: Aug 9th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0335.html)
 
 ## Topics
 * No episodes for the next two weeks due to travel!

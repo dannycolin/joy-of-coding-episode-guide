@@ -2,13 +2,12 @@
 date: 2018-10-17
 number: 153
 airmozilla: https://air.mozilla.org/event-redirect/307829/
+agenda: https://www.evernote.com/client/snv?noteGuid=68318c15-6c41-4c80-b503-30bbcb61eb7d&noteKey=87bc3675b508f572&var=b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F68318c15-6c41-4c80-b503-30bbcb61eb7d%2F87bc3675b508f572&exp=ENB3907&title=October%2B17th%252C%2B2018%2B-%2BEpisode%2B153
 ---
 
 # Episode 153: October 17th, 2018
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/client/snv?noteGuid=68318c15-6c41-4c80-b503-30bbcb61eb7d&noteKey=87bc3675b508f572&var=b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F68318c15-6c41-4c80-b503-30bbcb61eb7d%2F87bc3675b508f572&exp=ENB3907&title=October%2B17th%252C%2B2018%2B-%2BEpisode%2B153)
 
 ## Topics
 * [Patch Review](https://phabricator.services.mozilla.com/D8944) Bug 1474991 - Add more performance telemetry for child process launching.

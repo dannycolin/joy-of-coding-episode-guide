@@ -2,13 +2,12 @@
 date: 2020-07-01
 number: 220
 airmozilla: https://air.mozilla.org/event-redirect/408806/
+agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=72f43c7e-46ab-4205-8089-41d053a7e564&noteKey=2dd53e1f970c4ddf&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F72f43c7e-46ab-4205-8089-41d053a7e564%2F2dd53e1f970c4ddf&title=July%2B1st%252C%2B2020%2B-%2BEpisode%2B220
 ---
 
 # Episode 220: July 1st, 2020
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=72f43c7e-46ab-4205-8089-41d053a7e564&noteKey=2dd53e1f970c4ddf&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F72f43c7e-46ab-4205-8089-41d053a7e564%2F2dd53e1f970c4ddf&title=July%2B1st%252C%2B2020%2B-%2BEpisode%2B220)
 
 ## Topics
 * Pandemic edition! Mike is streaming from home! Let's hope the wifi holds out

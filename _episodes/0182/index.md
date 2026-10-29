@@ -2,13 +2,12 @@
 date: 2019-07-10
 number: 182
 airmozilla: https://air.mozilla.org/event-redirect/336372
+agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=2ab23bb0-fd39-48a1-a89e-66816818d534&noteKey=19401b021a79fe53&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F2ab23bb0-fd39-48a1-a89e-66816818d534%2F19401b021a79fe53&title=July%2B10th%252C%2B2019%2B-%2BEpisode%2B182
 ---
 
 # Episode 182: Jul 10th, 2019
 
 ## Links
-
-* [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=2ab23bb0-fd39-48a1-a89e-66816818d534&noteKey=19401b021a79fe53&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F2ab23bb0-fd39-48a1-a89e-66816818d534%2F19401b021a79fe53&title=July%2B10th%252C%2B2019%2B-%2BEpisode%2B182)
 
 ## Topics
 * [Blog](https://hacks.mozilla.org/2019/07/testing-picture-in-picture-for-videos-in-firefox-69/) post about Picture-in-Picture that we’re testing on Windows in Firefox Beta 69 and Developer Edition 69

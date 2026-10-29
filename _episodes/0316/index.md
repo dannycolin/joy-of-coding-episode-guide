@@ -2,13 +2,12 @@
 date: 2023-02-15
 number: 316
 airmozilla: https://mzl.la/joy-of-coding-2023-02-15
+agenda: https://mikeconley.ca/joc/agendas/Episode-0316.html
 ---
 
 # Episode 316: Feb 15th, 2023
 
 ## Links
-
-* [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0316.html)
 
 ## Topics
 * [Bug 1529276](https://bugzilla.mozilla.org/show_bug.cgi?id=1529276) - resource:///modules/WindowsJumpLists.jsm still does main thread I/O
