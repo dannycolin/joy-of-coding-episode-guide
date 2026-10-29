@@ -1,12 +1,13 @@
 ---
 date: 2025-05-07
 number: 400
+airmozilla: https://mzl.la/joy-of-coding-2025-05-07
 ---
 
 # Episode 400: May 7th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-05-07)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0400.html)
 
 ## Topics

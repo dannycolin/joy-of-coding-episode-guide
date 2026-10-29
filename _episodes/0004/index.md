@@ -1,12 +1,13 @@
 ---
 date: 2015-03-04
 number: 4
+youtube: https://www.youtube.com/watch?v=s9o6gySZmXM
 ---
 
 # Episode 4: Mar 4, 2015
 
 ## Links
-* [Watch this episode on YouTube](https://www.youtube.com/watch?v=s9o6gySZmXM)
+
 * [Blog post on this episode](https://mikeconley.ca/blog/2015/03/05/the-joy-of-coding-episode-4/)
 * [Episode Agenda](https://www.evernote.com/l/AbKmofqw6uVGTbKjyzhv4HJFeGFcHeLD1Uk)
 ## Topics

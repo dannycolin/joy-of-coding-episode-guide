@@ -1,12 +1,13 @@
 ---
 date: 2026-04-08
 number: 436
+airmozilla: https://mzl.la/joy-of-coding-2026-04-08
 ---
 
 # Episode 436: Apr 8th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-04-08)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0436.html)
 
 ## Topics

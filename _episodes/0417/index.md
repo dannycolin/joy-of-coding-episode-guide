@@ -1,12 +1,13 @@
 ---
 date: 2025-10-01
 number: 417
+airmozilla: https://mzl.la/joy-of-coding-2025-10-01
 ---
 
 # Episode 417: Oct 1st, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-10-01)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0417.html)
 
 ## Topics

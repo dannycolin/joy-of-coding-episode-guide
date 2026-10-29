@@ -1,12 +1,13 @@
 ---
 date: 2018-01-31
 number: 127
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-127/
 ---
 
 # Episode 127: January 31st, 2018
 
 ## Links
-* [Watch this episode on air mozilla](https://air.mozilla.org/the-joy-of-coding-episode-127/)
+
 * [Evernote Agenda](https://www.evernote.com/l/AbKI-cgAZ-5GYY_OajovWsWvFcKbkjKCzMo)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2018-04-04
 number: 135
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-135/
 ---
 
 # Episode 135: April 4th, 2018
 
 ## Links
-* [Watch this episode on air mozilla](https://air.mozilla.org/the-joy-of-coding-episode-135/)
+
 * [Evernote Agenda](https://www.evernote.com/l/AbIuoDmD5h1H9Z8vW01qzANsp_dZ5AQO-nA)
 
 ## Topics

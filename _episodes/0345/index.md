@@ -1,12 +1,13 @@
 ---
 date: 2023-11-01
 number: 345
+airmozilla: https://mzl.la/joy-of-coding-2023-11-01
 ---
 
 # Episode 345: Nov 1st, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-11-01)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0345.html)
 
 ## Topics

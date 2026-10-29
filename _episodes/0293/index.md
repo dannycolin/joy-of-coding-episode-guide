@@ -1,12 +1,13 @@
 ---
 date: 2022-07-06
 number: 293
+airmozilla: https://mzl.la/joy-of-coding-2022-07-06
 ---
 
 # Episode 293: Jul 6st, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-07-06)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0293.html)
 
 ## Topics

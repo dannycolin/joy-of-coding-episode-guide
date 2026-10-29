@@ -1,12 +1,13 @@
 ---
 date: 2020-09-16
 number: 226
+airmozilla: https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=954715e5-04b7-45c6-81f4-ac3f00e47795
 ---
 
 # Episode 226: Sep 16th, 2020
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=954715e5-04b7-45c6-81f4-ac3f00e47795)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=bc82508c-f9f2-4fc4-a4d3-272cb5b3ba0f&noteKey=39d5c9f3cb059806&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fbc82508c-f9f2-4fc4-a4d3-272cb5b3ba0f%2F39d5c9f3cb059806&title=September%2B16th%252C%2B2020%2B-%2BEpisode%2B226)
 
 ## Topics

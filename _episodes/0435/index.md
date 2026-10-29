@@ -1,12 +1,13 @@
 ---
 date: 2026-04-01
 number: 435
+airmozilla: https://mzl.la/joy-of-coding-2026-04-01
 ---
 
 # Episode 435: Apr 1st, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-04-01)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0435.html)
 
 ## Topics

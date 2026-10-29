@@ -1,12 +1,13 @@
 ---
 date: 2023-09-13
 number: 338
+airmozilla: https://mzl.la/joy-of-coding-2023-09-13
 ---
 
 # Episode 338: Sep 13th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-09-13)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0338.html)
 
 ## Topics

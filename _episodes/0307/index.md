@@ -1,12 +1,13 @@
 ---
 date: 2022-11-16
 number: 307
+airmozilla: https://mzl.la/joy-of-coding-2022-11-16
 ---
 
 # Episode 307: Nov 16th, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-11-16)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0307.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2026-01-14
 number: 425
+airmozilla: https://mzl.la/joy-of-coding-2026-01-14
 ---
 
 # Episode 425: Jan 14th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-01-14)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0425.html)
 
 ## Topics

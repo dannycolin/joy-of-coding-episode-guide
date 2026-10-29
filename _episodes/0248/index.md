@@ -1,12 +1,13 @@
 ---
 date: 2021-05-05
 number: 248
+airmozilla: https://mzl.la/joy-of-coding-2021-05-05
 ---
 
 # Episode 248: May 5th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-05-05)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0248.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2019-07-31
 number: 185
+airmozilla: https://air.mozilla.org/event-redirect/338385/
 ---
 
 # Episode 185: Jul 31st, 2019
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://air.mozilla.org/event-redirect/338385/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=4e159714-d2be-4966-b1ea-daf2483cf9dc&noteKey=35051aa197e25e4a&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F4e159714-d2be-4966-b1ea-daf2483cf9dc%2F35051aa197e25e4a&title=July%2B31st%252C%2B2019%2B-%2BEpisode%2B185)
 
 ## Topics

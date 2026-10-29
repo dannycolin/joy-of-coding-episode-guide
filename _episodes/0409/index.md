@@ -1,12 +1,13 @@
 ---
 date: 2025-07-09
 number: 409
+airmozilla: https://mzl.la/joy-of-coding-2025-07-09
 ---
 
 # Episode 409: Jul 9th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-07-09)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0409.html)
 
 ## Topics

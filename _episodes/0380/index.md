@@ -1,12 +1,13 @@
 ---
 date: 2024-10-23
 number: 380
+airmozilla: https://mzl.la/joy-of-coding-2024-10-23
 ---
 
 # Episode 380: Oct 23rd, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-10-23)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0380.html)
 
 ## Topics

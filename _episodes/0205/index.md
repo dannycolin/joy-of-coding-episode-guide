@@ -1,12 +1,13 @@
 ---
 date: 2020-02-12
 number: 205
+airmozilla: https://air.mozilla.org/event-redirect/353386/
 ---
 
 # Episode 205: Feb 12th, 2020
 
 ## Links
-* [Watch this episode on Air Mozilla](https://air.mozilla.org/event-redirect/353386/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=dccc6e94-8c5e-4360-b086-785ca37d5776&noteKey=6bf6a73dc8325c0c&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fdccc6e94-8c5e-4360-b086-785ca37d5776%2F6bf6a73dc8325c0c&title=February%2B12th%252C%2B2020%2B-%2BEpisode%2B205)
 
 ## Topics

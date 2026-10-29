@@ -1,12 +1,13 @@
 ---
 date: 2025-05-28
 number: 402
+airmozilla: https://mzl.la/joy-of-coding-2025-05-28
 ---
 
 # Episode 402: May 28th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-05-28)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0402.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2024-07-31
 number: 374
+airmozilla: https://mzl.la/joy-of-coding-2024-07-31
 ---
 
 # Episode 374: Jul 31st, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-07-31)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0374.html)
 
 ## Topics

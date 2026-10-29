@@ -1,12 +1,13 @@
 ---
 date: 2024-06-05
 number: 367
+airmozilla: https://mzl.la/joy-of-coding-2024-06-05
 ---
 
 # Episode 367: Jun 5th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-06-05)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0367.html)
 
 ## Topics

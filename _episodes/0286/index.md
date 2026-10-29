@@ -1,12 +1,13 @@
 ---
 date: 2022-04-13
 number: 286
+airmozilla: https://mzl.la/joy-of-coding-2022-04-13
 ---
 
 # Episode 286: Apr 13th, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-04-13)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0286.html)
 
 ## Topics

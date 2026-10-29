@@ -1,12 +1,13 @@
 ---
 date: 2021-02-24
 number: 241
+airmozilla: https://mzl.la/joy-of-coding-2021-02-24
 ---
 
 # Episode 241: Feb 24th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-02-24)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=6f113817-ab7a-7cb5-dc2d-db9fa124d972&noteKey=17698384b6b97ec8eef4faa76351f63e&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F6f113817-ab7a-7cb5-dc2d-db9fa124d972%2F17698384b6b97ec8eef4faa76351f63e&title=February%2B24th%252C%2B2021%2B-%2BEpisode%2B241)
 
 ## Topics

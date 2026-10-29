@@ -1,12 +1,13 @@
 ---
 date: 2019-01-09
 number: 161
+airmozilla: https://air.mozilla.org/event-redirect/317803/
 ---
 
 # Episode 161: January 9th, 2019
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://air.mozilla.org/event-redirect/317803/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=a86c35a4-b5b6-4f03-8c0b-9b803d1b718c&noteKey=651e1260512fecbf&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fa86c35a4-b5b6-4f03-8c0b-9b803d1b718c%2F651e1260512fecbf&title=January%2B9th%252C%2B2019%2B-%2BEpisode%2B161)
 
 ## Topics

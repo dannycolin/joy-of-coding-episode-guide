@@ -1,12 +1,13 @@
 ---
 date: 2025-04-23
 number: 399
+airmozilla: https://mzl.la/joy-of-coding-2025-04-23
 ---
 
 # Episode 399: Apr 23th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-04-23)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0399.html)
 
 ## Topics

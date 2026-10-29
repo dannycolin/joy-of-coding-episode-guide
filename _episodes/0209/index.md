@@ -1,12 +1,13 @@
 ---
 date: 2020-03-25
 number: 209
+airmozilla: https://air.mozilla.org/event-redirect/366241/
 ---
 
 # Episode 209: Mar 25th, 2020
 
 ## Links
-* [Watch this episode on Air Mozilla](https://air.mozilla.org/event-redirect/366241/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=0e9fa569-c955-4782-8545-9f2af2c05d3c&noteKey=dfd61e2d88f359bf&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F0e9fa569-c955-4782-8545-9f2af2c05d3c%2Fdfd61e2d88f359bf&title=March%2B25th%252C%2B2020%2B-%2BEpisode%2B209)
 
 ## Topics

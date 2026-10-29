@@ -1,12 +1,13 @@
 ---
 date: 2024-05-08
 number: 365
+airmozilla: https://mzl.la/joy-of-coding-2024-05-08
 ---
 
 # Episode 365: May 8th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-05-08)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0365.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2020-04-22
 number: 213
+airmozilla: https://air.mozilla.org/event-redirect/367427/
 ---
 
 # Episode 213: Apr 22nd, 2020
 
 ## Links
-* [Watch this episode on Air Mozilla](https://air.mozilla.org/event-redirect/367427/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=cda0bf87-1428-4bbe-9fc0-57d81e827ebb&noteKey=f08bd6f7f902c5f2&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fcda0bf87-1428-4bbe-9fc0-57d81e827ebb%2Ff08bd6f7f902c5f2&title=April%2B22nd%252C%2B2020%2B-%2BEpisode%2B213)
 
 ## Topics

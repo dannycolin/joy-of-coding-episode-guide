@@ -1,12 +1,13 @@
 ---
 date: 2023-06-21
 number: 329
+airmozilla: https://mzl.la/joy-of-coding-2023-06-21
 ---
 
 # Episode 329: Jun 21st, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-06-21)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0329.html)
 
 ## Topics

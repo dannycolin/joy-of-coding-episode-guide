@@ -1,12 +1,13 @@
 ---
 date: 2025-06-11
 number: 405
+airmozilla: https://mzl.la/joy-of-coding-2025-06-11
 ---
 
 # Episode 405: Jun 11th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-06-11)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0405.html)
 
 ## Topics

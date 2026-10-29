@@ -1,12 +1,13 @@
 ---
 date: 2023-10-25
 number: 344
+airmozilla: https://mzl.la/joy-of-coding-2023-10-25
 ---
 
 # Episode 344: Oct 25th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-10-25)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0344.html)
 
 ## Topics

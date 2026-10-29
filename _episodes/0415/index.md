@@ -1,12 +1,13 @@
 ---
 date: 2025-08-27
 number: 415
+airmozilla: https://mzl.la/joy-of-coding-2025-08-27
 ---
 
 # Episode 415: Aug 27th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-08-27)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0415.html)
 
 ## Topics

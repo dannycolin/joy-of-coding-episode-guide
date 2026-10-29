@@ -1,12 +1,13 @@
 ---
 date: 2019-02-06
 number: 165
+airmozilla: https://air.mozilla.org/event-redirect/320472/
 ---
 
 # Episode 165: February 6th, 2019
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://air.mozilla.org/event-redirect/320472/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=87f66521-bcc9-4612-99c1-72bc2adc1cf1&noteKey=82fca0b556b395b4&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F87f66521-bcc9-4612-99c1-72bc2adc1cf1%2F82fca0b556b395b4&title=February%2B6th%252C%2B2019%2B-%2BEpisode%2B165)
 
 ## Topics

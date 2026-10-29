@@ -1,12 +1,13 @@
 ---
 date: 2019-12-04
 number: 200
+airmozilla: https://air.mozilla.org/event-redirect/351615/
 ---
 
 # Episode 200: Dec 4th, 2019
 
 ## Links
-* [Watch this episode on Air Mozilla](https://air.mozilla.org/event-redirect/351615/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=a04f0bf8-7312-467c-b9fe-f1420cdf9a3b&noteKey=5fd72b6c467050ad&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fa04f0bf8-7312-467c-b9fe-f1420cdf9a3b%2F5fd72b6c467050ad&title=December%2B4th%252C%2B2019%2B-%2BEpisode%2B200%2521)
 
 ## Topics

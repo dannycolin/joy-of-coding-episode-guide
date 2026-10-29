@@ -1,12 +1,13 @@
 ---
 date: 2022-12-21
 number: 310
+airmozilla: https://mzl.la/joy-of-coding-2022-12-21
 ---
 
 # Episode 310: Dec 21st, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-12-21)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0310.html)
 
 ## Topics

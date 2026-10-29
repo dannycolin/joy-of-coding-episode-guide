@@ -1,12 +1,13 @@
 ---
 date: 2022-01-19
 number: 275
+airmozilla: https://mzl.la/joy-of-coding-2022-01-19
 ---
 
 # Episode 275: Jan 19th, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-01-19)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0275.html)
 
 ## Topics

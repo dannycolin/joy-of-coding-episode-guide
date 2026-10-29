@@ -1,12 +1,13 @@
 ---
 date: 2022-04-06
 number: 285
+airmozilla: https://mzl.la/joy-of-coding-2022-04-06
 ---
 
 # Episode 285: Apr 6th, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-04-06)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0285.html)
 
 ## Topics

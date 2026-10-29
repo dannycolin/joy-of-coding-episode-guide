@@ -1,12 +1,13 @@
 ---
 date: 2019-07-24
 number: 184
+airmozilla: https://air.mozilla.org/event-redirect/337963/
 ---
 
 # Episode 184: Jul 24th, 2019
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://air.mozilla.org/event-redirect/337963/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=6a30db99-ed33-4ba6-966a-f00fc49c22b6&noteKey=7f492a0595466c44&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F6a30db99-ed33-4ba6-966a-f00fc49c22b6%2F7f492a0595466c44&title=July%2B24th%252C%2B2019%2B-%2BEpisode%2B184)
 
 ## Topics

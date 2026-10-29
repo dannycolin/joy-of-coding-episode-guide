@@ -1,12 +1,13 @@
 ---
 date: 2023-11-08
 number: 346
+airmozilla: https://mzl.la/joy-of-coding-2023-11-08
 ---
 
 # Episode 346: Nov 8th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-11-08)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0346.html)
 
 ## Topics

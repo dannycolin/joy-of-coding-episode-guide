@@ -1,12 +1,13 @@
 ---
 date: 2025-03-25
 number: 397
+airmozilla: https://mzl.la/joy-of-coding-2025-03-25
 ---
 
 # Episode 397: Mar 25th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-03-25)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0397.html)
 
 ## Topics

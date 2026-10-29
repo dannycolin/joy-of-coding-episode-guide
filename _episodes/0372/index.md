@@ -1,12 +1,13 @@
 ---
 date: 2024-07-10
 number: 372
+airmozilla: https://mzl.la/joy-of-coding-2024-07-10
 ---
 
 # Episode 372: Jul 10th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-07-10)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0372.html)
 
 ## Topics

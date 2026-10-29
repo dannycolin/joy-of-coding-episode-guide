@@ -1,12 +1,13 @@
 ---
 date: 2022-03-09
 number: 282
+airmozilla: https://mzl.la/joy-of-coding-2022-03-09
 ---
 
 # Episode 282: Mar 9th, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-03-09)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0282.html)
 
 ## Topics

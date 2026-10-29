@@ -1,12 +1,13 @@
 ---
 date: 2021-11-03
 number: 268
+airmozilla: https://mzl.la/joy-of-coding-2021-11-03
 ---
 
 # Episode 268: Nov 3rd, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-11-03)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0268.html)
 
 ## Topics

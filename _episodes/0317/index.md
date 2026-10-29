@@ -1,12 +1,13 @@
 ---
 date: 2023-02-22
 number: 317
+airmozilla: https://mzl.la/joy-of-coding-2023-02-22
 ---
 
 # Episode 317: Feb 22nd, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-02-22)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0317.html)
 
 ## Topics

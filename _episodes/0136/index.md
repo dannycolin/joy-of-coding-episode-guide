@@ -1,12 +1,13 @@
 ---
 date: 2018-04-18
 number: 136
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-136/
 ---
 
 # Episode 136: April 18th, 2018
 
 ## Links
-* [Watch this episode on air mozilla](https://air.mozilla.org/the-joy-of-coding-episode-136/)
+
 * [Evernote Agenda](https://www.evernote.com/l/AbIXkl5s3lJJ-Y8LAhgvwxU56NI6oGXBigM)
 
 ## Topics

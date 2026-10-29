@@ -1,12 +1,13 @@
 ---
 date: 2024-12-18
 number: 388
+airmozilla: https://mzl.la/joy-of-coding-2024-12-18
 ---
 
 # Episode 388: Dec 18th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-12-18)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0388.html)
 
 ## Topics

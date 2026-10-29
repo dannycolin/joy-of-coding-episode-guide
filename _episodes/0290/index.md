@@ -1,12 +1,13 @@
 ---
 date: 2022-06-01
 number: 290
+airmozilla: https://mzl.la/joy-of-coding-2022-06-01
 ---
 
 # Episode 290: Jun 1st, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-06-01)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0290.html)
 
 ## Topics

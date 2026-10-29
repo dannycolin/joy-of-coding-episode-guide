@@ -1,12 +1,13 @@
 ---
 date: 2024-06-26
 number: 370
+airmozilla: https://mzl.la/joy-of-coding-2024-06-26
 ---
 
 # Episode 370: Jun 26th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-06-26)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0370.html)
 
 ## Topics

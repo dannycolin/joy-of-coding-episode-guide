@@ -1,12 +1,13 @@
 ---
 date: 2015-02-25
 number: 3
+youtube: https://www.youtube.com/watch?v=k8e9UW6FEc0
 ---
 
 # Episode 3: Feb 25, 2015
 
 ## Links
-* [Watch this episode on YouTube](https://www.youtube.com/watch?v=k8e9UW6FEc0)
+
 * [Blog post on this episode](https://mikeconley.ca/blog/2015/02/27/the-joy-of-coding-episode-3/)
 * [Evernote Agenda](https://www.evernote.com/shard/s434/sh/35981840-1abe-4209-953b-c10d7d5eb1af/776193c200dd3511)
 

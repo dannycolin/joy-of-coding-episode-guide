@@ -1,12 +1,13 @@
 ---
 date: 2025-11-19
 number: 420
+airmozilla: https://mzl.la/joy-of-coding-2025-11-19
 ---
 
 # Episode 420: Nov 19th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-11-19)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0420.html)
 
 ## Topics

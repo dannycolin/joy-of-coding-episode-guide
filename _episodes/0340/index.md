@@ -1,12 +1,13 @@
 ---
 date: 2023-09-27
 number: 340
+airmozilla: https://mzl.la/joy-of-coding-2023-09-27
 ---
 
 # Episode 340: Sep 27th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-09-27)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0340.html)
 
 ## Topics

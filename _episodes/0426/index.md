@@ -1,12 +1,13 @@
 ---
 date: 2026-01-21
 number: 426
+airmozilla: https://mzl.la/joy-of-coding-2026-01-21
 ---
 
 # Episode 426: Jan 21th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-01-21)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0426.html)
 
 ## Topics

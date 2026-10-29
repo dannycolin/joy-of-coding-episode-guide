@@ -1,12 +1,13 @@
 ---
 date: 2023-04-12
 number: 321
+airmozilla: https://mzl.la/joy-of-coding-2023-04-12
 ---
 
 # Episode 321: Apr 12th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-04-12)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0321.html)
 
 ## Topics

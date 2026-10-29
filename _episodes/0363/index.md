@@ -1,12 +1,13 @@
 ---
 date: 2024-04-17
 number: 363
+airmozilla: https://mzl.la/joy-of-coding-2024-04-17
 ---
 
 # Episode 363: Apr 17th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-04-17)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0363.html)
 
 ## Topics

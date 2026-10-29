@@ -1,12 +1,13 @@
 ---
 date: 2021-04-21
 number: 247
+airmozilla: https://mzl.la/joy-of-coding-2021-04-21
 ---
 
 # Episode 247: Apr 21st, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-04-21)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0247.html)
 
 ## Topics

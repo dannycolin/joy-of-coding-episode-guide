@@ -1,12 +1,13 @@
 ---
 date: 2020-10-28
-number: 230 
+number: 230
+airmozilla: https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=82c878cd-b2b5-4fe2-9c9c-ac620177573d
 ---
 
 # Episode 230: Oct 28th, 2020
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=82c878cd-b2b5-4fe2-9c9c-ac620177573d)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=c01eeb34-0b2a-417e-9a18-a493db2cbcf9&noteKey=c5386a9e28ace792&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fc01eeb34-0b2a-417e-9a18-a493db2cbcf9%2Fc5386a9e28ace792&title=October%2B28th%252C%2B2020%2B-%2BEpisode%2B230)
 
 ## Topics

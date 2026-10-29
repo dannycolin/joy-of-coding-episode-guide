@@ -1,12 +1,13 @@
 ---
 date: 2021-08-04
 number: 257
+airmozilla: https://mzl.la/joy-of-coding-2021-08-04
 ---
 
 # Episode 257: Aug 4th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-08-04)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0257.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2026-01-07
 number: 424
+airmozilla: https://mzl.la/joy-of-coding-2026-01-07
 ---
 
 # Episode 424: Jan 7th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-01-07)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0424.html)
 
 ## Topics

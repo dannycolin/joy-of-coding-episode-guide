@@ -1,12 +1,13 @@
 ---
 date: 2019-07-17
 number: 183
+airmozilla: https://air.mozilla.org/event-redirect/337737
 ---
 
 # Episode 183: Jul 17th, 2019
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://air.mozilla.org/event-redirect/337737)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=c3ecaca5-9d9c-483a-af14-d89704298c14&noteKey=d126133b52b95767&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fc3ecaca5-9d9c-483a-af14-d89704298c14%2Fd126133b52b95767&title=July%2B17th%252C%2B2019%2B-%2BEpisode%2B183)
 
 ## Topics

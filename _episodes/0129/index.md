@@ -1,12 +1,13 @@
 ---
 date: 2018-02-21
 number: 129
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-129/
 ---
 
 # Episode 129: February 21st, 2018
 
 ## Links
-* [Watch this episode on air mozilla](https://air.mozilla.org/the-joy-of-coding-episode-129/)
+
 * [Evernote Agenda](https://www.evernote.com/l/AbJHEcr9vqhGCJti5HSQIl7R65q9m0Z3RgY)
 
 ## Topics

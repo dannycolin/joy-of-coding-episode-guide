@@ -1,12 +1,13 @@
 ---
 date: 2018-03-07
 number: 131
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-131/
 ---
 
 # Episode 131: March 7th, 2018
 
 ## Links
-* [Watch this episode on air mozilla](https://air.mozilla.org/the-joy-of-coding-episode-131/)
+
 * [Evernote Agenda](https://www.evernote.com/l/AbIuQZc_MjBDPZF-JHAhULnBG1Zbbw5PxqM)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2020-01-08
 number: 202
+airmozilla: https://air.mozilla.org/event-redirect/353382/
 ---
 
 # Episode 202: Jan 8th, 2020
 
 ## Links
-* [Watch this episode on Air Mozilla](https://air.mozilla.org/event-redirect/353382/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=42272e13-40a5-48d4-9010-da85ea84d590&noteKey=5ea0bc648c86fe70&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F42272e13-40a5-48d4-9010-da85ea84d590%2F5ea0bc648c86fe70&title=January%2B8th%252C%2B2020%2B-%2BEpisode%2B202)
 
 ## Topics

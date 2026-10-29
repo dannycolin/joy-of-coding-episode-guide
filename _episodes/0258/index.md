@@ -1,12 +1,13 @@
 ---
 date: 2021-08-11
 number: 258
+airmozilla: https://mzl.la/joy-of-coding-2021-08-11
 ---
 
 # Episode 258: Aug 11th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-08-11)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0258.html)
 
 ## Topics

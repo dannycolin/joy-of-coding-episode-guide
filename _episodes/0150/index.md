@@ -1,12 +1,12 @@
 ---
 date: 2018-09-19
 number: 150
+airmozilla: https://onlinexperiences.com/Launch/Event.htm?ShowKey=44908&DisplayItem=E303773
 ---
 
 # Episode 150: September 19th, 2018
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://onlinexperiences.com/Launch/Event.htm?ShowKey=44908&DisplayItem=E303773)
 * [Evernote Agenda](https://www.evernote.com/shard/s434/sh/327ee12a-a7b4-4d1a-a41f-f4ee2b508d1e/402796995c30d976)
 
 ## Shoutouts

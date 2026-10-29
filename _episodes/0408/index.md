@@ -1,12 +1,13 @@
 ---
 date: 2025-07-02
 number: 408
+airmozilla: https://mzl.la/joy-of-coding-2025-07-02
 ---
 
 # Episode 408: Jul 2nd, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-07-02)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0408.html)
 
 ## Topics

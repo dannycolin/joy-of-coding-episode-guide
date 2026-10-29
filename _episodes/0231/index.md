@@ -1,12 +1,13 @@
 ---
 date: 2020-11-04
 number: 231
+airmozilla: https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb626ad1-4dd0-4ebb-b8ad-ac6900e6dce7
 ---
 
 # Episode 231: Nov 4th, 2020
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb626ad1-4dd0-4ebb-b8ad-ac6900e6dce7)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=0eb8b240-8c5f-4fd6-b8de-b66f1fef0735&noteKey=5d4cbd7d2850a1e9&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F0eb8b240-8c5f-4fd6-b8de-b66f1fef0735%2F5d4cbd7d2850a1e9&title=November%2B4th%252C%2B2020%2B-%2BEpisode%2B231)
 
 ## Topics

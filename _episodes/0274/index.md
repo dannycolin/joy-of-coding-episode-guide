@@ -1,12 +1,13 @@
 ---
 date: 2022-01-12
 number: 274
+airmozilla: https://mzl.la/joy-of-coding-2022-01-12
 ---
 
 # Episode 274: Jan 12th, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-01-12)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0274.html)
 
 ## Topics

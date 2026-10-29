@@ -1,12 +1,13 @@
 ---
 date: 2025-03-19
 number: 396
+airmozilla: https://mzl.la/joy-of-coding-2025-03-19
 ---
 
 # Episode 396: Mar 19th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-03-19)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0396.html)
 
 ## Topics

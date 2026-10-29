@@ -1,12 +1,13 @@
 ---
 date: 2022-02-09
 number: 278
+airmozilla: https://mzl.la/joy-of-coding-2022-02-09
 ---
 
 # Episode 278: Feb 9th, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-02-09)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0278.html)
 
 ## Topics

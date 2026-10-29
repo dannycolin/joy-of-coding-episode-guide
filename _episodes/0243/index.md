@@ -1,12 +1,13 @@
 ---
 date: 2021-03-10
 number: 243
+airmozilla: https://mzl.la/joy-of-coding-2021-03-10
 ---
 
 # Episode 243: Mar 10th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-03-10)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0243.html)
 
 ## Topics

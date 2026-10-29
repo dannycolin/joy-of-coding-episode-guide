@@ -1,12 +1,13 @@
 ---
 date: 2025-02-05
 number: 393
+airmozilla: https://mzl.la/joy-of-coding-2025-02-05
 ---
 
 # Episode 393: Feb 5th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-02-05)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0393.html)
 
 ## Topics

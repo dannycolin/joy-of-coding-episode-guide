@@ -1,12 +1,13 @@
 ---
 date: 2024-04-03
 number: 361
+airmozilla: https://mzl.la/joy-of-coding-2024-04-03
 ---
 
 # Episode 361: Apr 3rd, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-04-03)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0361.html)
 
 ## Topics

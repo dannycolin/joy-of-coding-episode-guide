@@ -1,12 +1,13 @@
 ---
 date: 2022-10-19
 number: 303
+airmozilla: https://mzl.la/joy-of-coding-2022-10-19
 ---
 
 # Episode 303: Oct 19th, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-10-19)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0303.html)
 
 ## Topics

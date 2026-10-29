@@ -1,12 +1,13 @@
 ---
 date: 2020-05-20
 number: 216
+airmozilla: https://air.mozilla.org/event-redirect/378320/
 ---
 
 # Episode 216: May 20th, 2020
 
 ## Links
-* [Watch this episode on Air Mozilla](https://air.mozilla.org/event-redirect/378320/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=52313c25-1bd5-411e-a78b-fda15b1348bf&noteKey=cbe9d6e45e1669e1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F52313c25-1bd5-411e-a78b-fda15b1348bf%2Fcbe9d6e45e1669e1&title=May%2B20th%252C%2B2020%2B-%2BEpisode%2B216)
 
 ## Topics

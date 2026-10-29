@@ -1,12 +1,13 @@
 ---
 date: 2023-07-12
 number: 332
+airmozilla: https://mzl.la/joy-of-coding-2023-07-12
 ---
 
 # Episode 332: Jul 12th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-07-12)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0332.html)
 
 ## Topics

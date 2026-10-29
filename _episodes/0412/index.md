@@ -1,12 +1,13 @@
 ---
 date: 2025-08-06
 number: 412
+airmozilla: https://mzl.la/joy-of-coding-2025-08-06
 ---
 
 # Episode 412: Aug 6th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-08-06)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0412.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2025-01-08
 number: 389
+airmozilla: https://mzl.la/joy-of-coding-2025-01-08
 ---
 
 # Episode 389: Jan 8th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-01-08)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0389.html)
 
 ## Topics

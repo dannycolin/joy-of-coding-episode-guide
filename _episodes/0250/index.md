@@ -1,12 +1,13 @@
 ---
 date: 2021-05-19
 number: 250
+airmozilla: https://mzl.la/joy-of-coding-2021-05-19
 ---
 
 # Episode 250: May 19th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-05-19)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0250.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2024-07-17
 number: 373
+airmozilla: https://mzl.la/joy-of-coding-2024-07-17
 ---
 
 # Episode 373: Jul 17th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-07-17)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0373.html)
 
 ## Topics

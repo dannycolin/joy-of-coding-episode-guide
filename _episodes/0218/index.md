@@ -1,12 +1,13 @@
 ---
 date: 2020-06-10
 number: 218
+airmozilla: https://air.mozilla.org/event-redirect/388125/
 ---
 
 # Episode 218: Jun 10th, 2020
 
 ## Links
-* [Watch this episode on Air Mozilla](https://air.mozilla.org/event-redirect/388125/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=69ff42ad-eb0e-47fb-a181-cd9313333b66&noteKey=db97aa3256f352f6&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F69ff42ad-eb0e-47fb-a181-cd9313333b66%2Fdb97aa3256f352f6&title=June%2B10th%252C%2B2020%2B-%2BEpisode%2B218)
 
 ## Topics

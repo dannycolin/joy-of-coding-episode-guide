@@ -1,12 +1,13 @@
 ---
 date: 2024-12-04
 number: 386
+airmozilla: https://mzl.la/joy-of-coding-2024-12-04
 ---
 
 # Episode 386: Dec 4th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-12-04)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0386.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2023-10-04
 number: 341
+airmozilla: https://mzl.la/joy-of-coding-2023-10-04
 ---
 
 # Episode 341: Oct 4th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-10-04)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0341.html)
 
 ## Topics

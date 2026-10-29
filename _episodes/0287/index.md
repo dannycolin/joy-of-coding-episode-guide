@@ -1,12 +1,13 @@
 ---
 date: 2022-04-20
 number: 287
+airmozilla: https://mzl.la/joy-of-coding-2022-04-20
 ---
 
 # Episode 287: Apr 20th, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-04-20)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0287.html)
 
 ## Topics

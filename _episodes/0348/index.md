@@ -1,12 +1,13 @@
 ---
 date: 2023-11-29
 number: 348
+airmozilla: https://mzl.la/joy-of-coding-2023-11-29
 ---
 
 # Episode 348: Nov 29th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-11-29)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0348.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2018-02-28
 number: 130
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-130/
 ---
 
 # Episode 130: February 28th, 2018
 
 ## Links
-* [Watch this episode on air mozilla](https://air.mozilla.org/the-joy-of-coding-episode-130/)
+
 * [Evernote Agenda](https://www.evernote.com/l/AbKiVDwHz7lNmaPwpA_SYMbl-rDOqOlVIXQ)
 
 ## Topics

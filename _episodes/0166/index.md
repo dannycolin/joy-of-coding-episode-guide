@@ -1,12 +1,13 @@
 ---
 date: 2019-02-13
 number: 166
+airmozilla: https://air.mozilla.org/event-redirect/321210/
 ---
 
 # Episode 166: February 13th, 2019
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://air.mozilla.org/event-redirect/321210/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=b7ba702a-78c6-473a-a061-d8be771baf97&noteKey=f436028392592ccb&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fb7ba702a-78c6-473a-a061-d8be771baf97%2Ff436028392592ccb&title=February%2B13th%252C%2B2019%2B-%2BEpisode%2B166)
 
 ## Topics

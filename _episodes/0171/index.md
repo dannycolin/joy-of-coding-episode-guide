@@ -1,12 +1,13 @@
 ---
 date: 2019-03-27
 number: 171
+airmozilla: https://air.mozilla.org/event-redirect/325101/
 ---
 
 # Episode 171: March 27th, 2019
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://air.mozilla.org/event-redirect/325101/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=857b1234-e680-42fb-9637-008c5ddca02f&noteKey=b7f452b2dc5e19c6&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F857b1234-e680-42fb-9637-008c5ddca02f%2Fb7f452b2dc5e19c6&title=March%2B27th%252C%2B2019%2B-%2BEpisode%2B171)
 
 ## Topics

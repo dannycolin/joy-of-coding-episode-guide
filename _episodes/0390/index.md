@@ -1,12 +1,13 @@
 ---
 date: 2025-01-15
 number: 390
+airmozilla: https://mzl.la/joy-of-coding-2025-01-15
 ---
 
 # Episode 390: Jan 15th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-01-15)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0390.html)
 
 ## Topics

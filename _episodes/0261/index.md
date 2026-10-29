@@ -1,12 +1,13 @@
 ---
 date: 2021-09-08
 number: 261
+airmozilla: https://mzl.la/joy-of-coding-2021-09-08
 ---
 
 # Episode 261: Sep 8th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-09-08)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0261.html)
 
 ## Topics

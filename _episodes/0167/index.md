@@ -1,12 +1,13 @@
 ---
 date: 2019-02-20
 number: 167
+airmozilla: https://air.mozilla.org/event-redirect/321728/
 ---
 
 # Episode 167: February 20th, 2019
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://air.mozilla.org/event-redirect/321728/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=25e65482-d5cd-4a2d-bb48-1bc437d748dc&noteKey=6c9a2f380f027d81&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F25e65482-d5cd-4a2d-bb48-1bc437d748dc%2F6c9a2f380f027d81&title=February%2B20th%252C%2B2019%2B-%2BEpisode%2B167)
 
 ## Topics

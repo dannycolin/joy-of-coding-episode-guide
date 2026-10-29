@@ -1,12 +1,13 @@
 ---
 date: 2022-06-08
 number: 291
+airmozilla: https://mzl.la/joy-of-coding-2022-06-08
 ---
 
 # Episode 291: Jun 8th, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-06-08)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0291.html)
 
 ## Topics

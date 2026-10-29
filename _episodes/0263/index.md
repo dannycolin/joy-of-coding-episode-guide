@@ -1,12 +1,13 @@
 ---
 date: 2021-09-22
 number: 263
+airmozilla: https://mzl.la/joy-of-coding-2021-09-22
 ---
 
 # Episode 263: Sep 22nd, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-09-22)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0263.html)
 
 ## Topics

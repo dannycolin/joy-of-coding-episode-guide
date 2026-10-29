@@ -1,12 +1,13 @@
 ---
 date: 2021-09-29
 number: 264
+airmozilla: https://mzl.la/joy-of-coding-2021-09-29
 ---
 
 # Episode 264: Sep 29th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-09-29)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0264.html)
 
 ## Topics

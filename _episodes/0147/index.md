@@ -1,12 +1,12 @@
 ---
 date: 2018-08-15
 number: 147
+airmozilla: https://onlinexperiences.com/Launch/Event.htm?ShowKey=44908&DisplayItem=E300281
 ---
 
 # Episode 147: August 15th, 2018
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://onlinexperiences.com/Launch/Event.htm?ShowKey=44908&DisplayItem=E300281)
 * [Evernote Agenda](https://www.evernote.com/shard/s434/sh/17032b66-7d06-4c72-b0f2-98a128b53c30/90e3a50671e12aa7)
 
 ## Shoutouts

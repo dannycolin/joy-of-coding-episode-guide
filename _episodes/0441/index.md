@@ -1,12 +1,13 @@
 ---
 date: 2026-06-17
 number: 441
+airmozilla: https://mzl.la/joy-of-coding-2026-06-17
 ---
 
 # Episode 441: Jun 17th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-06-17)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0441.html)
 
 ## Topics

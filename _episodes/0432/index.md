@@ -1,12 +1,13 @@
 ---
 date: 2026-03-11
 number: 432
+airmozilla: https://mzl.la/joy-of-coding-2026-03-11
 ---
 
 # Episode 432: Mar 11th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-03-11)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0432.html)
 
 ## Topics

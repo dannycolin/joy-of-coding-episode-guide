@@ -1,12 +1,13 @@
 ---
 date: 2025-08-13
 number: 413
+airmozilla: https://mzl.la/joy-of-coding-2025-08-13
 ---
 
 # Episode 413: Aug 13th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-08-13)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0413.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2021-07-07
 number: 254
+airmozilla: https://mzl.la/joy-of-coding-2021-07-07
 ---
 
 # Episode 254: Jul 7th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-07-07)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0254.html)
 
 ## Topics

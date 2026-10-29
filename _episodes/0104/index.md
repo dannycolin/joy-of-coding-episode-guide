@@ -1,12 +1,13 @@
 ---
 date: 2017-07-05
 number: 104
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-104/
 ---
 
 # Episode 104: July 5th, 2017
 
 ## Links
-* [Watch this episode on air.mo](https://air.mozilla.org/the-joy-of-coding-episode-104/)
+
 * [Episode notes on Evernote](https://www.evernote.com/l/AbKnoTrOlYJNJIlYTMRTyHrZr2j6i4ikcNc)
 
 ## Topics

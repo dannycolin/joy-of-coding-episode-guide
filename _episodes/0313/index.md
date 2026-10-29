@@ -1,12 +1,13 @@
 ---
 date: 2023-01-25
 number: 313
+airmozilla: https://mzl.la/joy-of-coding-2023-01-25
 ---
 
 # Episode 313: Jan 25th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-01-25)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0313.html)
 
 ## Topics

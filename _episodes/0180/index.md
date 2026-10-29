@@ -1,12 +1,13 @@
 ---
 date: 2019-05-26
 number: 180
+airmozilla: https://air.mozilla.org/event-redirect/333301/
 ---
 
 # Episode 180: Jun 26th, 2019
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://air.mozilla.org/event-redirect/333301/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=c9729e1e-9d84-4449-a782-3765ce3c1dcf&noteKey=bf94e5ebb0c0e851&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fc9729e1e-9d84-4449-a782-3765ce3c1dcf%2Fbf94e5ebb0c0e851&title=June%2B26th%252C%2B2019%2B-%2BEpisode%2B180)
 
 ## Topics

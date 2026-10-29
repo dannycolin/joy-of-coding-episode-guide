@@ -1,12 +1,13 @@
 ---
 date: 2025-06-25
 number: 407
+airmozilla: https://mzl.la/joy-of-coding-2025-06-25
 ---
 
 # Episode 407: Jun 25th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-06-25)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0407.html)
 
 ## Topics

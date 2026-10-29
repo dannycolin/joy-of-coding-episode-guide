@@ -1,12 +1,13 @@
 ---
 date: 2018-05-09
 number: 138
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-138/
 ---
 
 # Episode 138: May 9th, 2018
 
 ## Links
-* [Watch this episode on air mozilla](https://air.mozilla.org/the-joy-of-coding-episode-138/)
+
 * [Evernote Agenda](https://www.evernote.com/l/AbJE3Eh1_ChA25kVaaqH6OoNE5BCpTUY4Zg)
 
 ## Topics

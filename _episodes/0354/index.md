@@ -1,12 +1,13 @@
 ---
 date: 2024-02-07
 number: 354
+airmozilla: https://mzl.la/joy-of-coding-2024-02-07
 ---
 
 # Episode 354: Feb 7th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-02-07)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0354.html)
 
 ## Topics

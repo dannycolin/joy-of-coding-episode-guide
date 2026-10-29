@@ -1,12 +1,13 @@
 ---
 date: 2021-12-01
 number: 272
+airmozilla: https://mzl.la/joy-of-coding-2021-12-01
 ---
 
 # Episode 272: Dec 1st, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-12-01)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0272.html)
 
 ## Topics

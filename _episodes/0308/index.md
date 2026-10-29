@@ -1,12 +1,13 @@
 ---
 date: 2022-11-23
 number: 308
+airmozilla: https://mzl.la/joy-of-coding-2022-11-23
 ---
 
 # Episode 308: Nov 23rd, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-11-23)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0308.html)
 
 ## Topics

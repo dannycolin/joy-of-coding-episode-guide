@@ -1,12 +1,13 @@
 ---
 date: 2023-10-18
 number: 343
+airmozilla: https://mzl.la/joy-of-coding-2023-10-18
 ---
 
 # Episode 343: Oct 18th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-10-18)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0343.html)
 
 ## Topics

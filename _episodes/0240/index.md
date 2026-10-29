@@ -1,12 +1,13 @@
 ---
 date: 2021-02-10
 number: 240
+airmozilla: https://mzl.la/joy-of-coding-2021-02-10
 ---
 
 # Episode 240: Feb 10th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-02-10)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0240.html)
 
 ## Topics

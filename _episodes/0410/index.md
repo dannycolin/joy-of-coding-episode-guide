@@ -1,12 +1,13 @@
 ---
 date: 2025-07-16
 number: 410
+airmozilla: https://mzl.la/joy-of-coding-2025-07-16
 ---
 
 # Episode 410: Jul 16th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-07-16)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0410.html)
 
 ## Topics

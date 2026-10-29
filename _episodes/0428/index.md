@@ -1,12 +1,13 @@
 ---
 date: 2026-02-04
 number: 428
+airmozilla: https://mzl.la/joy-of-coding-2026-02-04
 ---
 
 # Episode 428: Feb 4th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-02-04)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0428.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2024-06-12
 number: 368
+airmozilla: https://mzl.la/joy-of-coding-2024-06-12
 ---
 
 # Episode 368: Jun 12th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-06-12)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0368.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2026-01-28
 number: 427
+airmozilla: https://mzl.la/joy-of-coding-2026-01-28
 ---
 
 # Episode 427: Jan 28th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-01-28)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0427.html)
 
 ## Topics

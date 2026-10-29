@@ -1,12 +1,13 @@
 ---
 date: 2026-05-13
 number: 440
+airmozilla: https://mzl.la/joy-of-coding-2026-05-13
 ---
 
 # Episode 440: May 13th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-05-13)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0440.html)
 
 ## Topics

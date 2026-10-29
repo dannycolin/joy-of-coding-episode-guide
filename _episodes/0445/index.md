@@ -1,12 +1,13 @@
 ---
 date: 2026-08-05
 number: 445
+airmozilla: https://mzl.la/joy-of-coding-2026-08-05
 ---
 
 # Episode 445: Aug 5th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-08-05)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0445.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2024-01-17
 number: 352
+airmozilla: https://mzl.la/joy-of-coding-2024-01-17
 ---
 
 # Episode 352: Jan 17th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-01-17)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0352.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2020-04-29
 number: 214
+airmozilla: https://air.mozilla.org/event-redirect/367430/
 ---
 
 # Episode 214: Apr 29th, 2020
 
 ## Links
-* [Watch this episode on Air Mozilla](https://air.mozilla.org/event-redirect/367430/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=1fde32ef-43f5-47ae-89c6-c312f3665423&noteKey=6824b5d49a91b7ff&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F1fde32ef-43f5-47ae-89c6-c312f3665423%2F6824b5d49a91b7ff&title=April%2B29th%252C%2B2020%2B-%2BEpisode%2B214)
 
 ## Topics

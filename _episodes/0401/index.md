@@ -1,12 +1,13 @@
 ---
 date: 2025-05-14
 number: 401
+airmozilla: https://mzl.la/joy-of-coding-2025-05-14
 ---
 
 # Episode 401: May 14th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-05-14)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0401.html)
 
 ## Topics

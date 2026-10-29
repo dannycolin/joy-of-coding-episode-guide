@@ -1,12 +1,13 @@
 ---
 date: 2019-03-13
 number: 169
+airmozilla: https://air.mozilla.org/event-redirect/323657/
 ---
 
 # Episode 169: March 13th, 2019
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://air.mozilla.org/event-redirect/323657/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=460d5db5-f6e5-4060-94e0-99417d49a7d0&noteKey=30c526a4ba07d616&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F460d5db5-f6e5-4060-94e0-99417d49a7d0%2F30c526a4ba07d616&title=March%2B13th%252C%2B2019%2B-%2BEpisode%2B169)
 
 ## Topics

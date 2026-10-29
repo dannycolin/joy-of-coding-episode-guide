@@ -1,12 +1,13 @@
 ---
 date: 2019-05-01
 number: 176
+airmozilla: https://air.mozilla.org/event-redirect/329370/
 ---
 
 # Episode 176: May 1st, 2019
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://air.mozilla.org/event-redirect/329370/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=9c878e6a-ee1c-434f-92e5-1242c3d351e3&noteKey=5601d6170085be55&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F9c878e6a-ee1c-434f-92e5-1242c3d351e3%2F5601d6170085be55&title=May%2B1st%252C%2B2019%2B-%2BEpisode%2B176)
 
 ## Topics

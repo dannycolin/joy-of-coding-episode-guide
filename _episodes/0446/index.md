@@ -1,12 +1,13 @@
 ---
 date: 2026-08-12
 number: 446
+airmozilla: https://mzl.la/joy-of-coding-2026-08-12
 ---
 
 # Episode 446: Aug 12th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-08-12)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0446.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2017-11-08
 number: 119
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-119/
 ---
 
 # Episode 119: November 8th, 2017
 
 ## Links
-* [Watch this episode on air mozilla](https://air.mozilla.org/the-joy-of-coding-episode-119/)
+
 * [Evernote Agenda](https://www.evernote.com/l/AbK5XSoI_j1KxojSa5wmioE7oouqpvd-ULY)
 
 ## Topics

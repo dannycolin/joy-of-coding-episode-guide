@@ -1,12 +1,13 @@
 ---
 date: 2025-12-17
 number: 423
+airmozilla: https://mzl.la/joy-of-coding-2025-12-17
 ---
 
 # Episode 423: Dec 17th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-12-17)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0423.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2021-12-15
 number: 273
+airmozilla: https://mzl.la/joy-of-coding-2021-12-15
 ---
 
 # Episode 273: Dec 15th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-12-15)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0273.html)
 
 ## Topics

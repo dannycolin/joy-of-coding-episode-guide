@@ -1,12 +1,13 @@
 ---
 date: 2021-04-01
 number: 245
+airmozilla: https://mzl.la/joy-of-coding-2021-04-01
 ---
 
 # Episode 245: Apr 1st, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-04-01)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0245.html)
 
 ## Topics

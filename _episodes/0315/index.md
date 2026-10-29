@@ -1,12 +1,13 @@
 ---
 date: 2023-02-08
 number: 315
+airmozilla: https://mzl.la/joy-of-coding-2023-02-08
 ---
 
 # Episode 315: Feb 8th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-02-08)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0315.html)
 
 ## Topics

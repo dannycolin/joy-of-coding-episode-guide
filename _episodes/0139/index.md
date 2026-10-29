@@ -1,12 +1,13 @@
 ---
 date: 2018-05-16
 number: 139
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-139/
 ---
 
 # Episode 139: May 16th, 2018
 
 ## Links
-* [Watch this episode on air mozilla](https://air.mozilla.org/the-joy-of-coding-episode-139/)
+
 * [Evernote Agenda](https://www.evernote.com/l/AbIm2WYcK7xAP4LjLkQa_RjZikPTWnSXtdU)
 
 ## Topics

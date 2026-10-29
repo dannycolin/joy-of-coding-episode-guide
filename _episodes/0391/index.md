@@ -1,12 +1,13 @@
 ---
 date: 2025-01-22
 number: 391
+airmozilla: https://mzl.la/joy-of-coding-2025-01-22
 ---
 
 # Episode 391: Jan 22nd, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-01-22)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0391.html) 
 
 ## Topics

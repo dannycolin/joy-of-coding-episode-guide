@@ -1,12 +1,13 @@
 ---
 date: 2026-02-25
 number: 431
+airmozilla: https://mzl.la/joy-of-coding-2026-02-25
 ---
 
 # Episode 431: Feb 25th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-02-25)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0431.html)
 
 ## Topics

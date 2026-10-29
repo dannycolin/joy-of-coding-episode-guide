@@ -1,12 +1,13 @@
 ---
 date: 2026-04-15
 number: 437
+airmozilla: https://mzl.la/joy-of-coding-2026-04-15
 ---
 
 # Episode 437: Apr 15th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-04-15)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0437.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2022-05-04
 number: 288
+airmozilla: https://mzl.la/joy-of-coding-2022-05-04
 ---
 
 # Episode 288: May 4th, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-05-04)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0288.html)
 
 ## Topics

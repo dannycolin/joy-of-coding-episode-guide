@@ -1,12 +1,13 @@
 ---
 date: 2021-02-03
 number: 239
+airmozilla: https://mzl.la/joy-of-coding-2021-02-03
 ---
 
 # Episode 239: Feb 3rd, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-02-03)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0239.html)
 
 ## Topics

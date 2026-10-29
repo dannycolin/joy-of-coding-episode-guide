@@ -1,12 +1,13 @@
 ---
 date: 2018-07-11
 number: 145
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-145/
 ---
 
 # Episode 145: Jul 11th, 2018
 
 ## Links
-* [Watch this episode on air mozilla](https://air.mozilla.org/the-joy-of-coding-episode-145/)
+
 * [Evernote Agenda](https://www.evernote.com/l/AbIs3LRknK1AwbmFb8RozrnZvefTFPZv15s)
 * [Adso!](https://github.com/mikeconley/joy-of-coding-episode-guide/tree/master/utils/adso)
 Want to help me out? Please help correct transcriptions of episodes at [Amara](https://amara.org)

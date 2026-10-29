@@ -1,12 +1,13 @@
 ---
 date: 2023-01-11
 number: 311
+airmozilla: https://mzl.la/joy-of-coding-2023-01-11
 ---
 
 # Episode 311: Jan 11th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-01-11)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0311.html)
 
 ## Topics

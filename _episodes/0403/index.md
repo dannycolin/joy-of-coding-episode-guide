@@ -1,12 +1,13 @@
 ---
 date: 2025-06-04
 number: 403
+airmozilla: https://mzl.la/joy-of-coding-2025-06-04
 ---
 
 # Episode 403: Jun 4th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-06-04)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0403.html)
 
 ## Topics

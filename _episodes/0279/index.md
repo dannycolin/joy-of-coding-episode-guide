@@ -1,12 +1,13 @@
 ---
 date: 2022-02-16
 number: 279
+airmozilla: https://mzl.la/joy-of-coding-2022-02-16
 ---
 
 # Episode 279: Feb 16th, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-02-16)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0279.html)
 
 ## Topics

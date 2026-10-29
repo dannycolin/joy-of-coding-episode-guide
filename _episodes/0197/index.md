@@ -1,12 +1,13 @@
 ---
 date: 2019-11-13
 number: 197
+airmozilla: https://air.mozilla.org/event-redirect/349715/
 ---
 
 # Episode 197: Nov 13th, 2019
 
 ## Links
-* [Watch this episode on Air Mozilla](https://air.mozilla.org/event-redirect/349715/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=8fc9d136-be82-433b-831d-52644670b96f&noteKey=777c682d55efff66&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F8fc9d136-be82-433b-831d-52644670b96f%2F777c682d55efff66&title=November%2B13th%252C%2B2019%2B-%2BEpisode%2B197)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2018-03-21
 number: 133
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-133/
 ---
 
 # Episode 133: March 21st, 2018
 
 ## Links
-* [Watch this episode on air mozilla](https://air.mozilla.org/the-joy-of-coding-episode-133/)
+
 * [Evernote Agenda](https://www.evernote.com/l/AbKRrMUXNzdI_6ylrqiBDawO4R-3y6VYh2I)
 
 ## Topics

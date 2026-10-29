@@ -1,12 +1,13 @@
 ---
 date: 2025-03-12
 number: 395
+airmozilla: https://mzl.la/joy-of-coding-2025-03-12
 ---
 
 # Episode 395: Mar 12th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-03-12)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0395.html)
 
 ## Topics

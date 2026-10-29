@@ -1,12 +1,13 @@
 ---
 date: 2023-05-10
 number: 324
+airmozilla: https://mzl.la/joy-of-coding-2023-05-10
 ---
 
 # Episode 324: May 10th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-05-10)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0324.html)
 
 ## Topics

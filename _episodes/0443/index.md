@@ -1,12 +1,13 @@
 ---
 date: 2026-07-15
 number: 443
+airmozilla: https://mzl.la/joy-of-coding-2026-07-15
 ---
 
 # Episode 443: Jul 15th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-07-15)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0443.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2021-01-20
 number: 238
+airmozilla: https://mzl.la/joy-of-coding-2021-01-20
 ---
 
 # Episode 238: Jan 20th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-01-20)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0238.html)
 
 ## Topics

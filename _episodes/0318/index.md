@@ -1,12 +1,13 @@
 ---
 date: 2023-03-08
 number: 318
+airmozilla: https://mzl.la/joy-of-coding-2023-03-08
 ---
 
 # Episode 318: Mar 8th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-03-08)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0318.html)
 
 ## Topics

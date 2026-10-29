@@ -1,12 +1,13 @@
 ---
 date: 2017-06-07
 number: 101
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-101/
 ---
 
 # Episode 0101: June 7th, 2017
 
 ## Links
-* [Watch this episode on air.mo](https://air.mozilla.org/the-joy-of-coding-episode-101/)
+
 * [Episode notes on Evernote](https://www.evernote.com/l/AbIMl6V5JMRGGpx8yKsfHkfmtt6SuBgCipE)
 
 ## Topics

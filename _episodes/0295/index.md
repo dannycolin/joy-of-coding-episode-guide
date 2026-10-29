@@ -1,12 +1,13 @@
 ---
 date: 2022-07-27
 number: 295
+airmozilla: https://mzl.la/joy-of-coding-2022-07-27
 ---
 
 # Episode 295: Jul 27th, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-07-27)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0295.html)
 
 ## Topics

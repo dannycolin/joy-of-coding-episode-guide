@@ -1,12 +1,13 @@
 ---
 date: 2025-11-26
 number: 421
+airmozilla: https://mzl.la/joy-of-coding-2025-11-26
 ---
 
 # Episode 421: Nov 26th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-11-26)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0421.html)
 
 ## Topics

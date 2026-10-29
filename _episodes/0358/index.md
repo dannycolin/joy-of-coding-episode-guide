@@ -1,12 +1,13 @@
 ---
 date: 2024-03-06
 number: 358
+airmozilla: https://mzl.la/joy-of-coding-2024-03-06
 ---
 
 # Episode 358: Mar 6th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-03-06)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0358.html)
 
 ## Topics

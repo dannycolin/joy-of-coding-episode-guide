@@ -1,12 +1,13 @@
 ---
 date: 2017-08-02
 number: 108
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-108/
 ---
 
 # Episode 108: August 2nd, 2017
 
 ## Links
-* [Watch this episode on air.mo](https://air.mozilla.org/the-joy-of-coding-episode-108/)
+
 * [Episode notes on Evernote](https://www.evernote.com/l/AbLZ9ufRs8tO8oXj_OuLO1ajR1K8hG8UXW4)
 
 ## Topics

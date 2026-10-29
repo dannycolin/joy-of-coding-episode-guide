@@ -1,12 +1,13 @@
 ---
 date: 2021-10-13
 number: 265
+airmozilla: https://mzl.la/joy-of-coding-2021-10-13
 ---
 
 # Episode 265: Oct 13th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-10-13)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0265.html)
 
 ## Topics

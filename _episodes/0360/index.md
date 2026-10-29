@@ -1,12 +1,13 @@
 ---
 date: 2024-03-20
 number: 360
+airmozilla: https://mzl.la/joy-of-coding-2024-03-20
 ---
 
 # Episode 360: Mar 20th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-03-20)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0360.html)
 
 ## Topics

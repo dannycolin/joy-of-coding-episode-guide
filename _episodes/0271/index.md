@@ -1,12 +1,13 @@
 ---
 date: 2021-11-24
 number: 271
+airmozilla: https://mzl.la/joy-of-coding-2021-11-24
 ---
 
 # Episode 271: Nov 24th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-11-24)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0271.html)
 
 ## Topics

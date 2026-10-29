@@ -1,12 +1,13 @@
 ---
 date: 2024-02-14
 number: 355
+airmozilla: https://mzl.la/joy-of-coding-2024-02-14
 ---
 
 # Episode 355: Feb 14th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-02-14)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0355.html)
 
 ## Topics

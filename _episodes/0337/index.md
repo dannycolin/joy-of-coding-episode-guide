@@ -1,12 +1,13 @@
 ---
 date: 2023-09-06
 number: 337
+airmozilla: https://mzl.la/joy-of-coding-2023-09-06
 ---
 
 # Episode 337: Sep 6th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-09-06)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0337.html)
 
 ## Topics

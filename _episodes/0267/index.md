@@ -1,12 +1,13 @@
 ---
 date: 2021-10-27
 number: 267
+airmozilla: https://mzl.la/joy-of-coding-2021-10-27
 ---
 
 # Episode 267: Oct 27th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-10-27)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0267.html)
 
 ## Topics

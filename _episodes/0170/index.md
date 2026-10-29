@@ -1,12 +1,13 @@
 ---
 date: 2019-03-20
 number: 170
+airmozilla: https://air.mozilla.org/event-redirect/324328/
 ---
 
 # Episode 170: March 20th, 2019
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://air.mozilla.org/event-redirect/324328/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=955d9eac-97aa-4602-9fb3-5a28a7cbf29d&noteKey=b881de4ff0260a40&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F955d9eac-97aa-4602-9fb3-5a28a7cbf29d%2Fb881de4ff0260a40&title=March%2B20th%252C%2B2019%2B-%2BEpisode%2B170)
 
 ## Topics

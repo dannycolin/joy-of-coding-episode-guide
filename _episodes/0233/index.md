@@ -1,12 +1,13 @@
 ---
 date: 2020-12-02
 number: 233
+airmozilla: https://mzl.la/joy-of-coding-2020-12-02
 ---
 
 # Episode 233: Dec 2nd, 2020
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2020-12-02)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=e0882004-29a6-4367-ac79-9816de5f561b&noteKey=7ec0bf3d90bce4b5&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fe0882004-29a6-4367-ac79-9816de5f561b%2F7ec0bf3d90bce4b5&title=December%2B2nd%252C%2B2020%2B-%2BEpisode%2B233)
 
 ## Topics

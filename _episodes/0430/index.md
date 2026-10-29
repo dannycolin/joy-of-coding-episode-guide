@@ -1,12 +1,13 @@
 ---
 date: 2026-02-18
 number: 430
+airmozilla: https://mzl.la/joy-of-coding-2026-02-18
 ---
 
 # Episode 430: Feb 18th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-02-18)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0430.html)
 
 ## Topics

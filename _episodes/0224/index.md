@@ -1,12 +1,13 @@
 ---
 date: 2020-08-26
 number: 224
+airmozilla: https://air.mozilla.org/event-redirect/423325/
 ---
 
 # Episode 224: Aug 26th, 2020
 
 ## Links
-* [Watch this episode on Air Mozilla](https://air.mozilla.org/event-redirect/423325/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=793f1378-16b0-406f-a133-3c953e115602&noteKey=00208a76c93473e5&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F793f1378-16b0-406f-a133-3c953e115602%2F00208a76c93473e5&title=August%2B26th%252C%2B2020%2B-%2BEpisode%2B224)
 
 ## Topics

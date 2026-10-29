@@ -1,12 +1,13 @@
 ---
 date: 2024-09-04
 number: 376
+airmozilla: https://mzl.la/joy-of-coding-2024-09-04
 ---
 
 # Episode 376: Sep 4th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-09-04)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0376.html)
 
 ## Topics

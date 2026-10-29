@@ -1,12 +1,13 @@
 ---
 date: 2019-04-10
 number: 173
+airmozilla: https://air.mozilla.org/event-redirect/326249/
 ---
 
 # Episode 173: April 10th, 2019
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://air.mozilla.org/event-redirect/326249/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=509dfb79-695b-4b59-b610-59bc4c1ef48c&noteKey=bc5fc94757d286df&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F509dfb79-695b-4b59-b610-59bc4c1ef48c%2Fbc5fc94757d286df&title=April%2B10th%252C%2B2019%2B-%2BEpisode%2B173)
 
 ## Topics

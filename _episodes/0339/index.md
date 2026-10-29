@@ -1,12 +1,13 @@
 ---
 date: 2023-09-20
 number: 339
+airmozilla: https://mzl.la/joy-of-coding-2023-09-20
 ---
 
 # Episode 339: Sep 20th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-09-20)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0339.html)
 
 ## Topics

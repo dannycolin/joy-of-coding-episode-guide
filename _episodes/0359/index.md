@@ -1,12 +1,13 @@
 ---
 date: 2024-03-13
 number: 359
+airmozilla: https://mzl.la/joy-of-coding-2024-03-13
 ---
 
 # Episode 359: Mar 13th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-03-13)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0359.html)
 
 ## Topics

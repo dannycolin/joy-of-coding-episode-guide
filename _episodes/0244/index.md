@@ -1,12 +1,13 @@
 ---
 date: 2021-03-24
 number: 244
+airmozilla: https://mzl.la/joy-of-coding-2021-03-24
 ---
 
 # Episode 244: Mar 24th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-03-24)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0244.html)
 
 ## Topics

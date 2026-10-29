@@ -1,12 +1,13 @@
 ---
 date: 2024-10-30
 number: 381
+airmozilla: https://mzl.la/joy-of-coding-2024-10-30
 ---
 
 # Episode 381: Oct 30th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-10-30)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0381.html)
 
 ## Topics

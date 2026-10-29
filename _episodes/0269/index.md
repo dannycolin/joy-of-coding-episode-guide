@@ -1,12 +1,13 @@
 ---
 date: 2021-11-10
 number: 269
+airmozilla: https://mzl.la/joy-of-coding-2021-11-10
 ---
 
 # Episode 269: Nov 10th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-11-10)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0269.html)
 
 ## Topics

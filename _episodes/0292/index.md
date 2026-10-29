@@ -1,12 +1,13 @@
 ---
 date: 2022-06-22
 number: 292
+airmozilla: https://mzl.la/joy-of-coding-2022-06-22
 ---
 
 # Episode 292: Jun 22nd, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-06-22)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0292.html)
 
 ## Topics

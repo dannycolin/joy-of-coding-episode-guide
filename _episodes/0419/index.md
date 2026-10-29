@@ -1,12 +1,13 @@
 ---
 date: 2025-11-05
 number: 419
+airmozilla: https://mzl.la/joy-of-coding-2025-11-05
 ---
 
 # Episode 419: Nov 5th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-11-05)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0419.html)
 
 ## Topics

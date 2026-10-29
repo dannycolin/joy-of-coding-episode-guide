@@ -1,12 +1,13 @@
 ---
 date: 2024-04-10
 number: 362
+airmozilla: https://mzl.la/joy-of-coding-2024-04-10
 ---
 
 # Episode 362: Apr 10th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-04-10)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0362.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2020-07-22
 number: 222
+airmozilla: https://air.mozilla.org/event-redirect/408865/
 ---
 
 # Episode 222: July 22nd, 2020
 
 ## Links
-* [Watch this episode on Air Mozilla](https://air.mozilla.org/event-redirect/408865/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=c1cdd1bc-17f2-4b94-94b3-a45504f7f5c6&noteKey=20b44c6b0509d57f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fc1cdd1bc-17f2-4b94-94b3-a45504f7f5c6%2F20b44c6b0509d57f&title=July%2B22nd%252C%2B2020%2B-%2BEpisode%2B222)
 
 ## Topics

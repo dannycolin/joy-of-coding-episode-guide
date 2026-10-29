@@ -1,12 +1,13 @@
 ---
 date: 2023-06-07
 number: 327
+airmozilla: https://mzl.la/joy-of-coding-2023-06-07
 ---
 
 # Episode 327: Jun 7th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-06-07)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0327.html)
 
 ## Topics

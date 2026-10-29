@@ -1,12 +1,13 @@
 ---
 date: 2015-02-16
 number: 1
+youtube: https://www.youtube.com/watch?v=nCOeefQpg58
 ---
 
 # Episode 1: Feb 16, 2015
 
 ## Links
-* [Watch this episode on YouTube](https://www.youtube.com/watch?v=nCOeefQpg58)
+
 * [Blog post on this episode](https://mikeconley.ca/blog/2015/02/16/the-joy-of-coding-episode-1/)
 * [Episode notes on Evernote](https://www.evernote.com/l/AbIzumEhFI9LBpM8iNGUuXLqVAFeiEkn1gg)
 

@@ -1,12 +1,13 @@
 ---
 date: 2024-10-16
 number: 379
+airmozilla: https://mzl.la/joy-of-coding-2024-10-16
 ---
 
 # Episode 379: Oct 16th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-10-16)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0379.html)
 
 ## Topics

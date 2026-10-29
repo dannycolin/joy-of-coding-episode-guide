@@ -1,12 +1,13 @@
 ---
 date: 2018-04-25
 number: 137
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-137/
 ---
 
 # Episode 137: April 25th, 2018
 
 ## Links
-* [Watch this episode on air mozilla](https://air.mozilla.org/the-joy-of-coding-episode-137/)
+
 * [Evernote Agenda](https://www.evernote.com/l/AbJPtC2kaMlA1JbaJIm--Jqt4uJcoe24lEw)
 
 ## Topics

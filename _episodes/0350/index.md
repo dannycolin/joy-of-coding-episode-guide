@@ -1,12 +1,13 @@
 ---
 date: 2023-12-13
 number: 350
+airmozilla: https://mzl.la/joy-of-coding-2023-12-13
 ---
 
 # Episode 350: Dec 13th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-12-13)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0350.html)
 
 ## Topics

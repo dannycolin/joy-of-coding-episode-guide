@@ -1,12 +1,13 @@
 ---
 date: 2022-02-23
 number: 280
+airmozilla: https://mzl.la/joy-of-coding-2022-02-23
 ---
 
 # Episode 280: Feb 23rd, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-02-23)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0280.html)
 
 ## Topics

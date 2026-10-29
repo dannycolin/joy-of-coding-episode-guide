@@ -1,12 +1,13 @@
 ---
 date: 2017-10-04
 number: 115
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-115/
 ---
 
 # Episode 115: October 4th, 2017
 
 ## Links
-* [Watch this episode on air mozilla](https://air.mozilla.org/the-joy-of-coding-episode-115/)
+
 * [Evernote Agenda](https://www.evernote.com/l/AbKrjkVbmZJBQYdIC8NJiX3Htnf9tS6Ww20)
 
 ## Topics

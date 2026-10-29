@@ -1,12 +1,13 @@
 ---
 date: 2025-04-16
 number: 398
+airmozilla: https://mzl.la/joy-of-coding-2025-04-16
 ---
 
 # Episode 398: Apr 16th, 2025
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2025-04-16)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0398.html)
 
 ## Topics

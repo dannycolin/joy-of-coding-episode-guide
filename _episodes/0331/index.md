@@ -1,12 +1,13 @@
 ---
 date: 2023-07-05
 number: 331
+airmozilla: https://mzl.la/joy-of-coding-2023-07-05
 ---
 
 # Episode 331: Jul 5th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-07-05)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0331.html)
 
 ## Topics

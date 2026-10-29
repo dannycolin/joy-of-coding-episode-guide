@@ -1,12 +1,13 @@
 ---
 date: 2021-06-09
 number: 251
+airmozilla: https://mzl.la/joy-of-coding-2021-06-09
 ---
 
 # Episode 251: Jun 9th, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-06-09)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0251.html)
 
 ## Topics

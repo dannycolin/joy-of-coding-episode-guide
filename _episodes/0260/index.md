@@ -1,12 +1,13 @@
 ---
 date: 2021-09-01
 number: 260
+airmozilla: https://mzl.la/joy-of-coding-2021-09-01
 ---
 
 # Episode 260: Sep 1st, 2021
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2021-09-01)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0260.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2018-02-14
 number: 128
+airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-128/
 ---
 
 # Episode 128: February 14th, 2018
 
 ## Links
-* [Watch this episode on air mozilla](https://air.mozilla.org/the-joy-of-coding-episode-128/)
+
 * [Evernote Agenda](https://www.evernote.com/l/AbJx-bTwx6FFdKbQ1EbvEYoLyR5BUaOytT4)
 
 ## Topics

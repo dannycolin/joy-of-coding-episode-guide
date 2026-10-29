@@ -1,12 +1,13 @@
 ---
 date: 2023-05-17
 number: 325
+airmozilla: https://mzl.la/joy-of-coding-2023-05-17
 ---
 
 # Episode 325: May 17th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-05-17)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0325.html)
 
 ## Topics

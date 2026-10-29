@@ -1,12 +1,13 @@
 ---
 date: 2024-02-21
 number: 356
+airmozilla: https://mzl.la/joy-of-coding-2024-02-21
 ---
 
 # Episode 356: Feb 21th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-02-21)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0356.html)
 
 ## Topics

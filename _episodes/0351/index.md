@@ -1,12 +1,13 @@
 ---
 date: 2024-01-10
 number: 351
+airmozilla: https://mzl.la/joy-of-coding-2024-01-10
 ---
 
 # Episode 351: Jan 10th, 2024
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2024-01-10)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0351.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2023-04-26
 number: 323
+airmozilla: https://mzl.la/joy-of-coding-2023-04-26
 ---
 
 # Episode 323: Apr 26th, 2023
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2023-04-26)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0323.html)
 
 ## Topics

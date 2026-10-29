@@ -1,12 +1,13 @@
 ---
 date: 2026-06-24
 number: 442
+airmozilla: https://mzl.la/joy-of-coding-2026-06-24
 ---
 
 # Episode 442: Jun 24th, 2026
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2026-06-24)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0442.html)
 
 ## Topics

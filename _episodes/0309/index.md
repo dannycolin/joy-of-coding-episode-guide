@@ -1,12 +1,13 @@
 ---
 date: 2022-11-30
 number: 309
+airmozilla: https://mzl.la/joy-of-coding-2022-11-30
 ---
 
 # Episode 309: Nov 30th, 2022
 
 ## Links
-* [Watch this episode on Air Mozilla](https://mzl.la/joy-of-coding-2022-11-30)
+
 * [Joplin Agenda](https://mikeconley.ca/joc/agendas/Episode-0309.html)
 
 ## Topics

@@ -1,12 +1,13 @@
 ---
 date: 2019-09-25
 number: 190
+airmozilla: https://air.mozilla.org/event-redirect/344361/
 ---
 
 # Episode 190: Sep 25th, 2019
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://air.mozilla.org/event-redirect/344361/)
+
 * [Evernote Agenda](https://www.evernote.com/shard/s434/client/snv?noteGuid=f25f76a6-08e0-4d67-b173-03ccae4d2d88&noteKey=b08076751dc34afa&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Ff25f76a6-08e0-4d67-b173-03ccae4d2d88%2Fb08076751dc34afa&title=September%2B25th%252C%2B2019%2B-%2BEpisode%2B190)
 
 ## Topics

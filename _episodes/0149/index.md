@@ -1,12 +1,12 @@
 ---
 date: 2018-09-12
 number: 149
+airmozilla: https://onlinexperiences.com/Launch/Event.htm?ShowKey=44908&DisplayItem=E303404
 ---
 
 # Episode 149: September 12th, 2018
 
 ## Links
-* [Watch this episode on new Air Mozilla](https://onlinexperiences.com/Launch/Event.htm?ShowKey=44908&DisplayItem=E303404)
 * [Evernote Agenda](https://www.evernote.com/shard/s434/sh/89eba857-a819-4a18-bb83-227a17117556/29d50140ebe7573e)
 
 ## Shoutouts
