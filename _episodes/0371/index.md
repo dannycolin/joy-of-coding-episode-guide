@@ -3,6 +3,7 @@ date: 2024-07-03
 number: 371
 airmozilla: https://mzl.la/joy-of-coding-2024-07-03
 agenda: https://mikeconley.ca/joc/agendas/Episode-0371.html
+rating: https://forms.gle/tFjRn2B37jPDGmGu9
 ---
 
 
@@ -35,10 +36,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0371.html
       - Making sure we don't accidentally store a plaintext credit card number inside of autofill-profiles.json during recovery in CredentialsAndSecurityBackupResource
       - Make sure this will work if the secret is common between the device that was backed up, and the device that was recovered on, or if the secret is different between the two.
 * Must end at precisely 2:30ET due to a meeting. Sorry!
-
-
-* [Rate this episode](https://forms.gle/tFjRn2B37jPDGmGu9)
-
-
-
-

@@ -3,6 +3,7 @@ date: 2024-04-03
 number: 361
 airmozilla: https://mzl.la/joy-of-coding-2024-04-03
 agenda: https://mikeconley.ca/joc/agendas/Episode-0361.html
+rating: https://forms.gle/ne56X4BBFMYaBrKu6
 ---
 
 
@@ -14,9 +15,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0361.html
   - https://bugzilla.mozilla.org/show_bug.cgi?id=1887868
   - https://crash-stats.mozilla.org/report/index/3a391e12-8a6c-4d8b-9f6a-c0d0f0240326
 * We got the crash fixed! And the thing seems to work! But we found [a (pre-existing) bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1889455) related to large favicons (we think)
-
-* [Rate this episode](https://forms.gle/ne56X4BBFMYaBrKu6)
-
-
-
-

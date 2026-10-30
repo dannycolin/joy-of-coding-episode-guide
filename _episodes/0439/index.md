@@ -3,6 +3,7 @@ date: 2026-05-06
 number: 439
 airmozilla: https://mzl.la/joy-of-coding-2026-05-06
 agenda: https://mikeconley.ca/joc/agendas/Episode-0439.html
+rating: https://forms.gle/G82dS9igNarahUgi9
 ---
 
 
@@ -51,9 +52,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0439.html
 * TODO:
   - Talk to emilio about center cropping support in CSS for privileged markup / layout
   - Factor out download item UI into a reusable Lit element
-
-* [Rate this episode](https://forms.gle/G82dS9igNarahUgi9)
-
-
-
-

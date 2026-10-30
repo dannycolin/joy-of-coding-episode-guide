@@ -3,6 +3,7 @@ date: 2022-04-13
 number: 286
 airmozilla: https://mzl.la/joy-of-coding-2022-04-13
 agenda: https://mikeconley.ca/joc/agendas/Episode-0286.html
+rating: https://forms.gle/64UKNwxqfo8qLG6o9
 ---
 
 
@@ -24,9 +25,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0286.html
 
 * Questions:
   - Could you please give an explanation for the "points" field under categories in bugzilla: [Bug 1762042](https://bugzil.la/1762042) there is no entry for it in the wiki: [Wiki BugFields](https://wiki.mozilla.org/BMO/UserGuide/BugFields)
-
-* [Rate this episode](https://forms.gle/64UKNwxqfo8qLG6o9)
-
-
-
-

@@ -3,6 +3,7 @@ date: 2023-09-13
 number: 338
 airmozilla: https://mzl.la/joy-of-coding-2023-09-13
 agenda: https://mikeconley.ca/joc/agendas/Episode-0338.html
+rating: https://forms.gle/g3G2T9vuetweJgZRA
 ---
 
 
@@ -44,9 +45,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0338.html
       - [ ] Maybe all of our mocks should be StrictMocks?
   - [ ] Write a front-end test that registers a fake nsIWinTaskbar or otherwise produces a fake nsIJumpListBuilder to make sure it gets passed the right things.
     - [ ] Make a note to migrate the new jump list builder off of the dedicated lazy thread and use the IO thread pool instead.
-
-* [Rate this episode](https://forms.gle/g3G2T9vuetweJgZRA)
-
-
-
-

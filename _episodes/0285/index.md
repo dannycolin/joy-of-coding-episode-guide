@@ -3,6 +3,7 @@ date: 2022-04-06
 number: 285
 airmozilla: https://mzl.la/joy-of-coding-2022-04-06
 agenda: https://mikeconley.ca/joc/agendas/Episode-0285.html
+rating: https://forms.gle/B4UQBg7c3RKF3ZBU8
 ---
 
 
@@ -35,9 +36,3 @@ Question time:
   - Hopefully you could either propose a fix to the patch, or alternatively add a comment to the bug indicating a likely method needed for it to be fixed by a future assignee?
 
 * Next week: Maybe back in the office to stream?!
-
-* [Rate this episode](https://forms.gle/B4UQBg7c3RKF3ZBU8)
-
-
-
-

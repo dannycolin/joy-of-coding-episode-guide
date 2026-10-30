@@ -3,6 +3,7 @@ date: 2025-04-16
 number: 398
 airmozilla: https://mzl.la/joy-of-coding-2025-04-16
 agenda: https://mikeconley.ca/joc/agendas/Episode-0398.html
+rating: https://forms.gle/pTVA361bbFFMqbq4A
 ---
 
 
@@ -26,9 +27,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0398.html
     - Read in the .mjs file, strip out what we don't need, and then convert each string into the byte representation to generate the Rust file that we need.
     - Import that Rust file into import-site-list
 *  ./import-site-list --from-filteradult-mjs=<path> ./import-site-list --add=<path> ./import-site-list --remove=<path> ./import-site-list --replace=<path>
-
-* [Rate this episode](https://forms.gle/pTVA361bbFFMqbq4A)
-
-
-
-

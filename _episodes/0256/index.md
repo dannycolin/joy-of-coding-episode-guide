@@ -3,6 +3,7 @@ date: 2021-07-28
 number: 256
 airmozilla: https://mzl.la/joy-of-coding-2021-07-28
 agenda: https://mikeconley.ca/joc/agendas/Episode-0256.html
+rating: https://forms.gle/sfdkUfmkpGwEybM9A
 ---
 
 
@@ -16,9 +17,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0256.html
 * Mike answers some questions from previous episode forms
 * `hg pull central -u` to update to central and move to the top
 * Keyboard shortcut for the Browser toolbox (on mac) : Cmd + Opt + Shift + i, (on win) should be Ctrl + Alt + Shift + i
-
-* [Rate this episode](https://forms.gle/sfdkUfmkpGwEybM9A)
-
-
-
-

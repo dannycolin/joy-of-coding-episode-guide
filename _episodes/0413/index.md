@@ -3,6 +3,7 @@ date: 2025-08-13
 number: 413
 airmozilla: https://mzl.la/joy-of-coding-2025-08-13
 agenda: https://mikeconley.ca/joc/agendas/Episode-0413.html
+rating: https://forms.gle/T1XfKRQTpPQpbmox5
 ---
 
 
@@ -20,9 +21,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0413.html
   - browser.newtabpage.activity-stream.widgets.system.lists.enabled
 * Let's work on a utility for generating the JSON recipe, like this: { "addon_version": "143.0.20250805.140919", "xpi_download_path": "newtab-143.0.0-build1/newtab.xpi" }
   - https://firefox-ci-tc.services.mozilla.com/tasks/groups/YuPgoiBfSy22-ayNWipNaw
-
-* [Rate this episode](https://forms.gle/T1XfKRQTpPQpbmox5)
-
-
-
-

@@ -3,6 +3,7 @@ date: 2021-09-15
 number: 262
 airmozilla: https://mzl.la/joy-of-coding-2021-09-15
 agenda: https://mikeconley.ca/joc/agendas/Episode-0262.html
+rating: https://forms.gle/SSpT4vYSGYM6vAWU9
 ---
 
 
@@ -31,9 +32,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0262.html
     - Margaret Atwood's Oryx and Crake
   - Some companies/teams once in a while have a time period when they focus solely on fixing bugs - what do you think about this approach? have you ever discussed this with your colleagues?
     - Yes, I like this approach. We do this approach! It's a great way to fix papercuts and also to pay down technical debt.
-
-* [Rate this episode](https://forms.gle/SSpT4vYSGYM6vAWU9)
-
-
-
-

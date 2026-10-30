@@ -3,6 +3,7 @@ date: 2022-11-09
 number: 306
 airmozilla: https://mzl.la/joy-of-coding-2022-11-09
 agenda: https://mikeconley.ca/joc/agendas/Episode-0306.html
+rating: https://forms.gle/dZGL98EpguYzJWRC8
 ---
 
 
@@ -18,9 +19,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0306.html
   - [Beautifier](https://beautifier.io/)
 * [Servo](https://servo.org/)
 * [Ladybird](https://github.com/SerenityOS/ladybird) / [SerenityOS](https://serenityos.org/)
-
-* [Rate this episode](https://forms.gle/dZGL98EpguYzJWRC8)
-
-
-
-

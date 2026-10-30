@@ -3,6 +3,7 @@ date: 2021-03-10
 number: 243
 airmozilla: https://mzl.la/joy-of-coding-2021-03-10
 agenda: https://mikeconley.ca/joc/agendas/Episode-0243.html
+rating: https://forms.gle/xbt4VGyh1CBguDtc7
 ---
 
 
@@ -14,9 +15,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0243.html
 * Let's work on some panels stuff! Lots to do!
   - browser.proton.enabled - is the configuration option you must set to true to view the new Proton changes
   - [Bug 1697484](https://bugzilla.mozilla.org/show_bug.cgi?id=1697484) - Update copy for password panels
-
-* [Rate this episode](https://forms.gle/xbt4VGyh1CBguDtc7)
-
-
-
-

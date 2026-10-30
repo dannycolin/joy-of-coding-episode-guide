@@ -3,6 +3,7 @@ date: 2023-06-14
 number: 328
 airmozilla: https://mzl.la/joy-of-coding-2023-06-14
 agenda: https://mikeconley.ca/joc/agendas/Episode-0328.html
+rating: https://forms.gle/nMqrbrnvApSBUDns9
 ---
 
 
@@ -20,9 +21,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0328.html
   - [ ] Have createJumpListBuilder in nsIWinTaskBar use that
   - [ ] Update WindowsJumpLists to choose the right builder based on the pref and treat them correctly based on that pref.
   - [ ] Make a note to migrate the new jump list builder off of the dedicated lazy thread and use the IO thread pool instead.
-
-* [Rate this episode](https://forms.gle/nMqrbrnvApSBUDns9)
-
-
-
-

@@ -3,6 +3,7 @@ date: 2023-01-18
 number: 312
 airmozilla: https://mzl.la/joy-of-coding-2023-01-18
 agenda: https://mikeconley.ca/joc/agendas/Episode-0312.html
+rating: https://forms.gle/LkQj4crLP697sE4B7
 ---
 
 
@@ -22,9 +23,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0312.html
 * Find good first bugs at [Codetribute](https://codetribute.mozilla.org/)
 * [Servo news](https://servo.org/blog/2023/01/16/servo-2023/)
 * New migration wizard work is behind this pref: `browser.migrate.content-modal.enabled`
-
-* [Rate this episode](https://forms.gle/LkQj4crLP697sE4B7)
-
-
-
-

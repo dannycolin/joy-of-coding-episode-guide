@@ -3,6 +3,7 @@ date: 2020-02-19
 number: 206
 airmozilla: https://air.mozilla.org/event-redirect/357988/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=a8840d50-f592-4770-80f6-ee1b332b5df6&noteKey=9d2a0a05a9a24e0a&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fa8840d50-f592-4770-80f6-ee1b332b5df6%2F9d2a0a05a9a24e0a&title=February%2B19th%252C%2B2020%2B-%2BEpisode%2B206
+rating: https://forms.gle/7G9tSWZTuAt6ViqM7
 ---
 
 
@@ -18,9 +19,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=a8840d50-f592-47
 * moz-phab submit tip --wip  (for work-in-progress patches)
 * sysmain vs superfetch (in Windows 7)
 * 17763 is the build number of Windows 10 v1809
-
-* [Rate this episode](https://forms.gle/7G9tSWZTuAt6ViqM7)
-
-
-
-

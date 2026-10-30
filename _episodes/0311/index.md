@@ -3,6 +3,7 @@ date: 2023-01-11
 number: 311
 airmozilla: https://mzl.la/joy-of-coding-2023-01-11
 agenda: https://mikeconley.ca/joc/agendas/Episode-0311.html
+rating: https://forms.gle/zenyCRvp5YH1Ukfr8
 ---
 
 
@@ -33,9 +34,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0311.html
 
 * Question: "What is easiest way to succeed with applying an old patch, bump it to tip and deal with merge conflicts? To handle review feedback. Is it best to apply somewhere close in the Mercurial tree where it was committed?"
   - Answer: It's best if you can take advantage of the VCS's smarts when reviving an old patch. moz-phab patch XYZ --apply-to here just uses the patch command under the hood to apply the patch directly. Rebase the old patch from where it was onto the tip. That will take advantage of what the VCS knows about what has happened since that commit was made.
-
-* [Rate this episode](https://forms.gle/zenyCRvp5YH1Ukfr8)
-
-
-
-

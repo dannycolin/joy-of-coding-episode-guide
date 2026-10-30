@@ -3,6 +3,7 @@ date: 2021-04-01
 number: 245
 airmozilla: https://mzl.la/joy-of-coding-2021-04-01
 agenda: https://mikeconley.ca/joc/agendas/Episode-0245.html
+rating: https://forms.gle/6FMQVKK7NdksmHae9
 ---
 
 
@@ -16,9 +17,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0245.html
 * [Mike's band](https://www.youtube.com/channel/UC8PtVTV4BtuLa_iC_cmhotw)
   - [Bandcamp](https://thejohnsonreport.bandcamp.com/)
 * Flashy warning at 08:40
-
-* [Rate this episode](https://forms.gle/6FMQVKK7NdksmHae9)
-
-
-
-

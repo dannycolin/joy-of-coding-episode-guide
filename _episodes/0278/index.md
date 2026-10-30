@@ -3,6 +3,7 @@ date: 2022-02-09
 number: 278
 airmozilla: https://mzl.la/joy-of-coding-2022-02-09
 agenda: https://mikeconley.ca/joc/agendas/Episode-0278.html
+rating: https://forms.gle/xnGneA1xnB2uM5u46
 ---
 
 
@@ -24,9 +25,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0278.html
         - https://bugzilla.mozilla.org/showbug.cgi?id=1495040
         - MOZ_DEBUG_BROWSERPAUSE=15
     - Attaching to the content process
-
-* [Rate this episode](https://forms.gle/xnGneA1xnB2uM5u46)
-
-
-
-

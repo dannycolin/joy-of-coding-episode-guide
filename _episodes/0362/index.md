@@ -3,6 +3,7 @@ date: 2024-04-10
 number: 362
 airmozilla: https://mzl.la/joy-of-coding-2024-04-10
 agenda: https://mikeconley.ca/joc/agendas/Episode-0362.html
+rating: https://forms.gle/wNVrp498YkmsArqd7
 ---
 
 
@@ -34,9 +35,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0362.html
     As i don't believe there is a GUI method to undo this list, could you please demonstrate the sqlite command syntax (terminal or powershell) so that it can be cleared for an existing profile and avoid having to create a brand new firefox profile? thanks for the streams"
     - const { WinTaskbarJumpList } = ChromeUtils.importESModule( "resource:///modules/WindowsJumpLists.sys.mjs" );
     - WinTaskbarJumpList.update()
-
-* [Rate this episode](https://forms.gle/wNVrp498YkmsArqd7)
-
-
-
-

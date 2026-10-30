@@ -3,6 +3,7 @@ date: 2023-04-26
 number: 323
 airmozilla: https://mzl.la/joy-of-coding-2023-04-26
 agenda: https://mikeconley.ca/joc/agendas/Episode-0323.html
+rating: https://forms.gle/yva4uLDg6f6FALsU9
 ---
 
 
@@ -20,9 +21,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0323.html
   - Idle thought: instead of shoehorning our new behaviour into the existing backend, what if we write a whole new backend exposed over WebIDL to our front-end JavaScript, and implemented in Rust... is that a super bad idea?
 * Won't be able to stream next week
   - Mike will attend [The Thundercast](https://blog.thunderbird.net/)
-
-* [Rate this episode](https://forms.gle/yva4uLDg6f6FALsU9)
-
-
-
-

@@ -3,6 +3,7 @@ date: 2023-11-15
 number: 347
 airmozilla: https://mzl.la/joy-of-coding-2023-11-15
 agenda: https://mikeconley.ca/joc/agendas/Episode-0347.html
+rating: https://forms.gle/P8qR1FjHzb9tAH2H9
 ---
 
 
@@ -59,10 +60,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0347.html
   - [ ] Consider making the rejection value of populateJumpList not an nsresult but a more descriptive ErrorResult type.
   - [ ] See if we should ClearJumpList on kPrefTaskbarEnabled pref change or TOPIC_CLEAR_PRIVATE_DATA
   - [ ] Make it so that if gtest fails to build that the test will fail to run.
-
-
-* [Rate this episode](https://forms.gle/P8qR1FjHzb9tAH2H9)
-
-
-
-

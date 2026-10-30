@@ -3,6 +3,7 @@ date: 2021-10-13
 number: 265
 airmozilla: https://mzl.la/joy-of-coding-2021-10-13
 agenda: https://mikeconley.ca/joc/agendas/Episode-0265.html
+rating: https://forms.gle/xYGfDZK2n9jE7mpAA
 ---
 
 
@@ -19,9 +20,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0265.html
 * Question time!
   - I'd like a "part 2" of this episode where you explain how addons/webextentions interact with all the docshells (chrome, content)
   - How did you learn to be a mentor?
-
-* [Rate this episode](https://forms.gle/xYGfDZK2n9jE7mpAA)
-
-
-
-

@@ -3,6 +3,7 @@ date: 2025-08-06
 number: 412
 airmozilla: https://mzl.la/joy-of-coding-2025-08-06
 agenda: https://mikeconley.ca/joc/agendas/Episode-0412.html
+rating: https://forms.gle/YbnHW1iJbDdYp6Hz9
 ---
 
 
@@ -31,9 +32,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0412.html
   - Have a consistent schedule if you can
   - Reduce how much overhead there is to produce an episode.
 * Another moz-cached-ohttp image bug!
-
-* [Rate this episode](https://forms.gle/YbnHW1iJbDdYp6Hz9)
-
-
-
-

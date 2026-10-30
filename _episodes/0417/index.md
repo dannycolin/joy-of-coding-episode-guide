@@ -3,6 +3,7 @@ date: 2025-10-01
 number: 417
 airmozilla: https://mzl.la/joy-of-coding-2025-10-01
 agenda: https://mikeconley.ca/joc/agendas/Episode-0417.html
+rating: https://forms.gle/xMkmznMjTziurPwq6
 ---
 
 
@@ -19,9 +20,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0417.html
   - [x] Use jq-web library (https://github.com/fiatjaf/jq-web) to query Experimenter for active deploys, rollouts and experiments.
   - [ ] If no jobs detected for any platform, have them be "grey" for pending.
 * No episode next week due to (more) travel
-
-* [Rate this episode](https://forms.gle/xMkmznMjTziurPwq6)
-
-
-
-

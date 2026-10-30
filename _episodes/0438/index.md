@@ -3,6 +3,7 @@ date: 2026-04-29
 number: 438
 airmozilla: https://mzl.la/joy-of-coding-2026-04-29
 agenda: https://mikeconley.ca/joc/agendas/Episode-0438.html
+rating: https://forms.gle/eXS3w4RC4SPZmFYE6
 ---
 
 
@@ -25,9 +26,3 @@ Could you please clarify which is correct, is the only outstanding functionality
   - Where are those spans going? Where is the progress going?!
   - Build fluent migration for the strings we moved
   - Fix button styling to match existing button behaviour
-
-* [Rate this episode](https://forms.gle/eXS3w4RC4SPZmFYE6)
-
-
-
-

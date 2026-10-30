@@ -3,6 +3,7 @@ date: 2025-03-12
 number: 395
 airmozilla: https://mzl.la/joy-of-coding-2025-03-12
 agenda: https://mikeconley.ca/joc/agendas/Episode-0395.html
+rating: https://forms.gle/9zfzTXDxvTf2xK699
 ---
 
 
@@ -16,9 +17,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0395.html
 * I just want to know the sustainability of this project"
   * On to CustomizableWidgets!
   * Also, let's see what's happened in tsc-land recently...
-
-* [Rate this episode](https://forms.gle/9zfzTXDxvTf2xK699)
-
-
-
-

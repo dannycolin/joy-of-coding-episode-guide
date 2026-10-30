@@ -3,6 +3,7 @@ date: 2025-11-19
 number: 420
 airmozilla: https://mzl.la/joy-of-coding-2025-11-19
 agenda: https://mikeconley.ca/joc/agendas/Episode-0420.html
+rating: https://forms.gle/FAyEEyhmrrvdW7K38
 ---
 
 
@@ -16,9 +17,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0420.html
   - [ ] Update earlier patch to remove non-handoff mode to remove non-handoff styles from _Search.scss
   - [ ] Need to get the disabled state wired up
   - [ ] Style customizations per context
-
-* [Rate this episode](https://forms.gle/FAyEEyhmrrvdW7K38)
-
-
-
-

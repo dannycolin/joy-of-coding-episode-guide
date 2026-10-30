@@ -3,6 +3,7 @@ date: 2020-12-02
 number: 233
 airmozilla: https://mzl.la/joy-of-coding-2020-12-02
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=e0882004-29a6-4367-ac79-9816de5f561b&noteKey=7ec0bf3d90bce4b5&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fe0882004-29a6-4367-ac79-9816de5f561b%2F7ec0bf3d90bce4b5&title=December%2B2nd%252C%2B2020%2B-%2BEpisode%2B233
+rating: https://forms.gle/VRoibPHsFFf4auwYA
 ---
 
 
@@ -17,9 +18,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=e0882004-29a6-43
 * [Bug 1673716](https://bugzilla.mozilla.org/show_bug.cgi?id=1673716) - Crash in [@ AsyncShutdownTimeout | quit-application-granted | AboutHomeStartupCache: Writing cache] - [Notes](https://www.evernote.com/l/AbJdXM0E9EFHkrqHpIS9_9QELlqWGoZcs1I)
 * Mike had issues with running mach mochitest
 * ./mach busted - to see what bugs has been filed against the build system
-
-* [Rate this episode](https://forms.gle/VRoibPHsFFf4auwYA)
-
-
-
-

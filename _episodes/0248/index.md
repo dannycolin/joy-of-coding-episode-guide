@@ -3,6 +3,7 @@ date: 2021-05-05
 number: 248
 airmozilla: https://mzl.la/joy-of-coding-2021-05-05
 agenda: https://mikeconley.ca/joc/agendas/Episode-0248.html
+rating: https://forms.gle/3xF6isD6zKeiMKnS8
 ---
 
 
@@ -18,9 +19,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0248.html
 * User.chrome voids warranty
 * [Are](https://arewexblstill.com) we xbl still? No
 * [Thunderbird](https://www.youtube.com/c/AlessandroCastellani/videos) developer Alessandro Castellani livehacks! (thursdays)
-
-* [Rate this episode](https://forms.gle/3xF6isD6zKeiMKnS8)
-
-
-
-

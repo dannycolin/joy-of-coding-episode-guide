@@ -3,6 +3,7 @@ date: 2020-12-09
 number: 234
 airmozilla: https://mzl.la/joy-of-coding-2020-12-09
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=929d89d1-ccde-4b0e-aacc-e1b05d6ed6ac&noteKey=536786c4697bbe9546c7017ff046fdf3&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F929d89d1-ccde-4b0e-aacc-e1b05d6ed6ac%2F536786c4697bbe9546c7017ff046fdf3&title=December%2B9th%252C%2B2020%2B-%2BEpisode%2B234
+rating: https://forms.gle/mv31uY2chrwin2Xq5
 ---
 
 
@@ -20,9 +21,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=929d89d1-ccde-4b
   - [Bug 1677080](https://bugzilla.mozilla.org/show_bug.cgi?id=1677080)
   - [Bug 1679138](https://bugzilla.mozilla.org/show_bug.cgi?id=1679138)
 * Uncle Mark rap!
-
-* [Rate this episode](https://forms.gle/mv31uY2chrwin2Xq5)
-
-
-
-

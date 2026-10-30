@@ -3,6 +3,7 @@ date: 2022-01-12
 number: 274
 airmozilla: https://mzl.la/joy-of-coding-2022-01-12
 agenda: https://mikeconley.ca/joc/agendas/Episode-0274.html
+rating: https://forms.gle/bLBuhubedjS3FUSR9
 ---
 
 
@@ -21,9 +22,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0274.html
   - [Bug 1744215](https://bugzilla.mozilla.org/show_bug.cgi?id=1744215)
   - [Bug 1545189](https://bugzilla.mozilla.org/show_bug.cgi?id=1545189)
   - [Bug 1740338](https://bugzilla.mozilla.org/show_bug.cgi?id=1740338)
-
-* [Rate this episode](https://forms.gle/bLBuhubedjS3FUSR9)
-
-
-
-

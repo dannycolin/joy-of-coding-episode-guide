@@ -3,6 +3,7 @@ date: 2022-10-19
 number: 303
 airmozilla: https://mzl.la/joy-of-coding-2022-10-19
 agenda: https://mikeconley.ca/joc/agendas/Episode-0303.html
+rating: https://forms.gle/De7wVWyVwoZQT3td9
 ---
 
 
@@ -19,9 +20,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0303.html
     - Having an build-time included document fragment in both places
       - Bookmark panel vs modal
 * Pi-related episode for Episode 314? Maybe I'll eat pie that day... let me know what your thoughts are there.
-
-* [Rate this episode](https://forms.gle/De7wVWyVwoZQT3td9)
-
-
-
-

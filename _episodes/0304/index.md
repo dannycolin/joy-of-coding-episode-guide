@@ -3,6 +3,7 @@ date: 2022-10-26
 number: 304
 airmozilla: https://mzl.la/joy-of-coding-2022-10-26
 agenda: https://mikeconley.ca/joc/agendas/Episode-0304.html
+rating: https://forms.gle/AkEuwQuRZGmXp7xs9
 ---
 
 
@@ -29,9 +30,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0304.html
 * Question:
   - I have many preferences in about:config that start with "services.sync.prefs.sync-seen.". I know these have to do with syncing prefs, but I don't remember the "-seen" part. What does the -seen mean? is it new?
     - [Bug 1731249#c13](https://bugzilla.mozilla.org/show_bug.cgi?id=1731249#c13)
-
-* [Rate this episode](https://forms.gle/AkEuwQuRZGmXp7xs9)
-
-
-
-

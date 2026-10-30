@@ -3,6 +3,7 @@ date: 2021-11-24
 number: 271
 airmozilla: https://mzl.la/joy-of-coding-2021-11-24
 agenda: https://mikeconley.ca/joc/agendas/Episode-0271.html
+rating: https://forms.gle/f11KhxnjBLUEsVNu8
 ---
 
 
@@ -24,9 +25,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0271.html
 * [Bug 1733580](https://bugzilla.mozilla.org/show_bug.cgi?id=1733580) - PiP toggle glitch in High Contrast Mode
 * [Bug 1575379](https://bugzilla.mozilla.org/show_bug.cgi?id=1575379) - [meta] Make it possible to capture non-warm startup times using frame recording
 * [Bug 1741634](https://bugzilla.mozilla.org/show_bug.cgi?id=1741634) - The search box moves left and right every you type.
-
-* [Rate this episode](https://forms.gle/f11KhxnjBLUEsVNu8)
-
-
-
-

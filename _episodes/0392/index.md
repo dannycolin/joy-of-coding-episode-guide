@@ -3,6 +3,7 @@ date: 2025-01-29
 number: 392
 airmozilla: https://mzl.la/joy-of-coding-2025-01-29
 agenda: https://mikeconley.ca/joc/agendas/Episode-0392.html
+rating: https://forms.gle/3q8bPY4XkzcTTuXx6
 ---
 
 
@@ -27,10 +28,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0392.html
     - We could write a tool that tries to pipe the transcript of past episodes into an LLM to produce video title suggestions.
     - Revive Adso, and attempt to hand-roll our own captions using newer models
   - Try to write... something in Rust?... I've done this before, but we could try again. Try to port a JS module to Rust for use with application-services.
-
-
-* [Rate this episode](https://forms.gle/3q8bPY4XkzcTTuXx6)
-
-
-
-

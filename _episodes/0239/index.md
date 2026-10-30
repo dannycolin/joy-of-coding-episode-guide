@@ -3,6 +3,7 @@ date: 2021-02-03
 number: 239
 airmozilla: https://mzl.la/joy-of-coding-2021-02-03
 agenda: https://mikeconley.ca/joc/agendas/Episode-0239.html
+rating: https://forms.gle/6tt2tmkRs7XeQwUUA
 ---
 
 
@@ -18,9 +19,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0239.html
 * [Incremental builds](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Incremental_builds_with_filesystem_watching) with ./mach watch and quick restart
 * Know your menu [Buttons](https://mikeconley.ca/joc/agendas/images/412b0be5a60e453aac22026ebf648002)
 * Mike knows some German and French
-
-* [Rate this episode](https://forms.gle/6tt2tmkRs7XeQwUUA)
-
-
-
-

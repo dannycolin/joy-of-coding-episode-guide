@@ -3,6 +3,7 @@ date: 2023-08-30
 number: 336
 airmozilla: https://mzl.la/joy-of-coding-2023-08-30
 agenda: https://mikeconley.ca/joc/agendas/Episode-0336.html
+rating: https://forms.gle/yPW9f4CaPr9sUT7p7
 ---
 
 
@@ -39,9 +40,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0336.html
       - [ ] Figure out how to convert our description objects into JS Values. There might be helpers for this via [DictionaryBase](https://searchfox.org/mozilla-central/rev/e7b8d13b7513b6fbd97d69e882d7faeed05309d0/dom/bindings/ToJSValue.h#283-289)
   - [ ] Write a front-end test that registers a fake nsIWinTaskbar or otherwise produces a fake nsIJumpListBuilder to make sure it gets passed the right things.
     - [ ] Make a note to migrate the new jump list builder off of the dedicated lazy thread and use the IO thread pool instead.
-
-* [Rate this episode](https://forms.gle/yPW9f4CaPr9sUT7p7)
-
-
-
-

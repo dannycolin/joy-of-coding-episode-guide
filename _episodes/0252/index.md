@@ -3,6 +3,7 @@ date: 2021-06-16
 number: 252
 airmozilla: https://mzl.la/joy-of-coding-2021-06-16
 agenda: https://mikeconley.ca/joc/agendas/Episode-0252.html
+rating: https://forms.gle/m2f1QBqeQX35mA4F7
 ---
 
 
@@ -18,9 +19,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0252.html
 * Mike has updated Sublime Text to v4
 * Deepdive into freemusicarchive.org's audio settings
 * [Capstone](https://www.capstone.cse.msu.edu) works with Mozilla to learn students about opensource
-
-* [Rate this episode](https://forms.gle/m2f1QBqeQX35mA4F7)
-
-
-
-

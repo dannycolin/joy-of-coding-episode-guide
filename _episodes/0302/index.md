@@ -3,6 +3,7 @@ date: 2022-10-12
 number: 302
 airmozilla: https://mzl.la/joy-of-coding-2022-10-12
 agenda: https://mikeconley.ca/joc/agendas/Episode-0302.html
+rating: https://forms.gle/jFQ1xLiJ5unBatWR7
 ---
 
 
@@ -25,9 +26,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0302.html
   - [ ] Remove locks and monitors
   - [ ] Migrate off of dedicated lazy thread to background thread pool
 * [WebIDL documentation](https://firefox-source-docs.mozilla.org/dom/webIdlBindings/index.html)
-
-* [Rate this episode](https://forms.gle/jFQ1xLiJ5unBatWR7)
-
-
-
-

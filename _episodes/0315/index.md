@@ -3,6 +3,7 @@ date: 2023-02-08
 number: 315
 airmozilla: https://mzl.la/joy-of-coding-2023-02-08
 agenda: https://mikeconley.ca/joc/agendas/Episode-0315.html
+rating: https://forms.gle/u2wfQcTvcdUgyETKA
 ---
 
 
@@ -29,9 +30,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0315.html
       - [ ] Make our approach preffable. Put all the old stuff back (gulp), and update WindowsJumpList to use the new mechanism on a pref.
       - [x] Implement clearJumpList (it's called deleteActiveList)
       - [ ] See if the above works. If it does, get rid of old changes that we don't need and merge patches down
-
-* [Rate this episode](https://forms.gle/u2wfQcTvcdUgyETKA)
-
-
-
-

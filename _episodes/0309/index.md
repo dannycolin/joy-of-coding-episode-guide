@@ -3,6 +3,7 @@ date: 2022-11-30
 number: 309
 airmozilla: https://mzl.la/joy-of-coding-2022-11-30
 agenda: https://mikeconley.ca/joc/agendas/Episode-0309.html
+rating: https://forms.gle/4yWxPMt4PtXTPDy76
 ---
 
 
@@ -37,9 +38,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0309.html
 * Question: When will WebGPU be available in the main release?
   - [This](https://bugzilla.mozilla.org/show_bug.cgi?id=1746245) is the bug to enable it in Nightly
 * No episode next week!
-
-* [Rate this episode](https://forms.gle/4yWxPMt4PtXTPDy76)
-
-
-
-

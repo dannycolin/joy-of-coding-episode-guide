@@ -3,6 +3,7 @@ date: 2022-03-30
 number: 284
 airmozilla: https://mzl.la/joy-of-coding-2022-03-30
 agenda: https://mikeconley.ca/joc/agendas/Episode-0284.html
+rating: https://forms.gle/yx34oWsRnPrhWL5X9
 ---
 
 
@@ -20,9 +21,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0284.html
   - [D142245](https://phabricator.services.mozilla.com/D142245)
   - [D142420](https://phabricator.services.mozilla.com/D142420)
   - [D142321](https://phabricator.services.mozilla.com/D142321)
-
-* [Rate this episode](https://forms.gle/yx34oWsRnPrhWL5X9)
-
-
-
-

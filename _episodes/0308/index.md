@@ -3,6 +3,7 @@ date: 2022-11-23
 number: 308
 airmozilla: https://mzl.la/joy-of-coding-2022-11-23
 agenda: https://mikeconley.ca/joc/agendas/Episode-0308.html
+rating: https://forms.gle/sGFwWopvHzb3fszb6
 ---
 
 
@@ -42,9 +43,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0308.html
   - That meeting happens (usually) every 2 weeks
   - 2 weeks ago, meeting was cancelled due to Low Meeting Week
   - Expect similar turbulence as we enter the holidays.
-
-* [Rate this episode](https://forms.gle/sGFwWopvHzb3fszb6)
-
-
-
-

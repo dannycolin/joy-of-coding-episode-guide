@@ -3,6 +3,7 @@ date: 2021-09-08
 number: 261
 airmozilla: https://mzl.la/joy-of-coding-2021-09-08
 agenda: https://mikeconley.ca/joc/agendas/Episode-0261.html
+rating: https://forms.gle/p537sYotHfqzvTdG7
 ---
 
 
@@ -60,9 +61,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0261.html
   - Have you ever made / co-developed add-ons, or is it not your cup of tea?
     - [MyQOnly](https://addons.mozilla.org/en-US/firefox/addon/myqonly/)
     - [Balcony](https://github.com/mikeconley/balcony/)
-
-* [Rate this episode](https://forms.gle/p537sYotHfqzvTdG7)
-
-
-
-

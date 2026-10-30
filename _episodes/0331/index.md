@@ -3,6 +3,7 @@ date: 2023-07-05
 number: 331
 airmozilla: https://mzl.la/joy-of-coding-2023-07-05
 agenda: https://mikeconley.ca/joc/agendas/Episode-0331.html
+rating: https://forms.gle/2QaZ19cexzKw6ao18
 ---
 
 
@@ -32,9 +33,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0331.html
   - [ ] Write a gtest for the JumpListBuilder
   - [ ] Write a front-end test that registers a fake nsIWinTaskbar or otherwise produces a fake nsIJumpListBuilder to make sure it gets passed the right things.
   - [ ] Make a note to migrate the new jump list builder off of the dedicated lazy thread and use the IO thread pool instead.
-
-* [Rate this episode](https://forms.gle/2QaZ19cexzKw6ao18)
-
-
-
-

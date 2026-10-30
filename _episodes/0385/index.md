@@ -3,6 +3,7 @@ date: 2024-11-27
 number: 385
 airmozilla: https://mzl.la/joy-of-coding-2024-11-27
 agenda: https://mikeconley.ca/joc/agendas/Episode-0385.html
+rating: https://forms.gle/vgqpb5GozBwuWwnT9
 ---
 
 
@@ -21,9 +22,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0385.html
   - https://github.com/mozilla/gecko-dev/blob/ad4ef3bc13/toolkit/components/extensions/types/README.md
   - https://blog.logrocket.com/typescript-vs-jsdoc-javascript/
 * Back to chorin'!
-
-* [Rate this episode](https://forms.gle/vgqpb5GozBwuWwnT9)
-
-
-
-

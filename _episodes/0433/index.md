@@ -3,6 +3,7 @@ date: 2026-03-18
 number: 433
 airmozilla: https://mzl.la/joy-of-coding-2026-03-18
 agenda: https://mikeconley.ca/joc/agendas/Episode-0433.html
+rating: https://forms.gle/rn9d2bksX6gsBojS6
 ---
 
 
@@ -18,9 +19,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0433.html
 * Let's look at the patches in https://bugzilla.mozilla.org/show_bug.cgi?id=2011754
 * A bug I filed about vertical tabs and DevTools zoom level: https://bugzilla.mozilla.org/show_bug.cgi?id=2019067
 * [Bug 2024348](https://bugzilla.mozilla.org/show_bug.cgi?id=2024348) - Make it possible backups to be created with an alternative ArchiveEncryptionState
-
-* [Rate this episode](https://forms.gle/rn9d2bksX6gsBojS6)
-
-
-
-

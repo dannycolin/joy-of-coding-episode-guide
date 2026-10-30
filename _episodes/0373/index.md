@@ -3,6 +3,7 @@ date: 2024-07-17
 number: 373
 airmozilla: https://mzl.la/joy-of-coding-2024-07-17
 agenda: https://mikeconley.ca/joc/agendas/Episode-0373.html
+rating: https://forms.gle/CpAFvmZANivEuh687
 ---
 
 
@@ -16,9 +17,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0373.html
   - [D216708](https://phabricator.services.mozilla.com/D216708)
   - [D216090](https://phabricator.services.mozilla.com/D216090)
   - [D215809](https://phabricator.services.mozilla.com/D215809)
-
-* [Rate this episode](https://forms.gle/CpAFvmZANivEuh687)
-
-
-
-

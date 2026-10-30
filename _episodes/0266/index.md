@@ -3,6 +3,7 @@ date: 2021-10-20
 number: 266
 airmozilla: https://mzl.la/joy-of-coding-2021-10-20
 agenda: https://mikeconley.ca/joc/agendas/Episode-0266.html
+rating: https://forms.gle/wowyNFhcntTQ8Zdu8
 ---
 
 
@@ -29,9 +30,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0266.html
     - WebExtensions and how they interact with DocShells / BrowsingContexts
     - How a patch gets into Firefox, from start to finish!
     - How is gbrowser and xpcom used? Can you talk about it too?
-
-* [Rate this episode](https://forms.gle/wowyNFhcntTQ8Zdu8)
-
-
-
-

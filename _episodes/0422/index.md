@@ -3,6 +3,7 @@ date: 2025-12-10
 number: 422
 airmozilla: https://mzl.la/joy-of-coding-2025-12-10
 agenda: https://mikeconley.ca/joc/agendas/Episode-0422.html
+rating: https://forms.gle/HapPSJ5yU8SQct5p7
 ---
 
 
@@ -29,9 +30,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0422.html
   - Add some initial documentation!
 * Next week is the last stream for 2025, the "holiday" stream! And then I'm off for 2 weeks for holidays!
 * TODO: Find the bug that flips the pref by default, and attach it to this agenda
-
-* [Rate this episode](https://forms.gle/HapPSJ5yU8SQct5p7)
-
-
-
-

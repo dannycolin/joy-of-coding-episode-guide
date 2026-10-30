@@ -3,6 +3,7 @@ date: 2019-10-16
 number: 193
 airmozilla: https://air.mozilla.org/event-redirect/346402/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=6b03ba31-71e4-447a-ab7b-06426d1eafdb&noteKey=5d78d4691996ada7&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F6b03ba31-71e4-447a-ab7b-06426d1eafdb%2F5d78d4691996ada7&title=October%2B16th%252C%2B2019%2B-%2BEpisode%2B193
+rating: https://forms.gle/81V9s2Dxua6S4EVM7
 ---
 
 
@@ -18,6 +19,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=6b03ba31-71e4-44
 * Deepdive into how ./mach doc works
 * After disabling 'sphinx_js' in conf.py things started working
 * Check [Node.js compatability] with various JavaScript features (https://node.green)
-
-* [Rate this episode](https://forms.gle/81V9s2Dxua6S4EVM7)
-

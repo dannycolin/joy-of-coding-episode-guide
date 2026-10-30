@@ -3,6 +3,7 @@ date: 2020-05-20
 number: 216
 airmozilla: https://air.mozilla.org/event-redirect/378320/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=52313c25-1bd5-411e-a78b-fda15b1348bf&noteKey=cbe9d6e45e1669e1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F52313c25-1bd5-411e-a78b-fda15b1348bf%2Fcbe9d6e45e1669e1&title=May%2B20th%252C%2B2020%2B-%2BEpisode%2B216
+rating: https://forms.gle/ChtVDUuw5WpykF5FA
 ---
 
 
@@ -23,9 +24,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=52313c25-1bd5-41
 * In Treeherder you can filter on what specific test file was run, via the Filter icon.
 * [Codetribute](https://codetribute.mozilla.org/) - Help contribute to Firefox, good mentored bugs for You.
   - First, [Create](https://bugzilla.mozilla.org/createaccount.cgi) a Mozilla Bugzilla account.
-
-* [Rate this episode](https://forms.gle/ChtVDUuw5WpykF5FA)
-
-
-
-

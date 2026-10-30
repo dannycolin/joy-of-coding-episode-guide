@@ -3,6 +3,7 @@ date: 2022-08-03
 number: 296
 airmozilla: https://mzl.la/joy-of-coding-2022-08-03
 agenda: https://mikeconley.ca/joc/agendas/Episode-0296.html
+rating: https://forms.gle/sg8VW2ibsc6xxLMx7
 ---
 
 
@@ -18,9 +19,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0296.html
   - On the -no-remote argument: https://www.brycevandyk.com/dissecting-firefoxs-no-remote-option/
 * ESMification!
 * Note to self: Next episode, Make sure to do it at home so I can work on my Windows 10 machine
-
-* [Rate this episode](https://forms.gle/sg8VW2ibsc6xxLMx7)
-
-
-
-

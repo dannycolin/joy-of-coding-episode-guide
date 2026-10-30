@@ -3,6 +3,7 @@ date: 2024-04-17
 number: 363
 airmozilla: https://mzl.la/joy-of-coding-2024-04-17
 agenda: https://mikeconley.ca/joc/agendas/Episode-0363.html
+rating: https://forms.gle/LPy1LzCppadmXSzV9
 ---
 
 
@@ -18,9 +19,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0363.html
   - browser.newtabpage.activity-stream.newtabWallpapers.enabled to true in about:config
 * crushedoptimists bug - let's take a look...
   - https://bugzilla.mozilla.org/show_bug.cgi?id=1892070
-
-* [Rate this episode](https://forms.gle/LPy1LzCppadmXSzV9)
-
-
-
-

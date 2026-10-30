@@ -3,6 +3,7 @@ date: 2026-01-21
 number: 426
 airmozilla: https://mzl.la/joy-of-coding-2026-01-21
 agenda: https://mikeconley.ca/joc/agendas/Episode-0426.html
+rating: https://forms.gle/Grhzp41PJJZN4CVq8
 ---
 
 
@@ -21,9 +22,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0426.html
     - Should file a bug and patch
   - Sometimes reason is undefined: https://searchfox.org/firefox-main/rev/131497bb1b747587b2b21b1abf14f44ecffad805/toolkit/actors/PictureInPictureChild.sys.mjs#243-246
     - This can be easily reproduced by running toolkit/components/pictureinpicture/tests/browser_audioScrubber.js. Non-catastrophic.
-
-* [Rate this episode](https://forms.gle/Grhzp41PJJZN4CVq8)
-
-
-
-

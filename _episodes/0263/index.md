@@ -3,6 +3,7 @@ date: 2021-09-22
 number: 263
 airmozilla: https://mzl.la/joy-of-coding-2021-09-22
 agenda: https://mikeconley.ca/joc/agendas/Episode-0263.html
+rating: https://forms.gle/tQRJeoBX5e4MRCsm9
 ---
 
 
@@ -33,9 +34,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0263.html
       - I do write "[These Weeks in Firefox](https://blog.nightly.mozilla.org/)"
     - When it comes to planning (daily, events) - do you use a traditional calendar, a digital calendar or something else?
       - I use a combination of Google Calendar, Rememberthemilk, for work stuff I'll set needinfos on myself in Bugzilla.
-
-* [Rate this episode](https://forms.gle/tQRJeoBX5e4MRCsm9)
-
-
-
-

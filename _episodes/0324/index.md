@@ -3,6 +3,7 @@ date: 2023-05-10
 number: 324
 airmozilla: https://mzl.la/joy-of-coding-2023-05-10
 agenda: https://mikeconley.ca/joc/agendas/Episode-0324.html
+rating: https://forms.gle/n1rHR5N2Y96dQhwi7
 ---
 
 
@@ -16,9 +17,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0324.html
 * Let's fix a string in the new migration wizard: [Bug 1832227](https://bugzilla.mozilla.org/show_bug.cgi?id=1832227)
 * WindowsJumpList stuff
   - Can we detach our change from the broader existing JumpListBuilder implementation? Like, choose the right backend at runtime?
-
-* [Rate this episode](https://forms.gle/n1rHR5N2Y96dQhwi7)
-
-
-
-

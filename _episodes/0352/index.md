@@ -3,6 +3,7 @@ date: 2024-01-17
 number: 352
 airmozilla: https://mzl.la/joy-of-coding-2024-01-17
 agenda: https://mikeconley.ca/joc/agendas/Episode-0352.html
+rating: https://forms.gle/LX7ey3xuqdqhEtjZ9
 ---
 
 
@@ -15,9 +16,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0352.html
 * Review [D198425](https://phabricator.services.mozilla.com/D198425)
 * Let's convert PlacesFeed to an ESM!
 * Finishing [this doc](https://docs.google.com/document/d/1JsWvTH7A4VF81yAm5lCS45l_U1mYfLZlqZTDeXnpUro/edit#heading=h.uwiaucmm9o9f) on What process is a script running in?
-
-* [Rate this episode](https://forms.gle/LX7ey3xuqdqhEtjZ9)
-
-
-
-

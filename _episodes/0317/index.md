@@ -3,6 +3,7 @@ date: 2023-02-22
 number: 317
 airmozilla: https://mzl.la/joy-of-coding-2023-02-22
 agenda: https://mikeconley.ca/joc/agendas/Episode-0317.html
+rating: https://forms.gle/JjnT76mvdGPiq9vx7
 ---
 
 
@@ -40,9 +41,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0317.html
 // Two implementations: // 1: "Real" one that wraps one of these things: RefPtr jumpListMgr; HRESULT hr = ::CoCreateInstance( CLSIDDestinationList, nullptr, CLSCTXINPROCSERVER, IIDICustomDestinationList, getter_AddRefs(jumpListMgr));
 
 // 2: "Fake" one that allows us to interrogate it for things it has been passed, for testing. class MockJumpListManager HRESULT BeginList(outparam maxitems and outparam IObjectArray) Wants to be prepared to provide an outparam which is an IObjectArray. We can do that by creating an empty collection, or a collection that returns ShellLinks. HRESULT AddUserTasks(collection) Takes an array of tasks and returns an HRESULT. We can then examine what was passed. HRESULT AppendCategory(string, collection) Takes a string and collection for the custom list. HRESULT CommitList Just returns an HRESULT. ```
-
-* [Rate this episode](https://forms.gle/JjnT76mvdGPiq9vx7)
-
-
-
-

@@ -3,6 +3,7 @@ date: 2023-04-19
 number: 322
 airmozilla: https://mzl.la/joy-of-coding-2023-04-19
 agenda: https://mikeconley.ca/joc/agendas/Episode-0322.html
+rating: https://forms.gle/TbkDQtnAaSn5kt9C9
 ---
 
 
@@ -20,9 +21,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0322.html
       - <b>aukras saves the day</b> by helping Mike realize that he's added the progress listener to the wrong browser (it was being added to the about:welcome browser, and not the fxaBrowser!)
       - The FxA browser does not accept progress listeners for some reason
       - The progress listener is misconfigured
-
-* [Rate this episode](https://forms.gle/TbkDQtnAaSn5kt9C9)
-
-
-
-

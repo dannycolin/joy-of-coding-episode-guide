@@ -3,6 +3,7 @@ date: 2022-12-21
 number: 310
 airmozilla: https://mzl.la/joy-of-coding-2022-12-21
 agenda: https://mikeconley.ca/joc/agendas/Episode-0310.html
+rating: https://forms.gle/aWjmGDYu3hqjaS577
 ---
 
 
@@ -35,9 +36,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0310.html
   - [delores dev](https://grumpygamer.com/delores_dev)
 * Questions:
   - "What is easiest way to succeed with applying an old patch, bump it to tip and deal with merge conflicts? To handle review feedback. Is it best to apply somewhere close in the Mercurial tree where it was committed?"
-
-* [Rate this episode](https://forms.gle/aWjmGDYu3hqjaS577)
-
-
-
-

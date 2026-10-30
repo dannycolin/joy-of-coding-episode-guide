@@ -3,6 +3,7 @@ date: 2026-06-17
 number: 441
 airmozilla: https://mzl.la/joy-of-coding-2026-06-17
 agenda: https://mikeconley.ca/joc/agendas/Episode-0441.html
+rating: https://forms.gle/Gs5BCiJP8RnTsFZBA
 ---
 
 
@@ -20,9 +21,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0441.html
     - Multiple text child nodes is not allowed in this configuration, and will warn / bail out of cropping.
   - We're going to be re-using much of the XUL center cropping stuff, and all of the l10n problems it entails
   - We must guarantee a single text node as the child of moz-label
-
-* [Rate this episode](https://forms.gle/Gs5BCiJP8RnTsFZBA)
-
-
-
-

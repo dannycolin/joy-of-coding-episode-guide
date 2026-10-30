@@ -3,6 +3,7 @@ date: 2025-05-14
 number: 401
 airmozilla: https://mzl.la/joy-of-coding-2025-05-14
 agenda: https://mikeconley.ca/joc/agendas/Episode-0401.html
+rating: https://forms.gle/PtsWa9MFzW4G5Pdr6
 ---
 
 
@@ -21,9 +22,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0401.html
     - No plugins for the web browser (Safari). No NPAPI.
   - https://ruffle.rs/
 * For implementing filter in filter_adult - I actually don't think I want to do this. I don't think I want to force the embedders to use a particular class right now - specifically on desktop, because it seems to be used to passing raw objects around with URL properties and just being a bit loose-y goose-y... I don't want to (yet) disturb that. I'm trying to avoid fixing the world. For now, what I'll do is implement filter in the wrapper module which will simply delegate the set lookup to the Rust module.
-
-* [Rate this episode](https://forms.gle/PtsWa9MFzW4G5Pdr6)
-
-
-
-

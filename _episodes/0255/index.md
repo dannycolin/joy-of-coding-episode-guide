@@ -3,6 +3,7 @@ date: 2021-07-14
 number: 255
 airmozilla: https://mzl.la/joy-of-coding-2021-07-14
 agenda: https://mikeconley.ca/joc/agendas/Episode-0255.html
+rating: https://forms.gle/ydGh69eTMf1v5MsF6
 ---
 
 
@@ -23,9 +24,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0255.html
   - P1 = Someone is working on it right now
   - P2 = After the P1 is done, we will work on this
   - Prioritizing differs between different mozilla projects
-
-* [Rate this episode](https://forms.gle/ydGh69eTMf1v5MsF6)
-
-
-
-

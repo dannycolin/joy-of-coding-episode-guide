@@ -3,6 +3,7 @@ date: 2020-10-21
 number: 229
 airmozilla: https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98c9ce8d-43e2-41eb-b708-ac5b0183ff75
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=f3114a27-213c-437a-8be6-be4c5936c293&noteKey=fe3ed8cc280c028d&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Ff3114a27-213c-437a-8be6-be4c5936c293%2Ffe3ed8cc280c028d&title=October%2B21st%252C%2B2020%2B-%2BEpisode%2B229
+rating: https://forms.gle/f3o15dUVFretgMKJ9
 ---
 
 
@@ -24,9 +25,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=f3114a27-213c-43
 * There is a possibility to pull from Try, don't try this at home kids : hg pull try -r <longID>
   - You might need try-server access to even read from try.
 * mach package will create binaries for Firefox under mozilla-central/obj-default/dist. 
-
-* [Rate this episode](https://forms.gle/f3o15dUVFretgMKJ9)
-
-
-
-

@@ -3,6 +3,7 @@ date: 2021-10-27
 number: 267
 airmozilla: https://mzl.la/joy-of-coding-2021-10-27
 agenda: https://mikeconley.ca/joc/agendas/Episode-0267.html
+rating: https://forms.gle/gxAQXX5ixFzUCSu47
 ---
 
 
@@ -51,9 +52,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0267.html
   - Can you explain the process of writing "These Weeks in Firefox" (from start to finish) ?
   - WebExtensions and how they interact with DocShells / BrowsingContexts
   - How a patch gets into Firefox, from start to finish!
-
-* [Rate this episode](https://forms.gle/gxAQXX5ixFzUCSu47)
-
-
-
-

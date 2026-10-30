@@ -3,6 +3,7 @@ date: 2026-02-25
 number: 431
 airmozilla: https://mzl.la/joy-of-coding-2026-02-25
 agenda: https://mikeconley.ca/joc/agendas/Episode-0431.html
+rating: https://forms.gle/ZkVYmmZskFNaaNFV7
 ---
 
 
@@ -36,9 +37,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0431.html
 * moz-newtab-cached protocol handler is the "read-only" parts here. It just knows how to read from the cache. It does not know how to write to it. It knows how to fall back.
 * The other part is the business around noticing that a newtab loaded, and kicking off the DeferredTask to maybe write an update to the cache.
 ```
-
-* [Rate this episode](https://forms.gle/ZkVYmmZskFNaaNFV7)
-
-
-
-

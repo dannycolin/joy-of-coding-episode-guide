@@ -3,6 +3,7 @@ date: 2019-10-30
 number: 195
 airmozilla: https://air.mozilla.org/event-redirect/347939/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=74b5a8c8-83bd-412d-a7e6-18a7ac6a7a87&noteKey=b2db8bf9bb85c676&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F74b5a8c8-83bd-412d-a7e6-18a7ac6a7a87%2Fb2db8bf9bb85c676&title=October%2B30th%252C%2B2019%2B-%2BEpisode%2B195
+rating: https://forms.gle/fPj1pEC9otZME6eX6
 ---
 
 
@@ -18,6 +19,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=74b5a8c8-83bd-41
   - Find a bug to work on [Here](https://codetribute.mozilla.org/)
   - Howto build [Firefox](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Firefox_build)
 * New sound
-
-* [Rate this episode](https://forms.gle/fPj1pEC9otZME6eX6)
-

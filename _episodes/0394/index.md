@@ -3,6 +3,7 @@ date: 2025-02-19
 number: 394
 airmozilla: https://mzl.la/joy-of-coding-2025-02-19
 agenda: https://mikeconley.ca/joc/agendas/Episode-0394.html
+rating: https://forms.gle/KRhaDTQwKkn8SW488
 ---
 
 
@@ -15,9 +16,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0394.html
 * Back to CustomizableUIInternal!
 
 * Question: Hey Mike, I have a question about a feature you mentioned in episode 393 of TJOC. One of the new things that shipped with Firefox 135.0 were the new AI chatbots, but I'm also aware of a project called Orbit - https://orbitbymozilla.com/ -, which seems to become the official AI assistant of Firefox one day (or that's at least how I understand it). Are both features related to one another, will they be merged or what is the actual difference between these two? Could you explain this a little bit? I tried Orbit and it's an interesting project, but I don't really know if this is just an experiment or if this will actually ship with Firefox itself one day and integrate with the AI chatbots or something like that.
-
-* [Rate this episode](https://forms.gle/KRhaDTQwKkn8SW488)
-
-
-
-

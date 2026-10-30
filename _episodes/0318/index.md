@@ -3,6 +3,7 @@ date: 2023-03-08
 number: 318
 airmozilla: https://mzl.la/joy-of-coding-2023-03-08
 agenda: https://mikeconley.ca/joc/agendas/Episode-0318.html
+rating: https://forms.gle/g5kepskvpVnYEU5H6
 ---
 
 
@@ -45,9 +46,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0318.html
 ```
 
 We're going to be calling PopulateJumpList method on the JumpListBuilder, and then what we can do is take the returned DOM Promise and [use a DOMPromiseListener](https://searchfox.org/mozilla-central/rev/cd2121e7d83af1b421c95e8c923db70e692dab5f/docshell/base/CanonicalBrowsingContext.cpp#2045-2051) to set up some lambda functions that write into some Maybe's [like this](https://searchfox.org/mozilla-central/rev/cd2121e7d83af1b421c95e8c923db70e692dab5f/dom/media/gtest/WaitFor.h#51-63), and then we spin the event loop (like that prior example) to wait until the Promise either resolves or rejects and then we assert the resolving or the rejecting.
-
-* [Rate this episode](https://forms.gle/g5kepskvpVnYEU5H6)
-
-
-
-

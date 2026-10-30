@@ -3,6 +3,7 @@ date: 2025-10-29
 number: 418
 airmozilla: https://mzl.la/joy-of-coding-2025-10-29
 agenda: https://mikeconley.ca/joc/agendas/Episode-0418.html
+rating: https://forms.gle/Qn3SPSzPmqW13qpt9
 ---
 
 
@@ -33,9 +34,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0418.html
         - I need to start an Engineering Design document to start shopping around with these ideas, at least show Gijs and Scott, but probably a bunch of others as well.
         - File a bug to get rid of non-handoff behaviour to simplify Search.jsx and contentSearchUI
 * Reviewing?
-
-* [Rate this episode](https://forms.gle/Qn3SPSzPmqW13qpt9)
-
-
-
-

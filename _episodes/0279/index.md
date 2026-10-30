@@ -3,6 +3,7 @@ date: 2022-02-16
 number: 279
 airmozilla: https://mzl.la/joy-of-coding-2022-02-16
 agenda: https://mikeconley.ca/joc/agendas/Episode-0279.html
+rating: https://forms.gle/R8EJyWGFrjJQnAYt5
 ---
 
 
@@ -20,9 +21,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0279.html
 * Questions:
   - Tell us about the Taburdle Firefox add-on that posts on your Twitter please.
   - Any thoughts on "Browser as a Service"?
-
-* [Rate this episode](https://forms.gle/R8EJyWGFrjJQnAYt5)
-
-
-
-

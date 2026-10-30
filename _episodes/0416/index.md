@@ -3,6 +3,7 @@ date: 2025-09-24
 number: 416
 airmozilla: https://mzl.la/joy-of-coding-2025-09-24
 agenda: https://mikeconley.ca/joc/agendas/Episode-0416.html
+rating: https://forms.gle/pfQKtJqBA81V4AMx5
 ---
 
 
@@ -26,9 +27,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0416.html
     - [x] When expanded, I want the list to be more readable and maybe to link out to Pontoon for the missing string
     - [x] I want the list of missing / pending strings to be constrained and scrollable
   - [ ] Use jq-web library (https://github.com/fiatjaf/jq-web) to query Experimenter for active deploys, rollouts and experiments.
-
-* [Rate this episode](https://forms.gle/pfQKtJqBA81V4AMx5)
-
-
-
-

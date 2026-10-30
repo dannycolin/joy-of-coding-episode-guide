@@ -3,6 +3,7 @@ date: 2021-08-04
 number: 257
 airmozilla: https://mzl.la/joy-of-coding-2021-08-04
 agenda: https://mikeconley.ca/joc/agendas/Episode-0257.html
+rating: https://forms.gle/TKrepDkMDogFzX916
 ---
 
 
@@ -27,9 +28,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0257.html
 * Save Firefox build time and disc space with Artifact builds:
   - disc usage, after build, for artifact build : 8.9gb (Linux)
   - disc usage, after build, for non-artifact build : 24gb (Linux)
-
-* [Rate this episode](https://forms.gle/TKrepDkMDogFzX916)
-
-
-
-

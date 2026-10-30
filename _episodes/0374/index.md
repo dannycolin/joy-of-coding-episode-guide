@@ -3,6 +3,7 @@ date: 2024-07-31
 number: 374
 airmozilla: https://mzl.la/joy-of-coding-2024-07-31
 agenda: https://mikeconley.ca/joc/agendas/Episode-0374.html
+rating: https://forms.gle/WnAheWzpM1o4icaB7
 ---
 
 
@@ -23,10 +24,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0374.html
   - Need to test these cases:
     - Individual site removal
     - Total history clearage
-
-
-* [Rate this episode](https://forms.gle/WnAheWzpM1o4icaB7)
-
-
-
-

@@ -3,6 +3,7 @@ date: 2025-06-04
 number: 403
 airmozilla: https://mzl.la/joy-of-coding-2025-06-04
 agenda: https://mikeconley.ca/joc/agendas/Episode-0403.html
+rating: https://forms.gle/Dvm4GSG4xHvoD4VW9
 ---
 
 
@@ -17,9 +18,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0403.html
 * Got some feedback on filter_adult! Let's address it!
 * Let's review some Picture-in-Picture patches
 * Where are things with TypeScript checks?
-
-* [Rate this episode](https://forms.gle/Dvm4GSG4xHvoD4VW9)
-
-
-
-

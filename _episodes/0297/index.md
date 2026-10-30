@@ -3,6 +3,7 @@ date: 2022-08-17
 number: 297
 airmozilla: https://mzl.la/joy-of-coding-2022-08-17
 agenda: https://mikeconley.ca/joc/agendas/Episode-0297.html
+rating: https://forms.gle/4oTFrM2UzReEp8BE9
 ---
 
 
@@ -31,9 +32,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0297.html
     - [ ] Remove locks and monitors
     - [ ] Migrate off of dedicated lazy thread to background thread pool
   - Goal: I want to make AddListToBuild do most of its work off of the main thread
-
-* [Rate this episode](https://forms.gle/4oTFrM2UzReEp8BE9)
-
-
-
-

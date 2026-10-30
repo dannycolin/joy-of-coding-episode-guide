@@ -3,6 +3,7 @@ date: 2021-11-03
 number: 268
 airmozilla: https://mzl.la/joy-of-coding-2021-11-03
 agenda: https://mikeconley.ca/joc/agendas/Episode-0268.html
+rating: https://forms.gle/iEq2Eq6s4zWEC66g7
 ---
 
 
@@ -49,9 +50,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0268.html
     - https://www.mozilla.org/en-US/firefox/94.0/releasenotes/
     - https://wiki.mozilla.org/ProjectFission
     - [VPN!](https://www.mozilla.org/en-US/products/vpn/) Give it a shot!
-
-* [Rate this episode](https://forms.gle/iEq2Eq6s4zWEC66g7)
-
-
-
-

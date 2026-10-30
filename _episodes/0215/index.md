@@ -3,6 +3,7 @@ date: 2020-05-13
 number: 215
 airmozilla: https://air.mozilla.org/event-redirect/378316/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=d3c80505-0389-4dfe-bdac-b6c506ea96a3&noteKey=18d6539f80910000&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fd3c80505-0389-4dfe-bdac-b6c506ea96a3%2F18d6539f80910000&title=May%2B13th%252C%2B2020%2B-%2BEpisode%2B215
+rating: https://forms.gle/izE1dre4Ra7VaSZe9
 ---
 
 
@@ -23,9 +24,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=d3c80505-0389-4d
 * If you 'hg amend' and get Orphaned changesets, you can fix that with 'hg evolve'
 * Hit the escape key in Browser toolbox to get the terminal at the bottom
 * You can not json encode a undefined value
-
-* [Rate this episode](https://forms.gle/izE1dre4Ra7VaSZe9)
-
-
-
-

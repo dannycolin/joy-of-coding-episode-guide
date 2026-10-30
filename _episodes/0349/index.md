@@ -3,6 +3,7 @@ date: 2023-12-06
 number: 349
 airmozilla: https://mzl.la/joy-of-coding-2023-12-06
 agenda: https://mikeconley.ca/joc/agendas/Episode-0349.html
+rating: https://forms.gle/dHn6HCtPD6WD5PaJ7
 ---
 
 
@@ -21,9 +22,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0349.html
 * Let's see how Safari does profiles, and write a research document
   - Whoops, I need Sonoma to do that, and I have Ventura. Maybe next time!
 * Let's try to get rid of the favicon hangs instead 
-
-* [Rate this episode](https://forms.gle/dHn6HCtPD6WD5PaJ7)
-
-
-
-

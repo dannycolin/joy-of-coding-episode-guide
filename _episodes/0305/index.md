@@ -3,6 +3,7 @@ date: 2022-11-02
 number: 305
 airmozilla: https://mzl.la/joy-of-coding-2022-11-02
 agenda: https://mikeconley.ca/joc/agendas/Episode-0305.html
+rating: https://forms.gle/qJMqXeMz7JNHCcN57
 ---
 
 
@@ -26,10 +27,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0305.html
   - Rebase and land reviewed patch
   - Review patch
   - <b>Do other work</b>
-
-
-* [Rate this episode](https://forms.gle/qJMqXeMz7JNHCcN57)
-
-
-
-

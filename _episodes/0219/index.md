@@ -3,6 +3,7 @@ date: 2020-06-24
 number: 219
 airmozilla: https://air.mozilla.org/event-redirect/388252/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=927ee79e-e2f2-4c73-a8e3-4784a8939741&noteKey=03291d02a3c07052&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F927ee79e-e2f2-4c73-a8e3-4784a8939741%2F03291d02a3c07052&title=June%2B24th%252C%2B2020%2B-%2BEpisode%2B219
+rating: https://forms.gle/MVbMW63pbTH2EnAv7
 ---
 
 
@@ -17,9 +18,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=927ee79e-e2f2-4c
   - Pref to test out the cache: browser.startup.homepage.abouthome_cache.enabled
 * [Bug 1633913](https://bugzilla.mozilla.org/show_bug.cgi?id=1633913) - Eliminate re-construction of Top Sites and Pocket stories when about:home startup cache loads before Activity Stream initializes
 * Shout out to [Compiler Compiler](https://www.twitch.tv/codehag) live stream
-
-* [Rate this episode](https://forms.gle/MVbMW63pbTH2EnAv7)
-
-
-
-

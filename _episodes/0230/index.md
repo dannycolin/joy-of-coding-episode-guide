@@ -3,6 +3,7 @@ date: 2020-10-28
 number: 230
 airmozilla: https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=82c878cd-b2b5-4fe2-9c9c-ac620177573d
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=c01eeb34-0b2a-417e-9a18-a493db2cbcf9&noteKey=c5386a9e28ace792&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fc01eeb34-0b2a-417e-9a18-a493db2cbcf9%2Fc5386a9e28ace792&title=October%2B28th%252C%2B2020%2B-%2BEpisode%2B230
+rating: https://forms.gle/e5NxCvDSX99svJqq8
 ---
 
 
@@ -17,9 +18,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=c01eeb34-0b2a-41
   - [Performance best practices](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Performance_best_practices_for_Firefox_fe_engineers) for Firefox front-end engineers
 * CSS is hard, [Codepen](https://codepen.io/pen) is a good online tool
 * Digital Color Meter is a good default Mac app to get color values from gui components
-
-* [Rate this episode](https://forms.gle/e5NxCvDSX99svJqq8)
-
-
-
-

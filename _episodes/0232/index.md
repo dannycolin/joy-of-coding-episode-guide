@@ -3,6 +3,7 @@ date: 2020-11-18
 number: 232
 airmozilla: https://mzl.la/joy-of-coding-2020-11-18
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=f4161250-2bc6-4f29-901d-ab6f4e4368df&noteKey=edb826075382fb72&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Ff4161250-2bc6-4f29-901d-ab6f4e4368df%2Fedb826075382fb72&title=November%2B18th%252C%2B2020%2B-%2BEpisode%2B232
+rating: https://forms.gle/1Vm2j5mA5pzaWztr5
 ---
 
 
@@ -17,9 +18,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=f4161250-2bc6-4f
 * Next week, Mike is on holiday!
 * [Bug 1673716](https://bugzilla.mozilla.org/show_bug.cgi?id=1673716) - Crash in [@ AsyncShutdownTimeout | quit-application-granted | AboutHomeStartupCache: Writing cache] - [Notes](https://www.evernote.com/l/AbJdXM0E9EFHkrqHpIS9_9QELlqWGoZcs1I)
 * hg commit --interactive gives you a neat gui to select what you want to commit.
-
-* [Rate this episode](https://forms.gle/1Vm2j5mA5pzaWztr5)
-
-
-
-

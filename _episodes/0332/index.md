@@ -3,6 +3,7 @@ date: 2023-07-12
 number: 332
 airmozilla: https://mzl.la/joy-of-coding-2023-07-12
 agenda: https://mikeconley.ca/joc/agendas/Episode-0332.html
+rating: https://forms.gle/Jzk5Z7QQhoc4Lxdo9
 ---
 
 
@@ -38,9 +39,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0332.html
   - [ ] Write a front-end test that registers a fake nsIWinTaskbar or otherwise produces a fake nsIJumpListBuilder to make sure it gets passed the right things.
   - [ ] Make a note to migrate the new jump list builder off of the dedicated lazy thread and use the IO thread pool instead.
 * [sdk's patch](https://phabricator.services.mozilla.com/D183102) to add tooltips to the All Tabs menu panel
-
-* [Rate this episode](https://forms.gle/Jzk5Z7QQhoc4Lxdo9)
-
-
-
-

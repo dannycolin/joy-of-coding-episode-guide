@@ -3,6 +3,7 @@ date: 2026-02-11
 number: 429
 airmozilla: https://mzl.la/joy-of-coding-2026-02-11
 agenda: https://mikeconley.ca/joc/agendas/Episode-0429.html
+rating: https://forms.gle/NHoRJQ1pDxbYhueG6
 ---
 
 
@@ -29,9 +30,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0429.html
     - https://remote-settings.readthedocs.io/en/latest/
     - https://firefox-source-docs.mozilla.org/services/settings/index.html
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/523277fe43a1467d8aec0556e0f0314a "table")
-
-* [Rate this episode](https://forms.gle/NHoRJQ1pDxbYhueG6)
-
-
-
-

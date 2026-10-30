@@ -3,6 +3,7 @@ date: 2025-11-26
 number: 421
 airmozilla: https://mzl.la/joy-of-coding-2025-11-26
 agenda: https://mikeconley.ca/joc/agendas/Episode-0421.html
+rating: https://forms.gle/DKxMMW4QWHmiNnWw5
 ---
 
 
@@ -20,9 +21,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0421.html
   - Build out feed inside of browser/extensions/newtab that reads from registry, and passes along registry down through the state object
   - Class component that knows how to act as the registry.
 * No episode next week due to travel! December will, naturally, also be a little rocky.
-
-* [Rate this episode](https://forms.gle/DKxMMW4QWHmiNnWw5)
-
-
-
-

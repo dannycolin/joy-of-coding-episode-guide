@@ -3,6 +3,7 @@ date: 2025-07-16
 number: 410
 airmozilla: https://mzl.la/joy-of-coding-2025-07-16
 agenda: https://mikeconley.ca/joc/agendas/Episode-0410.html
+rating: https://forms.gle/rDgbB7NP7t7Voo1G6
 ---
 
 
@@ -22,9 +23,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0410.html
   - [x] https://phabricator.services.mozilla.com/D256547
   - https://phabricator.services.mozilla.com/D256548
 * No episode next week due to holiday! See you the week after! 🏖️🏖️
-
-* [Rate this episode](https://forms.gle/rDgbB7NP7t7Voo1G6)
-
-
-
-

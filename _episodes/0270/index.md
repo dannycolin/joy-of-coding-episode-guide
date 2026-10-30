@@ -3,6 +3,7 @@ date: 2021-11-17
 number: 270
 airmozilla: https://mzl.la/joy-of-coding-2021-11-17
 agenda: https://mikeconley.ca/joc/agendas/Episode-0270.html
+rating: https://forms.gle/F3xKxZhh3bEGYnPu9
 ---
 
 
@@ -20,9 +21,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0270.html
 * Question time!
   - How a patch gets into Firefox, from start to finish!
   - How difficult was it for you to get a proper understanding of Mozilla Treeherder in the beginning? That still looks difficult to me with all the letters and numbers on the right.
-
-* [Rate this episode](https://forms.gle/F3xKxZhh3bEGYnPu9)
-
-
-
-

@@ -3,6 +3,7 @@ date: 2026-06-24
 number: 442
 airmozilla: https://mzl.la/joy-of-coding-2026-06-24
 agenda: https://mikeconley.ca/joc/agendas/Episode-0442.html
+rating: https://forms.gle/DnGpVpBMpbyx8WsS6
 ---
 
 
@@ -16,9 +17,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0442.html
 * Convert our downloads items to use it!
 * TODO:
   - Fix agenda script to make images work again
-
-* [Rate this episode](https://forms.gle/DnGpVpBMpbyx8WsS6)
-
-
-
-

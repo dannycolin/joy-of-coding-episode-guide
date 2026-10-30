@@ -3,6 +3,7 @@ date: 2022-01-26
 number: 276
 airmozilla: https://mzl.la/joy-of-coding-2022-01-26
 agenda: https://mikeconley.ca/joc/agendas/Episode-0276.html
+rating: https://forms.gle/izaFuH2bC6CbFwpG9
 ---
 
 
@@ -19,10 +20,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0276.html
   - [about:home startup cache](https://firefox-source-docs.mozilla.org/browser/components/newtab/docs/v2-system-addon/about_home_startup_cache.html)
 * [Bug 1751560](https://bugzilla.mozilla.org/show_bug.cgi?id=1751560) - Incorrectly Formatted Menu Bar Items on macOS
 * Follow-up on [Bug 1681712](https://bugzilla.mozilla.org/show_bug.cgi?id=1681712) - Copying is not possible from the context menu after swapping a docshell (detaching a tab into its own window)
-
-
-* [Rate this episode](https://forms.gle/izaFuH2bC6CbFwpG9)
-
-
-
-

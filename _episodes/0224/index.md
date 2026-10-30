@@ -3,6 +3,7 @@ date: 2020-08-26
 number: 224
 airmozilla: https://air.mozilla.org/event-redirect/423325/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=793f1378-16b0-406f-a133-3c953e115602&noteKey=00208a76c93473e5&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F793f1378-16b0-406f-a133-3c953e115602%2F00208a76c93473e5&title=August%2B26th%252C%2B2020%2B-%2BEpisode%2B224
+rating: https://forms.gle/FYv7NNuQQVS4ynso9
 ---
 
 
@@ -19,9 +20,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=793f1378-16b0-40
 * You there, file better performance issue related bugs, so Mozilla can help!
 * As well, if you want to help influence Mozilla's decisions, enable Telemetry
 * If you want to customize your [New tab](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/) in Firefox
-
-* [Rate this episode](https://forms.gle/FYv7NNuQQVS4ynso9)
-
-
-
-

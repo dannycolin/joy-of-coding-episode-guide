@@ -3,6 +3,7 @@ date: 2022-04-20
 number: 287
 airmozilla: https://mzl.la/joy-of-coding-2022-04-20
 agenda: https://mikeconley.ca/joc/agendas/Episode-0287.html
+rating: https://forms.gle/RkwYwDd4ztoDQGNd8
 ---
 
 
@@ -16,9 +17,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0287.html
   - Follow up ticket : [Bug 1765607](https://bugzilla.mozilla.org/show_bug.cgi?id=1765607) - If no non-overlapping areas can be found on the screen, offset PiP player windows from one another to avoid full overlaps
 * No episode next week!
   - Will attend : [It will Never Work in Theory!](https://neverworkintheory.org/)
-
-* [Rate this episode](https://forms.gle/RkwYwDd4ztoDQGNd8)
-
-
-
-

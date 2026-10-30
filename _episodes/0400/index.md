@@ -3,6 +3,7 @@ date: 2025-05-07
 number: 400
 airmozilla: https://mzl.la/joy-of-coding-2025-05-07
 agenda: https://mikeconley.ca/joc/agendas/Episode-0400.html
+rating: https://forms.gle/RWjSXn1xSofXvuzt5
 ---
 
 
@@ -15,9 +16,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0400.html
   - Make the adultset pub
   - Write a basic component that can import it and expose methods similar to FilterAdult
   - Write tests!
-
-* [Rate this episode](https://forms.gle/RWjSXn1xSofXvuzt5)
-
-
-
-

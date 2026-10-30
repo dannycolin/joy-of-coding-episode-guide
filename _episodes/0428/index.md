@@ -3,6 +3,7 @@ date: 2026-02-04
 number: 428
 airmozilla: https://mzl.la/joy-of-coding-2026-02-04
 agenda: https://mikeconley.ca/joc/agendas/Episode-0428.html
+rating: https://forms.gle/2utD9jZNZUT8pRJQ8
 ---
 
 
@@ -16,9 +17,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0428.html
     - https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/428
 * Sections should be on by default in parts of the UK right now on the release channel!
 * Q: I submitted a patch (https://phabricator.services.mozilla.com/D279895) some time ago, which was my first time adding a test for Firefox. In the reviewer's feedback, the only thing not fully clear to me was the recommendation to use Services.perms.removeAll() instead of a more complex construction with try-catches that I used. The reviewer requested to make the change, but did not have an opportunity to continue this super-minor discussion. I'd appreciate it if you could explain this, and tell a bit more about the general practise of safeguards in Fx tests.
-
-* [Rate this episode](https://forms.gle/2utD9jZNZUT8pRJQ8)
-
-
-
-

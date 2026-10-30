@@ -3,6 +3,7 @@ date: 2021-11-10
 number: 269
 airmozilla: https://mzl.la/joy-of-coding-2021-11-10
 agenda: https://mikeconley.ca/joc/agendas/Episode-0269.html
+rating: https://forms.gle/TL5mBP6PN7ktgeaCA
 ---
 
 
@@ -26,9 +27,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0269.html
   - Are you actively learning to draw on your new graphics tablet?
     - Yes! Following YouTube tutorial on using Krita to do a Bob Ross painting.
   - Next time : How a patch gets into Firefox, from start to finish!
-  
-* [Rate this episode](https://forms.gle/TL5mBP6PN7ktgeaCA)
-
-
-
-

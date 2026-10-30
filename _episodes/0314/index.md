@@ -3,6 +3,7 @@ date: 2023-02-01
 number: 314
 airmozilla: https://mzl.la/joy-of-coding-2023-02-01
 agenda: https://mikeconley.ca/joc/agendas/Episode-0314.html
+rating: https://forms.gle/TevYz5eweQo3G4VC6
 ---
 
 
@@ -33,9 +34,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0314.html
     - [ ] Update WindowsJumpList.jsm to use the new API instead of the old one.
     - [ ] Remove the old implementation! Hooray!
     - [ ] Migrate off of dedicated lazy thread to background thread pool
-
-* [Rate this episode](https://forms.gle/TevYz5eweQo3G4VC6)
-
-
-
-

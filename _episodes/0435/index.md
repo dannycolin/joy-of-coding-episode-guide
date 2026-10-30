@@ -3,6 +3,7 @@ date: 2026-04-01
 number: 435
 airmozilla: https://mzl.la/joy-of-coding-2026-04-01
 agenda: https://mikeconley.ca/joc/agendas/Episode-0435.html
+rating: https://forms.gle/8SPt94L51yE8dgg76
 ---
 
 
@@ -20,9 +21,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0435.html
 * Downloads sidebar exploration
   - Let's first see how the modern sidebar works
   - We don't want to use XUL here, so just framing about:downloads is not going to work
-
-* [Rate this episode](https://forms.gle/8SPt94L51yE8dgg76)
-
-
-
-

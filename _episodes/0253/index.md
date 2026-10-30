@@ -3,6 +3,7 @@ date: 2021-06-23
 number: 253
 airmozilla: https://mzl.la/joy-of-coding-2021-06-23
 agenda: https://mikeconley.ca/joc/agendas/Episode-0253.html
+rating: https://forms.gle/uK49A7qdqnkmHMr77
 ---
 
 
@@ -16,9 +17,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0253.html
   - Enable Firefox Profile Menu Button
 * Closing in on Bug 2000000
 * No episode next week!
-
-* [Rate this episode](https://forms.gle/uK49A7qdqnkmHMr77)
-
-
-
-

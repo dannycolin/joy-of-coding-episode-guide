@@ -3,6 +3,7 @@ date: 2019-05-08
 number: 177
 airmozilla: https://air.mozilla.org/event-redirect/329971/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=d58f8137-03f7-4cb9-a8c2-87e2ca185ae1&noteKey=b2d4c0eef4bcf784&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fd58f8137-03f7-4cb9-a8c2-87e2ca185ae1%2Fb2d4c0eef4bcf784&title=May%2B8th%252C%2B2019%2B-%2BEpisode%2B177
+rating: https://forms.gle/gcnbhnzS3LgApfT86
 ---
 
 
@@ -22,5 +23,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=d58f8137-03f7-4c
 * Picture-in-Picture fixing on Windows
 **
 ## Rate this episode
-* [Rate this episode](https://forms.gle/gcnbhnzS3LgApfT86)
-

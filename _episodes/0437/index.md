@@ -3,6 +3,7 @@ date: 2026-04-15
 number: 437
 airmozilla: https://mzl.la/joy-of-coding-2026-04-15
 agenda: https://mikeconley.ca/joc/agendas/Episode-0437.html
+rating: https://forms.gle/zE1h7DG4t5x58RtF9
 ---
 
 
@@ -30,9 +31,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0437.html
 * Convert DownloadsViewItem to use HTML elements <-- let's do this!
 * The ReComp team suggested a different approach, which is to make the DownloadsViewItem to use HTML elements AND to make sure it's agnostic / not bound to richlistitem / richlistbox. The upshot meaning we can continue using it, but don't need to do the richlistitem/richlistbox conversion.
 * We'll use moz-box-group instead, and see what gaps we find. The multi-select gap is an obvious one, but that might be acceptable to start.
-
-* [Rate this episode](https://forms.gle/zE1h7DG4t5x58RtF9)
-
-
-
-

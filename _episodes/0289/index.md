@@ -3,6 +3,7 @@ date: 2022-05-11
 number: 289
 airmozilla: https://mzl.la/joy-of-coding-2022-05-11
 agenda: https://mikeconley.ca/joc/agendas/Episode-0289.html
+rating: https://forms.gle/gBk41mEqDfWkFGCR8
 ---
 
 
@@ -18,9 +19,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0289.html
   - "Why do people like to fly to Jurassic Park?"
   - "Because they like to dino-SOAR there"
     - Ba-dum tish
-
-* [Rate this episode](https://forms.gle/gBk41mEqDfWkFGCR8)
-
-
-
-

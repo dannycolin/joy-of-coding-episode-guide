@@ -3,6 +3,7 @@ date: 2022-07-27
 number: 295
 airmozilla: https://mzl.la/joy-of-coding-2022-07-27
 agenda: https://mikeconley.ca/joc/agendas/Episode-0295.html
+rating: https://forms.gle/UGqrf26P5hjVhpGE8
 ---
 
 
@@ -23,9 +24,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0295.html
   - [Rust minidump blog 2](https://hacks.mozilla.org/2022/06/fuzzing-rust-minidump-for-embarrassment-and-crashes/)
 * [Thunderbird](https://www.reddit.com/r/Thunderbird/comments/w56ifv/firefox_sync_is_up_and_running_on_internal/) is, at long last, getting support for Firefox Sync!
   - [Blog from Hacks](https://hacks.mozilla.org/2018/11/firefox-sync-privacy)
-
-* [Rate this episode](https://forms.gle/UGqrf26P5hjVhpGE8)
-
-
-
-

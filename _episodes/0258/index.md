@@ -3,6 +3,7 @@ date: 2021-08-11
 number: 258
 airmozilla: https://mzl.la/joy-of-coding-2021-08-11
 agenda: https://mikeconley.ca/joc/agendas/Episode-0258.html
+rating: https://forms.gle/qsNmPHhuZ5yLVnnEA
 ---
 
 
@@ -27,9 +28,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0258.html
   - What are you looking forward to in the coming months?
     - Seeing friends and family
     - Download Panel improvements are coming! - enable via the `browser.download.improvements_to_download_panel` option (not yet reliable)
-
-* [Rate this episode](https://forms.gle/qsNmPHhuZ5yLVnnEA)
-
-
-
-

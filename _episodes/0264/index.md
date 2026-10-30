@@ -3,6 +3,7 @@ date: 2021-09-29
 number: 264
 airmozilla: https://mzl.la/joy-of-coding-2021-09-29
 agenda: https://mikeconley.ca/joc/agendas/Episode-0264.html
+rating: https://forms.gle/ninYYnQ6tc4KDc6U6
 ---
 
 
@@ -39,9 +40,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0264.html
     - Knoppix was my first introduction to Linux (booted off of a CD)
     - Fedora
     - Ubuntu
-
-* [Rate this episode](https://forms.gle/ninYYnQ6tc4KDc6U6)
-
-
-
-

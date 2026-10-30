@@ -3,6 +3,7 @@ date: 2025-11-05
 number: 419
 airmozilla: https://mzl.la/joy-of-coding-2025-11-05
 agenda: https://mikeconley.ca/joc/agendas/Episode-0419.html
+rating: https://forms.gle/Rh7AuM9aZWZmdz3u5
 ---
 
 
@@ -19,9 +20,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0419.html
   - Make content-search completely self-contained as a custom element
 * Adding JSX support to Searchfox
   - https://bugzilla.mozilla.org/show_bug.cgi?id=1756018
-
-* [Rate this episode](https://forms.gle/Rh7AuM9aZWZmdz3u5)
-
-
-
-

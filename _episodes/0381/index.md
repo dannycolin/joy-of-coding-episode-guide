@@ -3,6 +3,7 @@ date: 2024-10-30
 number: 381
 airmozilla: https://mzl.la/joy-of-coding-2024-10-30
 agenda: https://mikeconley.ca/joc/agendas/Episode-0381.html
+rating: https://forms.gle/9cuNmhbudBes1YWG9
 ---
 
 
@@ -20,9 +21,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0381.html
   - Let's quickly look at this stuff
   - It doesn't look like the existing Tab Groups UI work does anything special with containers
 * CustomizableUI
-
-* [Rate this episode](https://forms.gle/9cuNmhbudBes1YWG9)
-
-
-
-

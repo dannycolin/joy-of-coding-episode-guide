@@ -3,6 +3,7 @@ date: 2021-08-25
 number: 259
 airmozilla: https://mzl.la/joy-of-coding-2021-08-25
 agenda: https://mikeconley.ca/joc/agendas/Episode-0259.html
+rating: https://forms.gle/c8Lz42LRdLfUtNTV8
 ---
 
 
@@ -33,9 +34,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0259.html
     - Fission project (out-of-process iframes) - honourable mention
     - The Joy of Coding!
     - People of mentored
-
-* [Rate this episode](https://forms.gle/c8Lz42LRdLfUtNTV8)
-
-
-
-

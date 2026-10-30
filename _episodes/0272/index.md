@@ -3,6 +3,7 @@ date: 2021-12-01
 number: 272
 airmozilla: https://mzl.la/joy-of-coding-2021-12-01
 agenda: https://mikeconley.ca/joc/agendas/Episode-0272.html
+rating: https://forms.gle/1Dc1G3wit2g4YpSu7
 ---
 
 
@@ -18,9 +19,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0272.html
   - [Bug 1634804](https://bugzilla.mozilla.org/show_bug.cgi?id=1634804) - Intermittent browser/base/content/test/tabcrashed/browser_shownRestartRequired.js | Title element exists. - null == true - JS frame :: chrome://mochitests/content/browser/browser/base/content/test/tabcrashed/browser_shownRestartRequired.js
   - [Bug 1725277](https://bugzilla.mozilla.org/show_bug.cgi?id=1725277) - Intermittent docshell/test/browser/browser_TopLevelNavigationDelegate.js | TopLevelNavigationDelegateParent saw the load attempt. - "undefined" == "http://example.org/2#test" - JS frame :: chrome://mochitests/content/browser/docshell/test/browser/browser
 * Holiday episode on December 15th - going to livestream myself watching Code Rush with periodic commentary.
-
-* [Rate this episode](https://forms.gle/1Dc1G3wit2g4YpSu7)
-
-
-
-

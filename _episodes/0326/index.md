@@ -3,6 +3,7 @@ date: 2023-05-31
 number: 326
 airmozilla: https://mzl.la/joy-of-coding-2023-05-31
 agenda: https://mikeconley.ca/joc/agendas/Episode-0326.html
+rating: https://forms.gle/bHrQLXo3eUym2mMc8
 ---
 
 
@@ -22,9 +23,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0326.html
   - Have createJumpListBuilder in nsIWinTaskBar use that
   - Update WindowsJumpLists to choose the right builder based on the pref and treat them correctly based on that pref.
 * Let's work to retire the old migration wizard 
-
-* [Rate this episode](https://forms.gle/bHrQLXo3eUym2mMc8)
-
-
-
-

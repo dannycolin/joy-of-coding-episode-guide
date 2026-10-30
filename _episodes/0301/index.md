@@ -3,6 +3,7 @@ date: 2022-10-05
 number: 301
 airmozilla: https://mzl.la/joy-of-coding-2022-10-05
 agenda: https://mikeconley.ca/joc/agendas/Episode-0301.html
+rating: https://forms.gle/uC3CYi14o93cAGA16
 ---
 
 
@@ -27,9 +28,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0301.html
   - [ ] Update all of the callers of the above methods!
   - [ ] Remove locks and monitors
   - [ ] Migrate off of dedicated lazy thread to background thread pool
-
-* [Rate this episode](https://forms.gle/uC3CYi14o93cAGA16)
-
-
-
-

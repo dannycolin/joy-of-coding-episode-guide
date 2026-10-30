@@ -3,6 +3,7 @@ date: 2026-08-12
 number: 446
 airmozilla: https://mzl.la/joy-of-coding-2026-08-12
 agenda: https://mikeconley.ca/joc/agendas/Episode-0446.html
+rating: https://forms.gle/kKAy3aHUYeq7jMqm6
 ---
 
 
@@ -20,9 +21,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0446.html
   - Let's write a mochitest-plain test that checks that center cropping does not work for plain HTML documents
     - dom/html/test/forms/testcontentlabelnocenter_cropping.html
       - We expect NO center cropping when crop="center" and value="some string" and text-wrap: no-wrap and max-width applied.
-
-* [Rate this episode](https://forms.gle/kKAy3aHUYeq7jMqm6)
-
-
-
-

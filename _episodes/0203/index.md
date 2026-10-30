@@ -3,6 +3,7 @@ date: 2020-01-15
 number: 203
 airmozilla: https://air.mozilla.org/event-redirect/353384/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=7af6dffd-ed79-441a-b24d-9b90df6e2b07&noteKey=90463e29479c4d50&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F7af6dffd-ed79-441a-b24d-9b90df6e2b07%2F90463e29479c4d50&title=January%2B16th%252C%2B2020%2B-%2BEpisode%2B203
+rating: https://forms.gle/WST6U7D5Y8hTKZTU7
 ---
 
 
@@ -21,6 +22,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=7af6dffd-ed79-44
 * [Bug 1576917](https://bugzilla.mozilla.org/show_bug.cgi?id=1576917) - Port PopupBlockingChild from a message manager actor to a JSWindowActor
 * Searchfox [github](https://github.com/mozsearch/mozsearch)
 * No stream on January 29th or February 5th because Mike is away
-
-* [Rate this episode](https://forms.gle/WST6U7D5Y8hTKZTU7)
-

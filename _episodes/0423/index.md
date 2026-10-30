@@ -3,6 +3,7 @@ date: 2025-12-17
 number: 423
 airmozilla: https://mzl.la/joy-of-coding-2025-12-17
 agenda: https://mikeconley.ca/joc/agendas/Episode-0423.html
+rating: https://forms.gle/ZdnbNZm5Mq5dh8jB9
 ---
 
 
@@ -24,9 +25,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0423.html
 * Q: "Release notes for Firefox 146 mention a ""Windows 10 backup"" i assume this is a subset profile backup https://bugzil.la/1883052 previously covered in JOC? Is it actually Windows 10 only and what features of the profile backup have yet to be implemented? "
   - https://firefox-source-docs.mozilla.org/browser/components/backup/docs/index.html
 * Today is the last episode for 2025! See you in the New Year! (Next episode is Jan 7 2026!)
-
-* [Rate this episode](https://forms.gle/ZdnbNZm5Mq5dh8jB9)
-
-
-
-

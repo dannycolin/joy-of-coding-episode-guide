@@ -3,6 +3,7 @@ date: 2023-11-01
 number: 345
 airmozilla: https://mzl.la/joy-of-coding-2023-11-01
 agenda: https://mikeconley.ca/joc/agendas/Episode-0345.html
+rating: https://forms.gle/Ew9115uVRZqpm5in9
 ---
 
 
@@ -60,9 +61,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0345.html
     - [ ] Make a note to migrate the new jump list builder off of the dedicated lazy thread and use the IO thread pool instead.
   - [ ] Consider making the rejection value of populateJumpList not an nsresult but a more descriptive ErrorResult type.
   - [ ] See if we should ClearJumpList on kPrefTaskbarEnabled pref change or TOPIC_CLEAR_PRIVATE_DATA
-
-* [Rate this episode](https://forms.gle/Ew9115uVRZqpm5in9)
-
-
-
-

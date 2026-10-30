@@ -3,6 +3,7 @@ date: 2019-11-06
 number: 196
 airmozilla: https://air.mozilla.org/event-redirect/348598/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=aebdd835-2b83-482e-9446-ef34b8e1dea2&noteKey=e8b86429d5610f17&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Faebdd835-2b83-482e-9446-ef34b8e1dea2%2Fe8b86429d5610f17&title=November%2B6th%252C%2B2019%2B-%2BEpisode%2B196
+rating: https://forms.gle/Le3S34oahX8mwtjL6
 ---
 
 
@@ -17,6 +18,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=aebdd835-2b83-48
 * [Bug 1505495](https://bugzilla.mozilla.org/show_bug.cgi?id=1505495) - consider geckoprofiling to be run at the end of every normal test run and upload artifacts for every run
 * Great walkthrough of Treeherder
 * TODO: Consider calling stopTrackingMouseOverVideos in willDestroy in PictureInPictureChild
-
-* [Rate this episode](https://forms.gle/Le3S34oahX8mwtjL6)
-

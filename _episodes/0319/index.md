@@ -3,6 +3,7 @@ date: 2023-03-22
 number: 319
 airmozilla: https://mzl.la/joy-of-coding-2023-03-22
 agenda: https://mikeconley.ca/joc/agendas/Episode-0319.html
+rating: https://forms.gle/j8giTgUbTM5NMXgL6
 ---
 
 
@@ -37,8 +38,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0319.html
       - [ ] Let's update WinTaskbar to have a new method that can be accessed from native code (so not through XPCOM), called, like, DoCreateJumpListBuilder or something. Have it take an argument that is a reference to something that implements a JumpListManager interface. Have JumpListBuilder move that thing to the background thread - the background thread owns it. Then, in our tests, have our GTest call DoCreateJumpListBuilder, passing it something that mocks out JumpListManager. And then call it's populateJumpList method for testing.
 
 * Next week, I am travelling and won't be able to stream! Sorry!
-* [Rate this episode](https://forms.gle/j8giTgUbTM5NMXgL6)
-
-
-
-

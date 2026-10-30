@@ -3,6 +3,7 @@ date: 2019-11-13
 number: 197
 airmozilla: https://air.mozilla.org/event-redirect/349715/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=8fc9d136-be82-433b-831d-52644670b96f&noteKey=777c682d55efff66&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F8fc9d136-be82-433b-831d-52644670b96f%2F777c682d55efff66&title=November%2B13th%252C%2B2019%2B-%2BEpisode%2B197
+rating: https://forms.gle/tkDSMhnowHrvSYgh8
 ---
 
 
@@ -18,6 +19,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=8fc9d136-be82-43
   - [Bug 1595135](https://bugzilla.mozilla.org/show_bug.cgi?id=1595135) - Perma browser_thumbnails_bg_image_capture.js | This test exceeded the timeout threshold. It should be rewritten or split up. If that's not possible, use requestLongerTimeout(N), but only as a last resort. when Gecko 72 merges to Beta on 2019-12-02
   - [Bug 1595292](https://bugzilla.mozilla.org/show_bug.cgi?id=1595292) - Perma toolkit/components/thumbnails/test/browser_thumbnails_bg_image_capture.js | Uncaught exception - at chrome://content/browser/toolkit/components/thumbnails/test/head.js:247 - Error: page-thumbnail:error when Gecko 72 merges to Beta on 2019-12-02
   - Reading Emilio's [blog](https://crisal.io/words/2019/11/13/shutdown-leak-hunting.html) post on fixing shutdown leaks in Firefox
-
-* [Rate this episode](https://forms.gle/tkDSMhnowHrvSYgh8)
-

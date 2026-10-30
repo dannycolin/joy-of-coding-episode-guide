@@ -3,6 +3,7 @@ date: 2025-07-02
 number: 408
 airmozilla: https://mzl.la/joy-of-coding-2025-07-02
 agenda: https://mikeconley.ca/joc/agendas/Episode-0408.html
+rating: https://forms.gle/yGbpaH7TPwmt6Uj28
 ---
 
 
@@ -21,9 +22,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0408.html
 * Let's try to optimize background images again...
   - https://bugzilla.mozilla.org/show_bug.cgi?id=1974818
   - PNG Is Back: https://www.programmax.net/articles/png-is-back/
-
-* [Rate this episode](https://forms.gle/yGbpaH7TPwmt6Uj28)
-
-
-
-

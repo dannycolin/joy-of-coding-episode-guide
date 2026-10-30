@@ -3,6 +3,7 @@ date: 2026-03-25
 number: 434
 airmozilla: https://mzl.la/joy-of-coding-2026-03-25
 agenda: https://mikeconley.ca/joc/agendas/Episode-0434.html
+rating: https://forms.gle/vfQCHugyqakFRWwb9
 ---
 
 
@@ -20,9 +21,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0434.html
 What advice would you give someone who would want to have strong fundamentals and grasp of all things software engineering especially for someone who is just starting career out in the tech field. Its scary sometimes thinking about it.
 
 I'd love to hear your thoughts, <email address>"
-
-* [Rate this episode](https://forms.gle/vfQCHugyqakFRWwb9)
-
-
-
-

@@ -3,6 +3,7 @@ date: 2021-09-01
 number: 260
 airmozilla: https://mzl.la/joy-of-coding-2021-09-01
 agenda: https://mikeconley.ca/joc/agendas/Episode-0260.html
+rating: https://forms.gle/xADFGN8CdFDm5uXM8
 ---
 
 
@@ -41,9 +42,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0260.html
         - https://releases.mozilla.org/pub/utilities/crashfirefox-intentionally/
         - Source: https://github.com/bsmedberg/crashfirefox-intentionally
       - https://firefox-source-docs.mozilla.org/performance/reportingaperformance_problem.html 
-
-* [Rate this episode](https://forms.gle/xADFGN8CdFDm5uXM8)
-
-
-
-

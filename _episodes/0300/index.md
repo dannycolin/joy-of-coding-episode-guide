@@ -3,6 +3,7 @@ date: 2022-09-14
 number: 300
 airmozilla: https://mzl.la/joy-of-coding-2022-09-14
 agenda: https://mikeconley.ca/joc/agendas/Episode-0300.html
+rating: https://forms.gle/5d3sZa75kTejFiTJ7
 ---
 
 
@@ -15,9 +16,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0300.html
   - [D157347](https://phabricator.services.mozilla.com/D157347)
 * [ScummVM](https://github.com/scummvm/scummvm)
 * No episodes for the next two weeks due to travel. See you on October 5th for Episode 301!
-
-* [Rate this episode](https://forms.gle/5d3sZa75kTejFiTJ7)
-
-
-
-

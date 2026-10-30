@@ -3,6 +3,7 @@ date: 2023-06-28
 number: 330
 airmozilla: https://mzl.la/joy-of-coding-2023-06-28
 agenda: https://mikeconley.ca/joc/agendas/Episode-0330.html
+rating: https://forms.gle/tgSHNtwTJ4FhTmRa8
 ---
 
 
@@ -28,9 +29,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0330.html
   - [ ] Make a note to migrate the new jump list builder off of the dedicated lazy thread and use the IO thread pool instead.
 * Tim Schafer interview with [Cressup](https://www.twitch.tv/videos/1857329968)
 * [https://mikeconley.github.io/documents/HowmconleyusesMercurialforMozillacode](https://mikeconley.github.io/documents/how_mconley_uses_Mercurial_for_Mozilla_code)
-
-* [Rate this episode](https://forms.gle/tgSHNtwTJ4FhTmRa8)
-
-
-
-

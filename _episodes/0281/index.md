@@ -3,6 +3,7 @@ date: 2022-03-02
 number: 281
 airmozilla: https://mzl.la/joy-of-coding-2022-03-02
 agenda: https://mikeconley.ca/joc/agendas/Episode-0281.html
+rating: https://forms.gle/7ShpaeGnymXAfBrh9
 ---
 
 
@@ -32,9 +33,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0281.html
         - --start-at / --end-at
         - Or a mixture of the above
   - [Bug 1712012](https://bugzilla.mozilla.org/show_bug.cgi?id=1712012) - Intermittent TEST-UNEXPECTED-TIMEOUT | browser/base/content/test/webrtc/browser_devices_get_user_media_unprompted_access.js | application timed out after 370 seconds with no output
-
-* [Rate this episode](https://forms.gle/7ShpaeGnymXAfBrh9)
-
-
-
-

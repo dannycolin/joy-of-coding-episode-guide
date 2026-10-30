@@ -3,6 +3,7 @@ date: 2025-03-19
 number: 396
 airmozilla: https://mzl.la/joy-of-coding-2025-03-19
 agenda: https://mikeconley.ca/joc/agendas/Episode-0396.html
+rating: https://forms.gle/iurnbvQjc19qC2hT7
 ---
 
 
@@ -24,9 +25,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0396.html
   - Our utility can use relevancy components "generate-test-data" utility as an example to work from
 * Next time: maybe let's learn jj together
   - https://steveklabnik.github.io/jujutsu-tutorial/introduction/introduction.html
-
-* [Rate this episode](https://forms.gle/iurnbvQjc19qC2hT7)
-
-
-
-

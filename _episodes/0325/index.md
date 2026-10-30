@@ -3,6 +3,7 @@ date: 2023-05-17
 number: 325
 airmozilla: https://mzl.la/joy-of-coding-2023-05-17
 agenda: https://mikeconley.ca/joc/agendas/Episode-0325.html
+rating: https://forms.gle/A8e5j2jixmVEeemv8
 ---
 
 
@@ -17,9 +18,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0325.html
     - [Issue 1274](https://github.com/mozilla/sumo/issues/1274)
 * Migration wizard changes! For payment methods.
 * Code reviews!
-
-* [Rate this episode](https://forms.gle/A8e5j2jixmVEeemv8)
-
-
-
-

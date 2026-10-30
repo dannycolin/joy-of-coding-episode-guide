@@ -3,6 +3,7 @@ date: 2025-08-27
 number: 415
 airmozilla: https://mzl.la/joy-of-coding-2025-08-27
 agenda: https://mikeconley.ca/joc/agendas/Episode-0415.html
+rating: https://forms.gle/JPF5hBvf4xJbMUSz5
 ---
 
 
@@ -32,9 +33,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0415.html
   - Get webext-glue/locales/en-US/newtab.ftl last changed date from GitHub
   - Get locales-report.json from GitHub
   - Use jq-web library (https://github.com/fiatjaf/jq-web) to query Experimenter for active deploys, rollouts and experiments.
-
-* [Rate this episode](https://forms.gle/JPF5hBvf4xJbMUSz5)
-
-
-
-

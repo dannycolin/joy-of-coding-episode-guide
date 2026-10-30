@@ -3,6 +3,7 @@ date: 2020-12-16
 number: 235
 airmozilla: https://mzl.la/joy-of-coding-2020-12-16
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=b50cc783-53a7-4288-9239-2405a63277fe&noteKey=ce70ff234121c891cf5d537c24a8f14a&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fb50cc783-53a7-4288-9239-2405a63277fe%2Fce70ff234121c891cf5d537c24a8f14a&title=December%2B16th%252C%2B2020%2B-%2BEpisode%2B235
+rating: https://forms.gle/h6Cij6K1NCTW4jA7A
 ---
 
 
@@ -26,9 +27,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=b50cc783-53a7-42
   - [Hopper Disassembler](https://www.hopperapp.com/)
   - [Rizin](https://rizin.re/)
 * [Mikes Research paper](https://mikeconley.ca/blog/2010/12/23/the-wisdom-of-peers-a-motive-for-exploring-peer-code-review-in-the-classroom/) - "The Wisdom of Peers"
-
-* [Rate this episode](https://forms.gle/h6Cij6K1NCTW4jA7A)
-
-
-
-

@@ -3,6 +3,7 @@ date: 2026-01-14
 number: 425
 airmozilla: https://mzl.la/joy-of-coding-2026-01-14
 agenda: https://mikeconley.ca/joc/agendas/Episode-0425.html
+rating: https://forms.gle/XeDNLpGBsCJBhfp36
 ---
 
 
@@ -18,9 +19,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0425.html
   - (Updated the feedback form to remove the entry about Mercurial)
 * Let's land [Bug 2008628](https://bugzilla.mozilla.org/show_bug.cgi?id=2008628) - Firefox gets to odd zoom levels (e.g. 93%, 103%, 113%, 123%) and doesn't return to 100%, if you zoom in with keyboard and then zoom out with mousewheel
 * Let's keep working on the 48 hour window mechanism
-
-* [Rate this episode](https://forms.gle/XeDNLpGBsCJBhfp36)
-
-
-
-

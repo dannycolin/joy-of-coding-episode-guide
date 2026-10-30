@@ -3,6 +3,7 @@ date: 2023-11-29
 number: 348
 airmozilla: https://mzl.la/joy-of-coding-2023-11-29
 agenda: https://mikeconley.ca/joc/agendas/Episode-0348.html
+rating: https://forms.gle/yZnmvHvmLQEsfojR8
 ---
 
 
@@ -23,9 +24,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0348.html
   - File being better about icons (mhowell's thing)
 * Kitsune / SUMO - get rid of doodle variant
 * [Bug 1866107](https://bugzilla.mozilla.org/show_bug.cgi?id=1866107) - 5.27 - 3.78% tabpaint / tabpaint + 1 more (Windows) regression on Tue November 14 2023 
-
-* [Rate this episode](https://forms.gle/yZnmvHvmLQEsfojR8)
-
-
-
-

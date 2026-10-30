@@ -3,6 +3,7 @@ date: 2020-04-29
 number: 214
 airmozilla: https://air.mozilla.org/event-redirect/367430/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=1fde32ef-43f5-47ae-89c6-c312f3665423&noteKey=6824b5d49a91b7ff&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F1fde32ef-43f5-47ae-89c6-c312f3665423%2F6824b5d49a91b7ff&title=April%2B29th%252C%2B2020%2B-%2BEpisode%2B214
+rating: https://forms.gle/PfXpZsXd5o9yDduK7
 ---
 
 
@@ -24,9 +25,3 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=1fde32ef-43f5-47
 * ./mach try fuzzy --pernosco --rebuild 5
 * Pernosco is a web frontend for rr that makes it so you can debug a build with rr from within a CI system as if it where run on a physical machine
 * Landed some revisions
-
-* [Rate this episode](https://forms.gle/PfXpZsXd5o9yDduK7)
-
-
-
-

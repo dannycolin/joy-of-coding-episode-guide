@@ -3,6 +3,7 @@ date: 2023-06-07
 number: 327
 airmozilla: https://mzl.la/joy-of-coding-2023-06-07
 agenda: https://mikeconley.ca/joc/agendas/Episode-0327.html
+rating: https://forms.gle/CCcpZn82xDPMaH3e7
 ---
 
 
@@ -21,9 +22,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0327.html
   - [ ] Populate nsIJumpListBuilder using the code we developed in the previous iteration
   - [ ] Have createJumpListBuilder in nsIWinTaskBar use that
   - [ ] Update WindowsJumpLists to choose the right builder based on the pref and treat them correctly based on that pref.
-
-* [Rate this episode](https://forms.gle/CCcpZn82xDPMaH3e7)
-
-
-
-

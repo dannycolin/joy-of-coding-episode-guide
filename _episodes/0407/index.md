@@ -3,6 +3,7 @@ date: 2025-06-25
 number: 407
 airmozilla: https://mzl.la/joy-of-coding-2025-06-25
 agenda: https://mikeconley.ca/joc/agendas/Episode-0407.html
+rating: https://forms.gle/vVF2WCw6hsJxnwY79
 ---
 
 
@@ -17,9 +18,3 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0407.html
   - What I think we should do is have the MessageWrapper send an action to the parent if a message is shown, and if a message is dimissed. The parent will maintain a WeakSet of elements that are showing messages. On a message shown, it'll add to the set. On message dimissed or newtab unload, it'll remove from the set.
   - When it comes time to check if a message is visible on the current selected browser, merely check if it's in the set O(1).
 * New Tab image performance optimization, if we have time
-
-* [Rate this episode](https://forms.gle/vVF2WCw6hsJxnwY79)
-
-
-
-
