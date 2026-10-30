@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2022-01-19
 agenda: https://mikeconley.ca/joc/agendas/Episode-0275.html
 ---
 
-# Episode 275: Jan 19th, 2022
+
 
 ## Links
 

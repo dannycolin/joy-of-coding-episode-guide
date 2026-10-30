@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2022-02-09
 agenda: https://mikeconley.ca/joc/agendas/Episode-0278.html
 ---
 
-# Episode 278: Feb 9th, 2022
+
 
 ## Links
 

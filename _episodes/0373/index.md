@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-07-17
 agenda: https://mikeconley.ca/joc/agendas/Episode-0373.html
 ---
 
-# Episode 373: Jul 17th, 2024
+
 
 ## Links
 

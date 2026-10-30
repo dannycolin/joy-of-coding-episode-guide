@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-10-27
 agenda: https://mikeconley.ca/joc/agendas/Episode-0267.html
 ---
 
-# Episode 267: Oct 27th, 2021
+
 
 ## Links
 

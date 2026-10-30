@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-07-28
 agenda: https://mikeconley.ca/joc/agendas/Episode-0256.html
 ---
 
-# Episode 256: Jul 28th, 2021
+
 
 ## Links
 

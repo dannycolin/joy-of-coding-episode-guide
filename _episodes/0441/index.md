@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2026-06-17
 agenda: https://mikeconley.ca/joc/agendas/Episode-0441.html
 ---
 
-# Episode 441: Jun 17th, 2026
+
 
 ## Links
 

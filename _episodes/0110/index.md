@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-110/
 agenda: https://www.evernote.com/l/AbJLFX0rmFlMGJj5CIu42iM_aNc5qvnLHgk
 ---
 
-# Episode 110: August 23rd, 2017
+
 
 ## Links
 

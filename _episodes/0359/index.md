@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-03-13
 agenda: https://mikeconley.ca/joc/agendas/Episode-0359.html
 ---
 
-# Episode 359: Mar 13th, 2024
+
 
 ## Links
 

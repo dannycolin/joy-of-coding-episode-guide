@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-12-04
 agenda: https://mikeconley.ca/joc/agendas/Episode-0386.html
 ---
 
-# Episode 386: Dec 4th, 2024
+
 
 ## Links
 

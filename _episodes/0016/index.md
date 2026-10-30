@@ -4,7 +4,7 @@ number: 16
 airmozilla: https://air.mozilla.org/the-joy-of-coding-mconley-livehacks-on-firefox-episode-16-2/
 ---
 
-# Episode 15: May 27th, 2015 - Agenda
+
 
 ## Links
 

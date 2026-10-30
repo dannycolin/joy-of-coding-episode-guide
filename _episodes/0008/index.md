@@ -5,7 +5,7 @@ youtube: https://www.youtube.com/watch?v=TvXtfdS5AUE
 agenda: https://www.evernote.com/l/AbJGwcy3Gt1I3qlhCpUuZebtW82W3tnAujk
 ---
 
-# Episode 8: Apr 1, 2015
+
 
 ## Links
 

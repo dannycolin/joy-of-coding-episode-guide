@@ -5,7 +5,7 @@ airmozilla: https://onlinexperiences.com/Launch/Event.htm?ShowKey=44908&DisplayI
 agenda: https://www.evernote.com/client/snv?noteGuid=1bf24a7c-16c6-431d-8007-cf0fe9966d73&noteKey=7d29583028e777e9&var=b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F1bf24a7c-16c6-431d-8007-cf0fe9966d73%2F7d29583028e777e9&exp=ENB3538
 ---
 
-# Episode 151: October 3rd, 2018
+
 
 ## Links
 

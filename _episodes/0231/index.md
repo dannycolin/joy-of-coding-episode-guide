@@ -5,7 +5,7 @@ airmozilla: https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb62
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=0eb8b240-8c5f-4fd6-b8de-b66f1fef0735&noteKey=5d4cbd7d2850a1e9&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F0eb8b240-8c5f-4fd6-b8de-b66f1fef0735%2F5d4cbd7d2850a1e9&title=November%2B4th%252C%2B2020%2B-%2BEpisode%2B231
 ---
 
-# Episode 231: Nov 4th, 2020
+
 
 ## Links
 

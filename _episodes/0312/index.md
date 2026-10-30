@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-01-18
 agenda: https://mikeconley.ca/joc/agendas/Episode-0312.html
 ---
 
-# Episode 312: Jan 18th, 2023
+
 
 ## Links
 

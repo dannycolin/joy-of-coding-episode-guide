@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-09-24
 agenda: https://mikeconley.ca/joc/agendas/Episode-0416.html
 ---
 
-# Episode 416: Sep 24th, 2025
+
 
 ## Links
 

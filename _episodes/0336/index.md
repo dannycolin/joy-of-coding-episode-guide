@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-08-30
 agenda: https://mikeconley.ca/joc/agendas/Episode-0336.html
 ---
 
-# Episode 336: Aug 30th, 2023
+
 
 ## Links
 

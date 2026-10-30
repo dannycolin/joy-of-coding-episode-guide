@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/event-redirect/408817/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=7f917f69-75a0-43e8-92d9-c41a226964a8&noteKey=d4b687a82b87ea9e&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F7f917f69-75a0-43e8-92d9-c41a226964a8%2Fd4b687a82b87ea9e&title=July%2B8th%252C%2B2020%2B-%2BEpisode%2B221
 ---
 
-# Episode 221: July 8th, 2020
+
 
 **Reminder**: No plan survives breakfast.
 

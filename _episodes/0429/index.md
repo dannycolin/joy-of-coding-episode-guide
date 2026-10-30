@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2026-02-11
 agenda: https://mikeconley.ca/joc/agendas/Episode-0429.html
 ---
 
-# Episode 429: Feb 11th, 2026
+
 
 ## Links
 

@@ -5,7 +5,7 @@ youtube: https://www.youtube.com/watch?v=s9o6gySZmXM
 agenda: https://www.evernote.com/l/AbKmofqw6uVGTbKjyzhv4HJFeGFcHeLD1Uk
 ---
 
-# Episode 4: Mar 4, 2015
+
 
 ## Links
 

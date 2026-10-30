@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-05-08
 agenda: https://mikeconley.ca/joc/agendas/Episode-0365.html
 ---
 
-# Episode 365: May 8th, 2024
+
 
 ## Links
 

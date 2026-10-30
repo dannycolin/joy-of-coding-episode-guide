@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-04-14
 agenda: https://mikeconley.ca/joc/agendas/Episode-0246.html
 ---
 
-# Episode 246: Apr 14th, 2021
+
 
 ## Links
 

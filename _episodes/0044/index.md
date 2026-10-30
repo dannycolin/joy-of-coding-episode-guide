@@ -5,6 +5,6 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-44/
 agenda: https://www.evernote.com/l/AbINPDXEylpBhrWz8s8GwUhnqHnAe1-ePck
 ---
 
-# Episode 44: February 10th, 2016
+
 
 ## Links

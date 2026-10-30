@@ -5,7 +5,7 @@ airmozilla: https://onlinexperiences.com/Launch/Event.htm?ShowKey=44908&DisplayI
 agenda: https://www.evernote.com/shard/s434/sh/327ee12a-a7b4-4d1a-a41f-f4ee2b508d1e/402796995c30d976
 ---
 
-# Episode 150: September 19th, 2018
+
 
 ## Links
 

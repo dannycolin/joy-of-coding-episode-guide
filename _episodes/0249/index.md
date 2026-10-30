@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-05-12
 agenda: https://mikeconley.ca/joc/agendas/Episode-0249.html
 ---
 
-# Episode 249: May 12th, 2021
+
 
 ## Links
 

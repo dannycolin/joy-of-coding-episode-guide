@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/event-redirect/313378/
 agenda: https://www.evernote.com/client/snv?noteGuid=777fc256-9257-498a-92c3-8371bbaf5323&noteKey=acafc74457d0efd8&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F777fc256-9257-498a-92c3-8371bbaf5323%2Facafc74457d0efd8&title=November%2B21st%252C%2B2018%2B-%2BEpisode%2B158
 ---
 
-# Episode 158: November 21st, 2018
+
 
 ## Links
 

@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-11-08
 agenda: https://mikeconley.ca/joc/agendas/Episode-0346.html
 ---
 
-# Episode 346: Nov 8th, 2023
+
 
 ## Links
 

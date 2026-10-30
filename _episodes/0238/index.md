@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-01-20
 agenda: https://mikeconley.ca/joc/agendas/Episode-0238.html
 ---
 
-# Episode 238: Jan 20th, 2021
+
 
 ## Links
 

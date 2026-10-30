@@ -5,6 +5,6 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-95/
 agenda: https://www.evernote.com/l/AbJFw2dB0SBFGoXV8YeFZZ4PO4LpYIb1s2E
 ---
 
-# Episode 95: March 15th, 2017
+
 
 ## Links

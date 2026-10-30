@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2022-11-30
 agenda: https://mikeconley.ca/joc/agendas/Episode-0309.html
 ---
 
-# Episode 309: Nov 30th, 2022
+
 
 ## Links
 

@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-115/
 agenda: https://www.evernote.com/l/AbKrjkVbmZJBQYdIC8NJiX3Htnf9tS6Ww20
 ---
 
-# Episode 115: October 4th, 2017
+
 
 ## Links
 

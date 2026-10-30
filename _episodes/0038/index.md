@@ -5,6 +5,6 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-38/
 agenda: https://www.evernote.com/l/AbIG8LvjWoJDjJqZRxgHrYKJxcajUPkZYPo
 ---
 
-# Episode 38: December 16th, 2015 - Agenda
+
 
 ## Links

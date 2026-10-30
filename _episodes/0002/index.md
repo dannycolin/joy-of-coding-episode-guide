@@ -4,7 +4,7 @@ number: 2
 youtube: https://www.youtube.com/watch?v=iENUiXDSRdo
 ---
 
-# Episode 2: Feb 18, 2015
+
 
 ## Links
 

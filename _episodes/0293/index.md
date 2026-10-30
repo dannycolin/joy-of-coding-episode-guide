@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2022-07-06
 agenda: https://mikeconley.ca/joc/agendas/Episode-0293.html
 ---
 
-# Episode 293: Jul 6st, 2022
+
 
 ## Links
 

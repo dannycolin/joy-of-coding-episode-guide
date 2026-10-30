@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2022-08-17
 agenda: https://mikeconley.ca/joc/agendas/Episode-0297.html
 ---
 
-# Episode 297: Aug 17th, 2022
+
 
 ## Links
 

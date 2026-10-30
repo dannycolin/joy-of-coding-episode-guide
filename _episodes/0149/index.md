@@ -5,7 +5,7 @@ airmozilla: https://onlinexperiences.com/Launch/Event.htm?ShowKey=44908&DisplayI
 agenda: https://www.evernote.com/shard/s434/sh/89eba857-a819-4a18-bb83-227a17117556/29d50140ebe7573e
 ---
 
-# Episode 149: September 12th, 2018
+
 
 ## Links
 
@@ -22,7 +22,7 @@ agenda: https://www.evernote.com/shard/s434/sh/89eba857-a819-4a18-bb83-227a17117
 * [Bug 1356920](https://bugzilla.mozilla.org/show_bug.cgi?id=1356920) - 6.33ms uninterruptible reflow at rect@chrome://browser/content/browser-tabsintitlebar.js:106:23
   * [TabsInTitlebar](https://searchfox.org/mozilla-central/source/browser/base/content/browser-tabsintitlebar.js#167)
 
-## Episode 150 ideas?!
+#
 * Got ideas? Submit them in the Episode Rating form!
 * AMA
 * Work on some kind of user voted bug?

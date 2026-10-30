@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/event-redirect/326831/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=daa2ff86-709c-4dcf-80d0-3e56db5386e1&noteKey=4b1f40c2664b149b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fdaa2ff86-709c-4dcf-80d0-3e56db5386e1%2F4b1f40c2664b149b&title=April%2B17th%252C%2B2019%2B-%2BEpisode%2B174
 ---
 
-# Episode 174: April 17th, 2019
+
 
 ## Links
 

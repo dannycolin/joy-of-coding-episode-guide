@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-11-19
 agenda: https://mikeconley.ca/joc/agendas/Episode-0420.html
 ---
 
-# Episode 420: Nov 19th, 2025
+
 
 ## Links
 

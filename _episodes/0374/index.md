@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-07-31
 agenda: https://mikeconley.ca/joc/agendas/Episode-0374.html
 ---
 
-# Episode 374: Jul 31st, 2024
+
 
 ## Links
 

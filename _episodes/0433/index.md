@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2026-03-18
 agenda: https://mikeconley.ca/joc/agendas/Episode-0433.html
 ---
 
-# Episode 433: Mar 18th, 2026
+
 
 ## Links
 

@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-146/
 agenda: https://www.evernote.com/l/AbIjO9t0VeRL6aNbINmQ2-yUj_EPU1jGLyU
 ---
 
-# Episode 146: August 8th, 2018
+
 
 ## Links
 

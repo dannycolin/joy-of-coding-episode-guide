@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2022-12-21
 agenda: https://mikeconley.ca/joc/agendas/Episode-0310.html
 ---
 
-# Episode 310: Dec 21st, 2022
+
 
 ## Links
 

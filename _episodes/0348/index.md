@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-11-29
 agenda: https://mikeconley.ca/joc/agendas/Episode-0348.html
 ---
 
-# Episode 348: Nov 29th, 2023
+
 
 ## Links
 

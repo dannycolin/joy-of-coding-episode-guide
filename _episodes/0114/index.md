@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-114/
 agenda: https://www.evernote.com/l/AbJicdPVqGZPtagie1ipZtNOUvRCEH7TZVI
 ---
 
-# Episode 114: September 27th, 2017
+
 
 ## Links
 

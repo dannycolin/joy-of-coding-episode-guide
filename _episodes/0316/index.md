@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-02-15
 agenda: https://mikeconley.ca/joc/agendas/Episode-0316.html
 ---
 
-# Episode 316: Feb 15th, 2023
+
 
 ## Links
 

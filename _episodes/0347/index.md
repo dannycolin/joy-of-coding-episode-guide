@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-11-15
 agenda: https://mikeconley.ca/joc/agendas/Episode-0347.html
 ---
 
-# Episode 347: Nov 15th, 2023
+
 
 ## Links
 

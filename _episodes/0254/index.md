@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-07-07
 agenda: https://mikeconley.ca/joc/agendas/Episode-0254.html
 ---
 
-# Episode 254: Jul 7th, 2021
+
 
 ## Links
 

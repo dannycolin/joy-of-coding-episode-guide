@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/event-redirect/329971/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=d58f8137-03f7-4cb9-a8c2-87e2ca185ae1&noteKey=b2d4c0eef4bcf784&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fd58f8137-03f7-4cb9-a8c2-87e2ca185ae1%2Fb2d4c0eef4bcf784&title=May%2B8th%252C%2B2019%2B-%2BEpisode%2B177
 ---
 
-# Episode 177: May 8th, 2019
+
 
 ## Links
 

@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-02-22
 agenda: https://mikeconley.ca/joc/agendas/Episode-0317.html
 ---
 
-# Episode 317: Feb 22nd, 2023
+
 
 ## Links
 

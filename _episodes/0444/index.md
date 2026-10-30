@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2026-07-22
 agenda: https://mikeconley.ca/joc/agendas/Episode-0444.html
 ---
 
-# Episode 444: Jul 22nd, 2026
+
 
 ## Links
 

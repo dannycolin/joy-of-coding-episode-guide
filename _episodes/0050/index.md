@@ -5,6 +5,6 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-50/
 agenda: https://www.evernote.com/l/AbJvcFiZAQtGm70zxcJrZLkuU0MYhenc9pg
 ---
 
-# Episode 50: March 23rd, 2016
+
 
 ## Links

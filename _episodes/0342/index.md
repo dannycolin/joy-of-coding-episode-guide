@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-10-11
 agenda: https://mikeconley.ca/joc/agendas/Episode-0342.html
 ---
 
-# Episode 342: Oct 11th, 2023
+
 
 ## Links
 

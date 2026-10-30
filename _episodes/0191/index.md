@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/event-redirect/345340/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=62b119ca-157d-478d-8618-28a94a456261&noteKey=1b8ae02ce16892ea&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F62b119ca-157d-478d-8618-28a94a456261%2F1b8ae02ce16892ea&title=October%2B2nd%252C%2B2019%2B-%2BEpisode%2B191
 ---
 
-# Episode 191: Oct 2nd, 2019
+
 
 ## Links
 

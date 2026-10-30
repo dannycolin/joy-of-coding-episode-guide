@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2022-04-13
 agenda: https://mikeconley.ca/joc/agendas/Episode-0286.html
 ---
 
-# Episode 286: Apr 13th, 2022
+
 
 ## Links
 

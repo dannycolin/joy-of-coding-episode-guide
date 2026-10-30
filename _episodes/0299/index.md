@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2022-08-31
 agenda: https://mikeconley.ca/joc/agendas/Episode-0299.html
 ---
 
-# Episode 299: Aug 31th, 2022
+
 
 ## Links
 

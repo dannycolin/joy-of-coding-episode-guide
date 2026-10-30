@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/event-redirect/312665/
 agenda: https://www.evernote.com/client/snv?noteGuid=36eae2ea-0354-45c7-800d-5413510d3e25&noteKey=a00689260d181e91&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F36eae2ea-0354-45c7-800d-5413510d3e25%2Fa00689260d181e91&title=November%2B14th%252C%2B2018%2B-%2BEpisode%2B157
 ---
 
-# Episode 157: November 14th, 2018
+
 
 ## Links
 

@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-09-18
 agenda: https://mikeconley.ca/joc/agendas/Episode-0377.html
 ---
 
-# Episode 377: Sep 18th, 2024
+
 
 ## Links
 

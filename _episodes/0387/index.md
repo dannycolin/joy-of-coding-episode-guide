@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-12-11
 agenda: https://mikeconley.ca/joc/agendas/Episode-0387.html
 ---
 
-# Episode 387: Dec 11th, 2024
+
 
 ## Links
 

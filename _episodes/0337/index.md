@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-09-06
 agenda: https://mikeconley.ca/joc/agendas/Episode-0337.html
 ---
 
-# Episode 337: Sep 6th, 2023
+
 
 ## Links
 

@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-145/
 agenda: https://www.evernote.com/l/AbIs3LRknK1AwbmFb8RozrnZvefTFPZv15s
 ---
 
-# Episode 145: Jul 11th, 2018
+
 
 ## Links
 

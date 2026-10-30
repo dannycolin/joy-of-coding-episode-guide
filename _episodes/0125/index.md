@@ -5,6 +5,6 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-125/
 agenda: https://www.evernote.com/l/AbLXeQUz4HtJvrfqGaQVYmZlVxYNnEb0gdw
 ---
 
-# Episode 125: January 10th, 2018
+
 
 ## Links

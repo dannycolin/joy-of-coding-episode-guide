@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-10-30
 agenda: https://mikeconley.ca/joc/agendas/Episode-0381.html
 ---
 
-# Episode 381: Oct 30th, 2024
+
 
 ## Links
 

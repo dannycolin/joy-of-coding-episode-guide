@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-06-04
 agenda: https://mikeconley.ca/joc/agendas/Episode-0403.html
 ---
 
-# Episode 403: Jun 4th, 2025
+
 
 ## Links
 

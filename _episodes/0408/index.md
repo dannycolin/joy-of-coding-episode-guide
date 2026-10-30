@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-07-02
 agenda: https://mikeconley.ca/joc/agendas/Episode-0408.html
 ---
 
-# Episode 408: Jul 2nd, 2025
+
 
 ## Links
 

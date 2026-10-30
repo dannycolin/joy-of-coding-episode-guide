@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-01-08
 agenda: https://mikeconley.ca/joc/agendas/Episode-0389.html
 ---
 
-# Episode 389: Jan 8th, 2025
+
 
 ## Links
 

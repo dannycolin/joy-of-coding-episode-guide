@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-03-03
 agenda: https://mikeconley.ca/joc/agendas/Episode-0242.html
 ---
 
-# Episode 242: Mar 3rd, 2021
+
 
 ## Links
 

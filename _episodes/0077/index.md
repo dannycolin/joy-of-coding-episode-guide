@@ -4,7 +4,7 @@ number: 77
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-77/
 ---
 
-# Episode 77: Oct 26, 2016
+
 
 ## Links
 

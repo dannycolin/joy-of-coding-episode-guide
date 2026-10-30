@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2026-01-07
 agenda: https://mikeconley.ca/joc/agendas/Episode-0424.html
 ---
 
-# Episode 424: Jan 7th, 2026
+
 
 ## Links
 

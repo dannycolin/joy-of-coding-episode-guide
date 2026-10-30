@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-144/
 agenda: https://www.evernote.com/l/AbI0VVxPpTVN8a1EqZaIaDSAG_6z87_3AF8
 ---
 
-# Episode 144: Jul 4th, 2018
+
 
 ## Links
 

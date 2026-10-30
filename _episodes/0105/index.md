@@ -4,7 +4,7 @@ number: 105
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-105/
 ---
 
-# Episode 105: July 12th, 2017
+
 
 ## Links
 

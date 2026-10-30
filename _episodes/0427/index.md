@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2026-01-28
 agenda: https://mikeconley.ca/joc/agendas/Episode-0427.html
 ---
 
-# Episode 427: Jan 28th, 2026
+
 
 ## Links
 

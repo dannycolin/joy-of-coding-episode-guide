@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-08-07
 agenda: https://mikeconley.ca/joc/agendas/Episode-0375.html
 ---
 
-# Episode 375: Aug 7th, 2024
+
 
 ## Links
 

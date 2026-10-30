@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-05-07
 agenda: https://mikeconley.ca/joc/agendas/Episode-0400.html
 ---
 
-# Episode 400: May 7th, 2025
+
 
 ## Links
 

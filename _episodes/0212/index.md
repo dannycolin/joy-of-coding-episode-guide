@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/event-redirect/367425/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=54443a75-c002-475d-81c7-b998bda7a34f&noteKey=b2c8d358c366484e&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F54443a75-c002-475d-81c7-b998bda7a34f%2Fb2c8d358c366484e&title=April%2B15th%252C%2B2020%2B-%2BEpisode%2B212
 ---
 
-# Episode 212: Apr 15th, 2020
+
 
 ## Links
 

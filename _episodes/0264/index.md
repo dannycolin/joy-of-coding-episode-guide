@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-09-29
 agenda: https://mikeconley.ca/joc/agendas/Episode-0264.html
 ---
 
-# Episode 264: Sep 29th, 2021
+
 
 ## Links
 

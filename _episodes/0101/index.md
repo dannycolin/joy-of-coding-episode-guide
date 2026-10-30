@@ -4,7 +4,7 @@ number: 101
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-101/
 ---
 
-# Episode 0101: June 7th, 2017
+
 
 ## Links
 

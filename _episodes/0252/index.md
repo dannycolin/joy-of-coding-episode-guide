@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-06-16
 agenda: https://mikeconley.ca/joc/agendas/Episode-0252.html
 ---
 
-# Episode 252: Jun 16th, 2021
+
 
 ## Links
 

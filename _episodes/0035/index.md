@@ -5,6 +5,6 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-35/
 agenda: https://www.evernote.com/l/AbJwpSGklnhJ16G5rXp6WAC_mItIdlCnzSw
 ---
 
-# Episode 35: November 18, 2015 - Agenda
+
 
 ## Links

@@ -5,7 +5,7 @@ airmozilla: https://onlinexperiences.com/Launch/Event.htm?ShowKey=44908&DisplayI
 agenda: https://www.evernote.com/shard/s434/sh/17032b66-7d06-4c72-b0f2-98a128b53c30/90e3a50671e12aa7
 ---
 
-# Episode 147: August 15th, 2018
+
 
 ## Links
 
@@ -26,7 +26,7 @@ agenda: https://www.evernote.com/shard/s434/sh/17032b66-7d06-4c72-b0f2-98a128b53
    2. Windows support [Bug1310271](https://bugzilla.mozilla.org/show_bug.cgi?id=1310271)
 * [Bug 1481466](https://bugzilla.mozilla.org/show_bug.cgi?id=1481466) - Themes are incorrectly displayed in preview mode
 
-## Episode 150 ideas?!
+#
 * Got ideas? Submit them in the Episode Rating form!
 * AMA
 * Work on some kind of user voted bug?

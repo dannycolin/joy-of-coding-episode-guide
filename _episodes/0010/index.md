@@ -4,6 +4,6 @@ number: 10
 airmozilla: https://air.mozilla.org/the-joy-of-coding-mconley-livehacks-on-firefox-episode-10/
 ---
 
-# Episode 10: Apr 15, 2015
+
 
 ## Links

@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-05-28
 agenda: https://mikeconley.ca/joc/agendas/Episode-0402.html
 ---
 
-# Episode 402: May 28th, 2025
+
 
 ## Links
 

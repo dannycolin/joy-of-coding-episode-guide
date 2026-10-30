@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-02-08
 agenda: https://mikeconley.ca/joc/agendas/Episode-0315.html
 ---
 
-# Episode 315: Feb 8th, 2023
+
 
 ## Links
 

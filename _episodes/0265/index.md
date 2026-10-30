@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-10-13
 agenda: https://mikeconley.ca/joc/agendas/Episode-0265.html
 ---
 
-# Episode 265: Oct 13th, 2021
+
 
 ## Links
 

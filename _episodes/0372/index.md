@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-07-10
 agenda: https://mikeconley.ca/joc/agendas/Episode-0372.html
 ---
 
-# Episode 372: Jul 10th, 2024
+
 
 ## Links
 

@@ -4,7 +4,7 @@ number: 107
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-107/
 ---
 
-# Episode 107: July 26th, 2017
+
 
 ## Links
 

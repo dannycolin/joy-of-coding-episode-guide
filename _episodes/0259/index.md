@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-08-25
 agenda: https://mikeconley.ca/joc/agendas/Episode-0259.html
 ---
 
-# Episode 259: Aug 25th, 2021
+
 
 ## Links
 

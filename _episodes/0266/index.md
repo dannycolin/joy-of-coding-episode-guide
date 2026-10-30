@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-10-20
 agenda: https://mikeconley.ca/joc/agendas/Episode-0266.html
 ---
 
-# Episode 266: Oct 20th, 2021
+
 
 ## Links
 

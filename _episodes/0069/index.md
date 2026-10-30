@@ -5,6 +5,6 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-69/
 agenda: https://www.evernote.com/l/AbIlvU2OXZBN1KmEsWvLoqMl6iGYaAxiRW8
 ---
 
-# Episode 69: August 30th, 2016
+
 
 ## Links

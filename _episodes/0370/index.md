@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-06-26
 agenda: https://mikeconley.ca/joc/agendas/Episode-0370.html
 ---
 
-# Episode 370: Jun 26th, 2024
+
 
 ## Links
 

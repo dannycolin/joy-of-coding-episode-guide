@@ -6,7 +6,7 @@ youtube: https://www.youtube.com/watch?v=H9DDxgWyz5s
 agenda: https://www.evernote.com/l/AbKZHYEH2XBPDon0DEK7ijOw9e9Y9ZDFqfk
 ---
 
-# Episode 31: October 21th, 2015 - Agenda
+
 
 ## Topics
 

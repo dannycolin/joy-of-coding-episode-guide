@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2026-08-12
 agenda: https://mikeconley.ca/joc/agendas/Episode-0446.html
 ---
 
-# Episode 446: Aug 12th, 2026
+
 
 ## Links
 

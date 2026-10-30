@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-135/
 agenda: https://www.evernote.com/l/AbIuoDmD5h1H9Z8vW01qzANsp_dZ5AQO-nA
 ---
 
-# Episode 135: April 4th, 2018
+
 
 ## Links
 

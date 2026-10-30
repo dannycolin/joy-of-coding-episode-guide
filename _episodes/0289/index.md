@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2022-05-11
 agenda: https://mikeconley.ca/joc/agendas/Episode-0289.html
 ---
 
-# Episode 289: May 11th, 2022
+
 
 ## Links
 

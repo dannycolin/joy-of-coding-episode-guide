@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-07-26
 agenda: https://mikeconley.ca/joc/agendas/Episode-0333.html
 ---
 
-# Episode 333: Jul 26th, 2023
+
 
 ## Links
 

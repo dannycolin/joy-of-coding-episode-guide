@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-03-22
 agenda: https://mikeconley.ca/joc/agendas/Episode-0319.html
 ---
 
-# Episode 319: Mar 22nd, 2023
+
 
 ## Links
 

@@ -5,6 +5,6 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-65/
 agenda: https://www.evernote.com/l/AbJvDSOxxsVBeYvehlRTS56zZWyCeHerVXw
 ---
 
-# Episode 65: July 27th, 2016
+
 
 ## Links

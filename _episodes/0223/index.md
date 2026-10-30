@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/event-redirect/423301/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=9806e193-d024-469f-b7d1-d9096d6f81ab&noteKey=ca9fca736cf069f1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F9806e193-d024-469f-b7d1-d9096d6f81ab%2Fca9fca736cf069f1&title=August%2B5th%252C%2B2020%2B-%2BEpisode%2B223
 ---
 
-# Episode 223: Aug 5th, 2020
+
 
 ## Links
 

@@ -4,7 +4,7 @@ number: 104
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-104/
 ---
 
-# Episode 104: July 5th, 2017
+
 
 ## Links
 

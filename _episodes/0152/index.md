@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/event-redirect/307018/
 agenda: https://www.evernote.com/client/snv?noteGuid=ec26b49a-5030-4fe4-a361-73bc7f5a6ae9&noteKey=111e0c55a57b077d&var=b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fec26b49a-5030-4fe4-a361-73bc7f5a6ae9%2F111e0c55a57b077d&exp=ENB3907&title=October%2B10th%252C%2B2018%2B-%2BEpisode%2B152
 ---
 
-# Episode 152: October 10th, 2018
+
 
 ## Links
 

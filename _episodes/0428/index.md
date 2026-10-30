@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2026-02-04
 agenda: https://mikeconley.ca/joc/agendas/Episode-0428.html
 ---
 
-# Episode 428: Feb 4th, 2026
+
 
 ## Links
 

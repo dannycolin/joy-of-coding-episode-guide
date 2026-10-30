@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2022-05-04
 agenda: https://mikeconley.ca/joc/agendas/Episode-0288.html
 ---
 
-# Episode 288: May 4th, 2022
+
 
 ## Links
 

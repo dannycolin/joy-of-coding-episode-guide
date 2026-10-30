@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-07-16
 agenda: https://mikeconley.ca/joc/agendas/Episode-0410.html
 ---
 
-# Episode 410: Jul 16th, 2025
+
 
 ## Links
 

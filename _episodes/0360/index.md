@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-03-20
 agenda: https://mikeconley.ca/joc/agendas/Episode-0360.html
 ---
 
-# Episode 360: Mar 20th, 2024
+
 
 ## Links
 

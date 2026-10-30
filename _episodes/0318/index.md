@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-03-08
 agenda: https://mikeconley.ca/joc/agendas/Episode-0318.html
 ---
 
-# Episode 318: Mar 8th, 2023
+
 
 ## Links
 

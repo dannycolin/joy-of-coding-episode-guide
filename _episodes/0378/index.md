@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-10-02
 agenda: https://mikeconley.ca/joc/agendas/Episode-0378.html
 ---
 
-# Episode 378: Oct 2nd, 2024
+
 
 ## Links
 

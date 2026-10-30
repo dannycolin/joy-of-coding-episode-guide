@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-06-07
 agenda: https://mikeconley.ca/joc/agendas/Episode-0327.html
 ---
 
-# Episode 327: Jun 7th, 2023
+
 
 ## Links
 

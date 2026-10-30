@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2022-04-20
 agenda: https://mikeconley.ca/joc/agendas/Episode-0287.html
 ---
 
-# Episode 287: Apr 20th, 2022
+
 
 ## Links
 

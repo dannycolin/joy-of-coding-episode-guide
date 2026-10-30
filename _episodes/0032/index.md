@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-32
 agenda: https://www.evernote.com/l/AbLGYM_Y0kVD3KxrnqxUFGog9ao2_r7ohp0
 ---
 
-# Episode 32: October 28, 2015 - Agenda
+
 
 ## Topics
 

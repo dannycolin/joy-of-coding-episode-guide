@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-139/
 agenda: https://www.evernote.com/l/AbIm2WYcK7xAP4LjLkQa_RjZikPTWnSXtdU
 ---
 
-# Episode 139: May 16th, 2018
+
 
 ## Links
 

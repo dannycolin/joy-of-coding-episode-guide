@@ -5,6 +5,6 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-93/
 agenda: https://www.evernote.com/l/AbIHlSVaj99Lr59jF7LkMnEtwQ6Iy_sQlmM
 ---
 
-# Episode 93: March 1st, 2017
+
 
 ## Links

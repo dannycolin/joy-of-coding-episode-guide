@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-10-29
 agenda: https://mikeconley.ca/joc/agendas/Episode-0418.html
 ---
 
-# Episode 418: Oct 29th, 2025
+
 
 ## Links
 

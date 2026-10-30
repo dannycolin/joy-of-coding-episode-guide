@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-03-24
 agenda: https://mikeconley.ca/joc/agendas/Episode-0244.html
 ---
 
-# Episode 244: Mar 24th, 2021
+
 
 ## Links
 

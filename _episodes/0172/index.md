@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/event-redirect/325166/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=c662bc23-9dc8-43d3-a1bf-63a5844f9e87&noteKey=382ea9487b508fd1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fc662bc23-9dc8-43d3-a1bf-63a5844f9e87%2F382ea9487b508fd1&title=April%2B3rd%252C%2B2019%2B-%2BEpisode%2B172
 ---
 
-# Episode 172: April 3rd, 2019
+
 
 ## Links
 

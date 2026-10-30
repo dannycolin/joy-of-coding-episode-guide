@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-01-13
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=c56c2c2c-2550-31f2-a80e-d30d75d83a26&noteKey=df170c73421e3102d248d590a03e71f6&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fc56c2c2c-2550-31f2-a80e-d30d75d83a26%2Fdf170c73421e3102d248d590a03e71f6&title=January%2B13th%252C%2B2021%2B-%2BEpisode%2B237
 ---
 
-# Episode 237: Jan 13th, 2021
+
 
 ## Links
 

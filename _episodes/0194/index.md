@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/event-redirect/346405/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=e2415a2e-45f1-4211-9bdd-7250c0d13776&noteKey=b21eb07c11518829&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fe2415a2e-45f1-4211-9bdd-7250c0d13776%2Fb21eb07c11518829&title=October%2B23rd%252C%2B2019%2B-%2BEpisode%2B194
 ---
 
-# Episode 194: Oct 23th, 2019
+
 
 ## Links
 

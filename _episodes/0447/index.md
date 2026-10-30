@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2026-08-19
 agenda: https://mikeconley.ca/joc/agendas/Episode-0447.html
 ---
 
-# Episode 447: Aug 19th, 2026
+
 
 ## Links
 

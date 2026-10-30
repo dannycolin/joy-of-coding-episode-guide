@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/event-redirect/336304/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=347bea84-dc7e-4e7c-b697-63b49d286368&noteKey=6771919307d0c8d9&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F347bea84-dc7e-4e7c-b697-63b49d286368%2F6771919307d0c8d9&title=July%2B3rd%252C%2B2019%2B-%2BEpisode%2B181
 ---
 
-# Episode 181: Jul 3rd, 2019
+
 
 ## Links
 

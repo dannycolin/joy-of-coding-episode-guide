@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2022-02-02
 agenda: https://mikeconley.ca/joc/agendas/Episode-0277.html
 ---
 
-# Episode 277: Feb 2nd, 2022
+
 
 ## Links
 

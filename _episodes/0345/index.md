@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-11-01
 agenda: https://mikeconley.ca/joc/agendas/Episode-0345.html
 ---
 
-# Episode 345: Nov 1st, 2023
+
 
 ## Links
 

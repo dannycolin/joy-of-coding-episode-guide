@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-05-01
 agenda: https://mikeconley.ca/joc/agendas/Episode-0364.html
 ---
 
-# Episode 363: May 1st, 2024
+
 
 ## Links
 

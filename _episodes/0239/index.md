@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-02-03
 agenda: https://mikeconley.ca/joc/agendas/Episode-0239.html
 ---
 
-# Episode 239: Feb 3rd, 2021
+
 
 ## Links
 

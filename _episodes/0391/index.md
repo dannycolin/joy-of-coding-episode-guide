@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-01-22
 agenda: https://mikeconley.ca/joc/agendas/Episode-0391.html
 ---
 
-# Episode 391: Jan 22nd, 2025
+
 
 ## Links
 

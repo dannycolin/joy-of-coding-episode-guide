@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-03-19
 agenda: https://mikeconley.ca/joc/agendas/Episode-0396.html
 ---
 
-# Episode 396: Mar 19th, 2025
+
 
 ## Links
 

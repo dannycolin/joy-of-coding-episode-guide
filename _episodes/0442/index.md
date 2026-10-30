@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2026-06-24
 agenda: https://mikeconley.ca/joc/agendas/Episode-0442.html
 ---
 
-# Episode 442: Jun 24th, 2026
+
 
 ## Links
 

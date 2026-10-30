@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2022-03-30
 agenda: https://mikeconley.ca/joc/agendas/Episode-0284.html
 ---
 
-# Episode 284: Mar 30th, 2022
+
 
 ## Links
 

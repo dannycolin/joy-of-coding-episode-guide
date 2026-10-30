@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/event-redirect/388252/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=927ee79e-e2f2-4c73-a8e3-4784a8939741&noteKey=03291d02a3c07052&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F927ee79e-e2f2-4c73-a8e3-4784a8939741%2F03291d02a3c07052&title=June%2B24th%252C%2B2020%2B-%2BEpisode%2B219
 ---
 
-# Episode 219: Jun 24th, 2020
+
 
 ## Links
 

@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-02-01
 agenda: https://mikeconley.ca/joc/agendas/Episode-0314.html
 ---
 
-# Episode 314: Feb 1st, 2023
+
 
 ## Links
 

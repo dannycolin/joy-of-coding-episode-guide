@@ -5,7 +5,7 @@ airmozilla: https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98c9
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=f3114a27-213c-437a-8be6-be4c5936c293&noteKey=fe3ed8cc280c028d&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Ff3114a27-213c-437a-8be6-be4c5936c293%2Ffe3ed8cc280c028d&title=October%2B21st%252C%2B2020%2B-%2BEpisode%2B229
 ---
 
-# Episode 229: Oct 21st, 2020
+
 
 ## Links
 

@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-142/
 agenda: https://www.evernote.com/l/AbJnjpNDiYhPhZWzSye7tk_9H7XuFYaWeys
 ---
 
-# Episode 142: Jun 20th, 2018
+
 
 ## Links
 

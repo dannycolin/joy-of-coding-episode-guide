@@ -5,6 +5,6 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-55/
 agenda: https://www.evernote.com/l/AbKqJfn1SAlFcK1oXetUiGuLPElBqAsAkaY
 ---
 
-# Episode 55: April 27th, 2016
+
 
 ## Links

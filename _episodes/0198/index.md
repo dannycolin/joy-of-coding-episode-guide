@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/event-redirect/349989/
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=741293cb-2d09-489d-9764-7608f1cd7b43&noteKey=eacf3b6b798c390f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F741293cb-2d09-489d-9764-7608f1cd7b43%2Feacf3b6b798c390f&title=November%2B20th%252C%2B2019%2B-%2BEpisode%2B198
 ---
 
-# Episode 198: Nov 20th, 2019
+
 
 ## Links
 

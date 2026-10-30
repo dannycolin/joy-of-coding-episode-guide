@@ -4,7 +4,7 @@ number: 1
 youtube: https://www.youtube.com/watch?v=nCOeefQpg58
 ---
 
-# Episode 1: Feb 16, 2015
+
 
 ## Links
 

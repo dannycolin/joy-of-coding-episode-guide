@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-08-04
 agenda: https://mikeconley.ca/joc/agendas/Episode-0257.html
 ---
 
-# Episode 257: Aug 4th, 2021
+
 
 ## Links
 

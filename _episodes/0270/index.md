@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-11-17
 agenda: https://mikeconley.ca/joc/agendas/Episode-0270.html
 ---
 
-# Episode 270: Nov 17th, 2021
+
 
 ## Links
 

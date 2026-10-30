@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-11-10
 agenda: https://mikeconley.ca/joc/agendas/Episode-0269.html
 ---
 
-# Episode 269: Nov 10th, 2021
+
 
 ## Links
 

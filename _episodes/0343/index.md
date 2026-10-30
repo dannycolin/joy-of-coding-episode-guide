@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-10-18
 agenda: https://mikeconley.ca/joc/agendas/Episode-0343.html
 ---
 
-# Episode 343: Oct 18th, 2023
+
 
 ## Links
 

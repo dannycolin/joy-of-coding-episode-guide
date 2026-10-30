@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2026-01-21
 agenda: https://mikeconley.ca/joc/agendas/Episode-0426.html
 ---
 
-# Episode 426: Jan 21th, 2026
+
 
 ## Links
 

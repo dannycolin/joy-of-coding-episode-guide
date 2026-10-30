@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-02-05
 agenda: https://mikeconley.ca/joc/agendas/Episode-0393.html
 ---
 
-# Episode 393: Feb 5th, 2025
+
 
 ## Links
 

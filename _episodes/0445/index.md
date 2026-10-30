@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2026-08-05
 agenda: https://mikeconley.ca/joc/agendas/Episode-0445.html
 ---
 
-# Episode 445: Aug 5th, 2026
+
 
 ## Links
 

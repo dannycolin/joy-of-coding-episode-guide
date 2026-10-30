@@ -5,6 +5,6 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-mconley-livehacks-on-firef
 agenda: https://www.evernote.com/l/AbLDs7ISlY5Gj7l3rMx2RA44eNl0--YlRHY
 ---
 
-# Episode 17: June 3rd, 2015 - Agenda
+
 
 ## Links

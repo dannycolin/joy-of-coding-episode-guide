@@ -5,7 +5,7 @@ airmozilla: https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f67
 agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=ee0610e7-c047-4ce1-9f82-3e31da3c43e4&noteKey=9048655339a9fcb9&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fee0610e7-c047-4ce1-9f82-3e31da3c43e4%2F9048655339a9fcb9&title=September%2B30th%252C%2B2020%2B-%2BEpisode%2B227
 ---
 
-# Episode 227: Sep 30th, 2020
+
 
 ## Links
 

@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-04-01
 agenda: https://mikeconley.ca/joc/agendas/Episode-0245.html
 ---
 
-# Episode 245: Apr 1st, 2021
+
 
 ## Links
 

@@ -5,6 +5,6 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-82/
 agenda: https://www.evernote.com/l/AbJkNtmkLtFFZKJRq1ol-ekUjpdgBaeHZZE
 ---
 
-# Episode 82: November 30th, 2016
+
 
 ## Links

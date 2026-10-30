@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-07-30
 agenda: https://mikeconley.ca/joc/agendas/Episode-0411.html
 ---
 
-# Episode 411: Jul 30th, 2025
+
 
 ## Links
 

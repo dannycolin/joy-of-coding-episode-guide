@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-12-18
 agenda: https://mikeconley.ca/joc/agendas/Episode-0388.html
 ---
 
-# Episode 388: Dec 18th, 2024
+
 
 ## Links
 

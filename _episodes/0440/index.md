@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2026-05-13
 agenda: https://mikeconley.ca/joc/agendas/Episode-0440.html
 ---
 
-# Episode 440: May 13th, 2026
+
 
 ## Links
 

@@ -5,7 +5,7 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-130/
 agenda: https://www.evernote.com/l/AbKiVDwHz7lNmaPwpA_SYMbl-rDOqOlVIXQ
 ---
 
-# Episode 130: February 28th, 2018
+
 
 ## Links
 

@@ -5,6 +5,6 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-61/
 agenda: https://www.evernote.com/l/AbIPZl5CB_JHxpQGhfgOGgAN5WiqIWV0adI
 ---
 
-# Episode 61: June 29th, 2016
+
 
 ## Links

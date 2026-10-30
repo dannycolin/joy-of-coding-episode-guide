@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-08-06
 agenda: https://mikeconley.ca/joc/agendas/Episode-0412.html
 ---
 
-# Episode 412: Aug 6th, 2025
+
 
 ## Links
 

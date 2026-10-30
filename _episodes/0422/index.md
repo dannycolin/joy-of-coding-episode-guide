@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-12-10
 agenda: https://mikeconley.ca/joc/agendas/Episode-0422.html
 ---
 
-# Episode 422: Dec 10th, 2025
+
 
 ## Links
 

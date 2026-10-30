@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-09-15
 agenda: https://mikeconley.ca/joc/agendas/Episode-0262.html
 ---
 
-# Episode 262: Sep 15th, 2021
+
 
 ## Links
 

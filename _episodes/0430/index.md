@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2026-02-18
 agenda: https://mikeconley.ca/joc/agendas/Episode-0430.html
 ---
 
-# Episode 430: Feb 18th, 2026
+
 
 ## Links
 

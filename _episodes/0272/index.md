@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-12-01
 agenda: https://mikeconley.ca/joc/agendas/Episode-0272.html
 ---
 
-# Episode 272: Dec 1st, 2021
+
 
 ## Links
 

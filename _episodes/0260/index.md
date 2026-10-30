@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-09-01
 agenda: https://mikeconley.ca/joc/agendas/Episode-0260.html
 ---
 
-# Episode 260: Sep 1st, 2021
+
 
 ## Links
 

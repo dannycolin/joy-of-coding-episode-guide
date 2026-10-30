@@ -5,7 +5,7 @@ airmozilla: https://onlinexperiences.com/Launch/Event.htm?ShowKey=44908&DisplayI
 agenda: https://www.evernote.com/client/snv?noteGuid=9ef78540-e4bf-4ded-a63c-4adb9aa8c738&noteKey=b49cb20615372885&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F9ef78540-e4bf-4ded-a63c-4adb9aa8c738%2Fb49cb20615372885
 ---
 
-# Episode 148: September 5th, 2018
+
 
 ## Links
 
@@ -25,7 +25,7 @@ agenda: https://www.evernote.com/client/snv?noteGuid=9ef78540-e4bf-4ded-a63c-4ad
   * Update: [This got fixed here!](https://bugzilla.mozilla.org/show_bug.cgi?id=1488889)
 * No stream next week
 
-## Episode 150 ideas?!
+#
 * Got ideas? Submit them in the Episode Rating form!
 * AMA
 * Work on some kind of user voted bug?

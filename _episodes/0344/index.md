@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-10-25
 agenda: https://mikeconley.ca/joc/agendas/Episode-0344.html
 ---
 
-# Episode 344: Oct 25th, 2023
+
 
 ## Links
 

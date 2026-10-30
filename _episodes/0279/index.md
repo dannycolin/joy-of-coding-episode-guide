@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2022-02-16
 agenda: https://mikeconley.ca/joc/agendas/Episode-0279.html
 ---
 
-# Episode 279: Feb 16th, 2022
+
 
 ## Links
 

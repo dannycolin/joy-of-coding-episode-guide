@@ -5,6 +5,6 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-40/
 agenda: https://www.evernote.com/l/AbIa5typpAdBFZsc7GXj2DMBWcnpIYzMqMg
 ---
 
-# Episode 40: January 13th, 2016 - Agenda
+
 
 ## Links

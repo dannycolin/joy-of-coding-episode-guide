@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-03-10
 agenda: https://mikeconley.ca/joc/agendas/Episode-0243.html
 ---
 
-# Episode 243: Mar 10th, 2021
+
 
 ## Links
 

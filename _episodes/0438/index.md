@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2026-04-29
 agenda: https://mikeconley.ca/joc/agendas/Episode-0438.html
 ---
 
-# Episode 438: Apr 29th, 2026
+
 
 ## Links
 

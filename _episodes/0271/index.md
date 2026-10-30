@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2021-11-24
 agenda: https://mikeconley.ca/joc/agendas/Episode-0271.html
 ---
 
-# Episode 271: Nov 24th, 2021
+
 
 ## Links
 

@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-07-09
 agenda: https://mikeconley.ca/joc/agendas/Episode-0409.html
 ---
 
-# Episode 409: Jul 9th, 2025
+
 
 ## Links
 

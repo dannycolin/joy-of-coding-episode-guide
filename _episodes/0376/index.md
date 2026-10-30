@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-09-04
 agenda: https://mikeconley.ca/joc/agendas/Episode-0376.html
 ---
 
-# Episode 376: Sep 4th, 2024
+
 
 ## Links
 

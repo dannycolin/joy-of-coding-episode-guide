@@ -5,6 +5,6 @@ airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-39/
 agenda: https://www.evernote.com/l/AbK62XclO0JNs5xPysHRrOynbLK9uLYXVw4
 ---
 
-# Episode 39: January 6th, 2016 - Agenda
+
 
 ## Links

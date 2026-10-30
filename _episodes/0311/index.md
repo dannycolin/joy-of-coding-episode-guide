@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2023-01-11
 agenda: https://mikeconley.ca/joc/agendas/Episode-0311.html
 ---
 
-# Episode 311: Jan 11th, 2023
+
 
 ## Links
 

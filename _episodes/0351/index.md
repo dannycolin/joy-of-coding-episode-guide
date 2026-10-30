@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2024-01-10
 agenda: https://mikeconley.ca/joc/agendas/Episode-0351.html
 ---
 
-# Episode 351: Jan 10th, 2024
+
 
 ## Links
 

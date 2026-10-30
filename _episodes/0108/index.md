@@ -4,7 +4,7 @@ number: 108
 airmozilla: https://air.mozilla.org/the-joy-of-coding-episode-108/
 ---
 
-# Episode 108: August 2nd, 2017
+
 
 ## Links
 

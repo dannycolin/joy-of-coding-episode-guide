@@ -5,7 +5,7 @@ airmozilla: https://mzl.la/joy-of-coding-2025-11-05
 agenda: https://mikeconley.ca/joc/agendas/Episode-0419.html
 ---
 
-# Episode 419: Nov 5th, 2025
+
 
 ## Links
 
