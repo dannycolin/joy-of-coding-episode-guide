@@ -8,7 +8,7 @@ rating: https://forms.gle/xnGneA1xnB2uM5u46
 
 
 
-## Links
+
 
 ## Topics
 * How to debug Firefox's native code on macOS (lldb), then Linux (gdb), then Windows (Visual Studio)!

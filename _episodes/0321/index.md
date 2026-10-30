@@ -8,7 +8,7 @@ rating: https://forms.gle/2nSNz6JjWPaxW3P1A
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1801266](https://bugzilla.mozilla.org/show_bug.cgi?id=1801266) - Handle the case where an extension widget is not visible and not in the unified extensions panel

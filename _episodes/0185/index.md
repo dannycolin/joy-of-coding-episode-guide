@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=4e159714-d2be-49
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1566183](https://bugzilla.mozilla.org/show_bug.cgi?id=1566183) - Picture-in-Picture player window can't be accessed with keyboard only - [Notes](https://www.evernote.com/l/AbI4PlGA0HNO0IjtJ6SFi8MttYXd-iQpBBA)

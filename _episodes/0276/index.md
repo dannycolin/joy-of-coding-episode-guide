@@ -8,7 +8,7 @@ rating: https://forms.gle/izaFuH2bC6CbFwpG9
 
 
 
-## Links
+
 
 ## Topics
 * FOSDEM! [Mozilla has a booth](https://fosdem.org/2022/schedule/track/mozilla/). I'm doing a talk. It's free! Lots of other interesting talks, too.

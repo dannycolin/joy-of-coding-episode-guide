@@ -8,7 +8,7 @@ rating: https://forms.gle/gw5Fhq5MEQdtUS9w8
 
 
 
-## Links
+
 
 ## Topics
 * Question: "is the FilterAdult component only for new tab Top Sites in Firefox or does it reused in other places like Jump List frequent sites?"

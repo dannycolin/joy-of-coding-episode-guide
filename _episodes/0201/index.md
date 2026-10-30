@@ -8,7 +8,7 @@ rating: https://forms.gle/fa3kp5LwLWtHU7T77
 
 
 
-## Links
+
 
 ## Topics
 * Investigating [Bug 1596416](https://bugzilla.mozilla.org/show_bug.cgi?id=1596416) - 2.01 - 3.44% tart (linux64-shippable, windows10-64-shippable, windows10-64-shippable-qr, windows7-32-shippable) regression on push 59dcb38e46932d516d5a704795900e13d0a9b41d (Tue November 12 2019)

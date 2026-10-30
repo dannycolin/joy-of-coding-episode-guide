@@ -8,7 +8,7 @@ rating: https://forms.gle/jofrxntMCEzqUWta6
 
 
 
-## Links
+
 
 ## Topics
 * Finishing up [Bug 1906739](https://bugzilla.mozilla.org/show_bug.cgi?id=1906739) - Implement scheduled backups CTA and restore your data sections in backup-settings

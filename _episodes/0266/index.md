@@ -8,7 +8,7 @@ rating: https://forms.gle/wowyNFhcntTQ8Zdu8
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1732572](https://bugzilla.mozilla.org/show_bug.cgi?id=1732572) - WebRTC global sharing indicator bug on macOS

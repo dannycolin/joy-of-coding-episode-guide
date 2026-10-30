@@ -8,7 +8,7 @@ rating: https://forms.gle/vgqpb5GozBwuWwnT9
 
 
 
-## Links
+
 
 ## Topics
 * Short episode due to network problems

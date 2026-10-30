@@ -8,7 +8,7 @@ rating: https://forms.gle/t53KBN2SrdsDdqey5
 
 
 
-## Links
+
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/daca2f056f944ab6b334887bf074fb06 "What a week")

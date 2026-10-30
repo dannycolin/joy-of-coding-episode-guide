@@ -8,7 +8,7 @@ rating: https://forms.gle/G82dS9igNarahUgi9
 
 
 
-## Links
+
 
 ## Topics
 * Q:

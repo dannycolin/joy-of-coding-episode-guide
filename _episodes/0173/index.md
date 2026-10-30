@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=509dfb79-695b-4b
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1540835](https://bugzilla.mozilla.org/show_bug.cgi?id=1540835) - Add tests for the Picture-in-Picture toggle - [Notes](https://www.evernote.com/shard/s434/client/snv?noteGuid=ce0f04c6-803e-4d57-bad6-75f3c7236d0f&noteKey=ccffdece4cc3a654&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fce0f04c6-803e-4d57-bad6-75f3c7236d0f%2Fccffdece4cc3a654&title=Bug%2B1540835%2B-%2BAdd%2Btests%2Bfor%2Bthe%2BPicture-in-Picture%2Btoggle)

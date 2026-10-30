@@ -8,7 +8,7 @@ rating: https://forms.gle/veEiNw2rLprmwxNt7
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1919575](https://bugzilla.mozilla.org/show_bug.cgi?id=1919575)

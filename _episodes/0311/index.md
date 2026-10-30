@@ -8,7 +8,7 @@ rating: https://forms.gle/zenyCRvp5YH1Ukfr8
 
 
 
-## Links
+
 
 ## Topics
 * Reviewing a patch for [Danny Colin!](https://bugzilla.mozilla.org/show_bug.cgi?id=1316727)

@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/sh/35981840-1abe-4209-953b-c10d7d5eb
 
 
 
-## Links
+
 
 * [Blog post on this episode](https://mikeconley.ca/blog/2015/02/27/the-joy-of-coding-episode-3/)
 

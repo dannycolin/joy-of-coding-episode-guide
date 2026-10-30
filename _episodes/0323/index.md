@@ -8,7 +8,7 @@ rating: https://forms.gle/yva4uLDg6f6FALsU9
 
 
 
-## Links
+
 
 ## Topics
 * [Are we fast yet?](https://arewefastyet.com/win10/benchmarks/raptor-desktop-speedometer?numDays=60)

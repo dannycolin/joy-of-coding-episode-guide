@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/client/snv?noteGuid=ec26b49a-5030-4fe4-a361-73b
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1497901](https://bugzilla.mozilla.org/show_bug.cgi?id=1497901) - Adjust some tests to make them work if Activity Stream runs in its own content process - [Notes](https://www.evernote.com/client/snv?noteGuid=c46ff384-eeaf-4e45-ad43-af9ed9990354&noteKey=571d787d1d69a0a5&var=b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fc46ff384-eeaf-4e45-ad43-af9ed9990354%2F571d787d1d69a0a5&exp=ENB3907&title=Bug%2B1497901%2B-%2BAdjust%2Bsome%2Btests%2Bto%2Bmake%2Bthem%2Bwork%2Bif%2BActivity%2BStream%2Bruns%2Bin%2Bits%2Bown%2Bcontent%2Bprocess)

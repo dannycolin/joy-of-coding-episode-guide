@@ -8,7 +8,7 @@ rating: https://forms.gle/YVhgL9DDW174hvqx6
 
 
 
-## Links
+
 
 ## Topics
 * Pandemic edition! Mike is streaming from home!

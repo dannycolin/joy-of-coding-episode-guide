@@ -8,7 +8,7 @@ rating: https://forms.gle/qJMqXeMz7JNHCcN57
 
 
 
-## Links
+
 
 ## Topics
 * Back in the office, so WindowsJumpList on pause this week. Back next week!

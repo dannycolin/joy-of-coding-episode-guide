@@ -8,7 +8,7 @@ rating: https://forms.gle/PtsWa9MFzW4G5Pdr6
 
 
 
-## Links
+
 
 ## Topics
 * No episode next week

@@ -7,7 +7,7 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0249.html
 
 
 
-## Links
+
 
 ## Topics
 * Pandemic edition! Mike is streaming from home!

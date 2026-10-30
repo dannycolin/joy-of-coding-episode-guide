@@ -8,7 +8,7 @@ rating: https://forms.gle/De7wVWyVwoZQT3td9
 
 
 
-## Links
+
 
 ## Topics
 * Rebase and resubmit a patch

@@ -8,7 +8,7 @@ rating: https://forms.gle/fFCWuBycv7vi1zh56
 
 
 
-## Links
+
 
 ## Topics
 * The test Matrix server is shutting down, and the IRC replacement evaluation starts now

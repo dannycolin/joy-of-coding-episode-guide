@@ -8,7 +8,7 @@ rating: https://forms.gle/bHrQLXo3eUym2mMc8
 
 
 
-## Links
+
 
 ## Topics
 * Firefox Translations!

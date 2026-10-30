@@ -8,7 +8,7 @@ rating: https://forms.gle/xADFGN8CdFDm5uXM8
 
 
 
-## Links
+
 
 ## Topics
 * Fixed the Joy of Coding Episode Guide theme that was broken due to a Jekyll Theme update that probably happened on GitHub's side of things

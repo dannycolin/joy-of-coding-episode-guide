@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=194f4d69-87f8-40
 
 
 
-## Links
+
 
 ## Topics
 ** [Bug 1527926](https://bugzilla.mozilla.org/show_bug.cgi?id=1527926) - [meta] Picture-in-Picture

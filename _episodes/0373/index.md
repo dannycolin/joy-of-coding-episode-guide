@@ -8,7 +8,7 @@ rating: https://forms.gle/CpAFvmZANivEuh687
 
 
 
-## Links
+
 
 ## Topics
 * Let's fix a nasty backups bug related to Unicode characters!

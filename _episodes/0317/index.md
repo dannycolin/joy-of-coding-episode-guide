@@ -8,7 +8,7 @@ rating: https://forms.gle/JjnT76mvdGPiq9vx7
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1529276](https://bugzilla.mozilla.org/show_bug.cgi?id=1529276) - resource:///modules/WindowsJumpLists.jsm still does main thread I/O

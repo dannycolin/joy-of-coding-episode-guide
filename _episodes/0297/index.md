@@ -8,7 +8,7 @@ rating: https://forms.gle/4oTFrM2UzReEp8BE9
 
 
 
-## Links
+
 
 ## Topics
 * [Mozilla Connect](https://connect.mozilla.org/)

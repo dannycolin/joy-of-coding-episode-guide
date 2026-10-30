@@ -8,7 +8,7 @@ rating: https://forms.gle/ne56X4BBFMYaBrKu6
 
 
 
-## Links
+
 
 ## Topics
 * Fixed a WindowsJumpList backend crash. Let's talk about what happened.

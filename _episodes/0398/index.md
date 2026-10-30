@@ -8,7 +8,7 @@ rating: https://forms.gle/pTVA361bbFFMqbq4A
 
 
 
-## Links
+
 
 ## Topics
 * Updating the episode guide

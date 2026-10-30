@@ -8,7 +8,7 @@ rating: https://forms.gle/3q8bPY4XkzcTTuXx6
 
 
 
-## Links
+
 
 ## Topics
 * Vertical tabs stuff!

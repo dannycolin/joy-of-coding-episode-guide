@@ -8,7 +8,7 @@ rating: https://forms.gle/LPy1LzCppadmXSzV9
 
 
 
-## Links
+
 
 ## Topics
 * justdave hacking on Bugzilla

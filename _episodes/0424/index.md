@@ -8,7 +8,7 @@ rating: https://forms.gle/647sn3esLQWzxCeA6
 
 
 
-## Links
+
 
 ## Topics
 * ![Alt text](https://keanustatus.edgecompute.app/e959ccbb747245cd.jpg "keanu code 424")

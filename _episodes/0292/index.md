@@ -8,7 +8,7 @@ rating: https://forms.gle/WPScGCPnGZYSvFKK8
 
 
 
-## Links
+
 
 ## Topics
 * The return of The Joy of Profiling! Soon!

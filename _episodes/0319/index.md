@@ -8,7 +8,7 @@ rating: https://forms.gle/j8giTgUbTM5NMXgL6
 
 
 
-## Links
+
 
 ## Topics
 * New Migration Wizard - Sneak peek - by setting browser.migrate.content-modal.enabled to true in about:config. No need to restart. 

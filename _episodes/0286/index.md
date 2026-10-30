@@ -8,7 +8,7 @@ rating: https://forms.gle/64UKNwxqfo8qLG6o9
 
 
 
-## Links
+
 
 ## Topics
 * Not in the office today. Maybe next week?

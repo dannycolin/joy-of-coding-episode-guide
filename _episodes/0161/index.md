@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=a86c35a4-b5b6-4f
 
 
 
-## Links
+
 
 ## Topics
 Happy New Year!

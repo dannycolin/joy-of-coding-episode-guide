@@ -8,7 +8,7 @@ rating: https://forms.gle/ZdnbNZm5Mq5dh8jB9
 
 
 
-## Links
+
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/73d8a9361b9a4298ad3ddcaa113ca143 "keanu code 423")

@@ -8,7 +8,7 @@ rating: https://forms.gle/WST6U7D5Y8hTKZTU7
 
 
 
-## Links
+
 
 ## Topics
 * Blog posts Mike helped write:

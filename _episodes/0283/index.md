@@ -8,7 +8,7 @@ rating: https://forms.gle/GL7MopooebzVnPtW8
 
 
 
-## Links
+
 
 ## Topics
 * Finishing up hashtable documentation patch

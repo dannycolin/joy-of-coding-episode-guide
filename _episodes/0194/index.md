@@ -8,7 +8,7 @@ rating: https://forms.gle/WzESpRTWSfJ26MPSA
 
 
 
-## Links
+
 
 ## Topics
 * #livehacking irc channel is back

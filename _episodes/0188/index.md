@@ -8,7 +8,7 @@ rating: https://forms.gle/NkcjNW31RYA4LaKz7
 
 
 
-## Links
+
 
 ## Topics
 * Review : [Bug 1578709](https://bugzilla.mozilla.org/show_bug.cgi?id=1578709) - Set flash-only pref on a per-manifest/suite basis instead of for all feature tests

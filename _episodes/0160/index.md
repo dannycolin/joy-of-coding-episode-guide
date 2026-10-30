@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=69ffde3e-2816-45
 
 
 
-## Links
+
 
 ## Topics
 * Holiday, back on January 9th, 2019

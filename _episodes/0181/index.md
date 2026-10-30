@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=347bea84-dc7e-4e
 
 
 
-## Links
+
 
 ## Topics
 * Working on [Tab Submit Basic](https://github.com/mikeconley/tab-submit-basic) - [Bug 1379466](https://bugzilla.mozilla.org/show_bug.cgi?id=1379466)

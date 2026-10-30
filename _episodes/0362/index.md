@@ -8,7 +8,7 @@ rating: https://forms.gle/wNVrp498YkmsArqd7
 
 
 
-## Links
+
 
 ## Topics
 * WindowsJumpList favicon stuff!

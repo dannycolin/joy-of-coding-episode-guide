@@ -8,7 +8,7 @@ rating: https://forms.gle/bLBuhubedjS3FUSR9
 
 
 
-## Links
+
 
 ## Topics
 * Happy new year!

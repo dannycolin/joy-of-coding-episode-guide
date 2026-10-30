@@ -8,7 +8,7 @@ rating: https://forms.gle/vfQCHugyqakFRWwb9
 
 
 
-## Links
+
 
 ## Topics
 * Go through more review feedback on the remote renderer

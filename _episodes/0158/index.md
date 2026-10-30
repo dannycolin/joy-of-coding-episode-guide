@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/client/snv?noteGuid=777fc256-9257-498a-92c3-837
 
 
 
-## Links
+
 
 ## Topics
 Running a Windows VM(for 1st?) stream

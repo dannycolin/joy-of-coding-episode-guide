@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=e53e5fd9-3c78-40
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1529762](https://bugzilla.mozilla.org/show_bug.cgi?id=1529762) - Page Style menu population can delay about:home from painting

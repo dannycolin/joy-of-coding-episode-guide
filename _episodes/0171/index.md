@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=857b1234-e680-42
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1536209](https://bugzilla.mozilla.org/show_bug.cgi?id=1536209) - Cannot re-request Picture-in-Picture on the same tab - [Notes](https://www.evernote.com/shard/s434/client/snv?noteGuid=af198b61-5dd7-4574-9632-7317ee093161&noteKey=02693164d24955ac&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Faf198b61-5dd7-4574-9632-7317ee093161%2F02693164d24955ac&title=Bug%2B1536209%2B-%2BCannot%2Bre-request%2BPicture-in-Picture%2Bon%2Bthe%2Bsame%2Btab)

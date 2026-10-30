@@ -8,7 +8,7 @@ rating: https://forms.gle/yGbpaH7TPwmt6Uj28
 
 
 
-## Links
+
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/c3aaecda87ce4d18a8c739da53b37dc6 "keanu code 408")

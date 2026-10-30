@@ -8,7 +8,7 @@ rating: https://forms.gle/RECrdBEsqCRckTy79
 
 
 
-## Links
+
 
 ## Topics
 * Update on the replacement of IRC

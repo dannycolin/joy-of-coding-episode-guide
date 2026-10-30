@@ -8,7 +8,7 @@ rating: https://forms.gle/ZkVYmmZskFNaaNFV7
 
 
 
-## Links
+
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/6b2852e03a62474293c223c1c94a3205 "keanu code 431")

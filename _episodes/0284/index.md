@@ -8,7 +8,7 @@ rating: https://forms.gle/yx34oWsRnPrhWL5X9
 
 
 
-## Links
+
 
 ## Topics
 * Let's go through some needinfos!

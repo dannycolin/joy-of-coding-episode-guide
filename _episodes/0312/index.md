@@ -8,7 +8,7 @@ rating: https://forms.gle/LkQj4crLP697sE4B7
 
 
 
-## Links
+
 
 ## Topics
 * No WindowsJumpList today. It's definitely possible to sign-in from home over the VPN but latency over Remote Desktop is far too high to be usable. :/ I'll go into the office next week!

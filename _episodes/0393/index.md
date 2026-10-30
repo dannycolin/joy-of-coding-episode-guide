@@ -8,7 +8,7 @@ rating: https://forms.gle/ERFSboGWRKsWdJL76
 
 
 
-## Links
+
 
 ## Topics
 * Firefox 135 out the door!

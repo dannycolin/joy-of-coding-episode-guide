@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/l/AbK5XSoI_j1KxojSa5wmioE7oouqpvd-ULY
 
 
 
-## Links
+
 
 ## Topics
 * Layer tree update process.

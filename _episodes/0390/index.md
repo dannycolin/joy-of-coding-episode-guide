@@ -8,7 +8,7 @@ rating: https://forms.gle/yfPgjrsa6uQYcSR46
 
 
 
-## Links
+
 
 ## Topics
 * Documenting CustomizableUIInternal in CustomizableUI.sys.mjs

@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/client/snv?noteGuid=36eae2ea-0354-45c7-800d-541
 
 
 
-## Links
+
 
 ## Topics
 * Update [Bug 1504133](https://bugzilla.mozilla.org/show_bug.cgi?id=1504133) - sessionrestore seems broken in general

@@ -8,7 +8,7 @@ rating: https://forms.gle/ninYYnQ6tc4KDc6U6
 
 
 
-## Links
+
 
 ## Topics
 * [Fixing a security bug blog](https://blog.mozilla.org/attack-and-defense/2021/09/29/fixing-a-security-bug-by-changing-a-function-signature/)

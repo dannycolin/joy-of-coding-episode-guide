@@ -8,7 +8,7 @@ rating: https://forms.gle/sg8VW2ibsc6xxLMx7
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1779280](https://bugzilla.mozilla.org/show_bug.cgi?id=1779280) - Still possible to open windows at about:privatebrowsing from the Windows Task Tray menu when in perma-PB mode.

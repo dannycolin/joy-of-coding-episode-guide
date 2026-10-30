@@ -8,7 +8,7 @@ rating: https://forms.gle/Km16yJ6z42y65xcKA
 
 
 
-## Links
+
 
 ## Topics
 * Firefox 118! With translations!

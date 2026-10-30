@@ -8,7 +8,7 @@ rating: https://forms.gle/TKrepDkMDogFzX916
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1721454](https://bugzilla.mozilla.org/show_bug.cgi?id=1721454) - Second "Manage bookmarks" item is not at bottom of Bookmarks Menu after landing patch from bug #1720534

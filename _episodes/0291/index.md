@@ -8,7 +8,7 @@ rating: https://forms.gle/6BQFRQ5k5kkP84R17
 
 
 
-## Links
+
 
 ## Topics
 * Mike streams at [Diode Zone](https://diode.zone) now as well

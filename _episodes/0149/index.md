@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/sh/89eba857-a819-4a18-bb83-227a17117
 
 
 
-## Links
+
 
 ## Shoutouts
 * [Les Orchard](https://www.twitch.tv/lmorchard/videos/all) Hacks on [Firefox Color](https://color.firefox.com)

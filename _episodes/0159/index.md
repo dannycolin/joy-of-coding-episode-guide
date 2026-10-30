@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/client/snv?noteGuid=071c3784-6995-4b07-9322-eee
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1510631](https://bugzilla.mozilla.org/show_bug.cgi?id=1510631) - toolbuttons placed next to menubar unexpectedly move to the right most end

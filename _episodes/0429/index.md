@@ -8,7 +8,7 @@ rating: https://forms.gle/NHoRJQ1pDxbYhueG6
 
 
 
-## Links
+
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/32e362d413434ffa931817a75773a4c4 "keanu code 429")

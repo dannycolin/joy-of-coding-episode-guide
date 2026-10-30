@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/client/snv?noteGuid=9ef78540-e4bf-4ded-a63c-4ad
 
 
 
-## Links
+
 
 ## Shoutouts
 * [Les Orchard](https://www.twitch.tv/lmorchard/videos/all) Hacks on [Firefox Color](https://color.firefox.com)

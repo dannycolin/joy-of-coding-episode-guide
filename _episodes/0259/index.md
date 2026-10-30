@@ -8,7 +8,7 @@ rating: https://forms.gle/c8Lz42LRdLfUtNTV8
 
 
 
-## Links
+
 
 ## Topics
 * Firefox Desktop engineering [presentation](https://docs.google.com/presentation/d/1f_U5gqOYyIXZusLJXCBWMKiXcqbA4r_GOTyPf2WVPxs/edit?usp=sharing)

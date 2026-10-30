@@ -8,7 +8,7 @@ rating: https://forms.gle/eXS3w4RC4SPZmFYE6
 
 
 
-## Links
+
 
 ## Topics
 * Q: https://www.firefox.com/en-GB/firefox/150.0/releasenotes

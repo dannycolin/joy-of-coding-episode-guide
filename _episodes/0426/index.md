@@ -8,7 +8,7 @@ rating: https://forms.gle/Grhzp41PJJZN4CVq8
 
 
 
-## Links
+
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/3135123458e849fe9bdffc7f19501208 "keanu code 426")

@@ -8,7 +8,7 @@ rating: https://forms.gle/Rh7AuM9aZWZmdz3u5
 
 
 
-## Links
+
 
 ## Topics
 * Brought to you by HTTP status code 419 which... doesn't exist in the IANA HTTP status code list!

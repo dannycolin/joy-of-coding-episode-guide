@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/l/AbKmofqw6uVGTbKjyzhv4HJFeGFcHeLD1Uk
 
 
 
-## Links
+
 
 * [Blog post on this episode](https://mikeconley.ca/blog/2015/03/05/the-joy-of-coding-episode-4/)
 ## Topics

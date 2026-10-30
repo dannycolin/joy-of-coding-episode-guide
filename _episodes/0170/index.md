@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=955d9eac-97aa-46
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1444133](https://bugzilla.mozilla.org/show_bug.cgi?id=1444133) - Have an option to have view-source open in a separate (browser) window, not separate tab - [Phabricator review](https://phabricator.services.mozilla.com/D18071)

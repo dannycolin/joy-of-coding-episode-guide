@@ -8,7 +8,7 @@ rating: https://forms.gle/5uhfcMm6XwNgCmACA
 
 
 
-## Links
+
 
 ## Topics
 * Back to [WindowsJumpLists](https://bugzilla.mozilla.org/show_bug.cgi?id=1529276)

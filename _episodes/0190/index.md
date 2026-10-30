@@ -8,7 +8,7 @@ rating: https://forms.gle/aLiYfetab497eEB77
 
 
 
-## Links
+
 
 ## Topics
 * Come join Mike and others on the temporary [Matrix](https://mozilla-test.riot.im/) instance Mozilla uses

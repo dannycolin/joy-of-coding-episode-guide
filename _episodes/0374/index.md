@@ -8,7 +8,7 @@ rating: https://forms.gle/WnAheWzpM1o4icaB7
 
 
 
-## Links
+
 
 ## Topics
 * Travel during August, so no episodes on August 14th or 21st, back on August 28th!

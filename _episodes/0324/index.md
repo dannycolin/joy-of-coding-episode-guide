@@ -8,7 +8,7 @@ rating: https://forms.gle/n1rHR5N2Y96dQhwi7
 
 
 
-## Links
+
 
 ## Topics
 * Mike was on a podcast! You can listen to it [here](https://blog.thunderbird.net/2023/05/thundercast-episode-2-with-special-mozilla-guest-mike-conley/). Thanks to Jason and Ryan for talking with me!

@@ -8,7 +8,7 @@ rating: https://forms.gle/xL8n3xeo8HNGNtnL9
 
 
 
-## Links
+
 
 ## Topics
 * Phew, turbulent few weeks! But I'm back!

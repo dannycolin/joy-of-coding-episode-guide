@@ -8,7 +8,7 @@ rating: https://forms.gle/R4LeChz4gavfUn8z9
 
 
 
-## Links
+
 
 ## Topics
 * WindowsJumpList - the story is finally over!

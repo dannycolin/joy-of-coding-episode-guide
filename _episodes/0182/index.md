@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=2ab23bb0-fd39-48
 
 
 
-## Links
+
 
 ## Topics
 * [Blog](https://hacks.mozilla.org/2019/07/testing-picture-in-picture-for-videos-in-firefox-69/) post about Picture-in-Picture that we’re testing on Windows in Firefox Beta 69 and Developer Edition 69

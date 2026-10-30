@@ -8,7 +8,7 @@ rating: https://forms.gle/mdKQZaFPTMvj4sWK6
 
 
 
-## Links
+
 
 ## Topics
 * Holiday schedule

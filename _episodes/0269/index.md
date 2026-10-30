@@ -8,7 +8,7 @@ rating: https://forms.gle/TL5mBP6PN7ktgeaCA
 
 
 
-## Links
+
 
 ## Topics
 * Starting to post to [JoC](https://mikeconley.ca/joc/) instead of :

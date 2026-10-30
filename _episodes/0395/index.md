@@ -8,7 +8,7 @@ rating: https://forms.gle/9zfzTXDxvTf2xK699
 
 
 
-## Links
+
 
 ## Topics
 * "Smart" tab groups with local-only models examining the tabs to suggest tab group names and more tabs to add

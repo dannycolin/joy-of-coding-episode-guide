@@ -8,7 +8,7 @@ rating: https://forms.gle/tLgzTKva572JeQ8d9
 
 
 
-## Links
+
 
 ## Topics
 * FOSDEM! [Mozilla](https://fosdem.org/2022/schedule/track/mozilla/) has a booth. Mike is doing a talk, 5th february. It's free! 

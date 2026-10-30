@@ -8,7 +8,7 @@ rating: https://forms.gle/uxusn4rxdiKjL6Ki9
 
 
 
-## Links
+
 
 ## Topics
 * No HTTP error code 432 in the standard

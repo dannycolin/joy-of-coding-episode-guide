@@ -8,7 +8,7 @@ rating: https://forms.gle/Dvm4GSG4xHvoD4VW9
 
 
 
-## Links
+
 
 ## Topics
 * No questions, but got this comment on YouTube:

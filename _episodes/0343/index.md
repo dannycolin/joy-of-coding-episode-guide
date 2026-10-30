@@ -8,7 +8,7 @@ rating: https://forms.gle/W8P1R9vnr7iCBTNv5
 
 
 
-## Links
+
 
 ## Topics
 * Update on [Bug 1818237](https://bugzilla.mozilla.org/show_bug.cgi?id=1818237) - Make it possible to import from other browsers when Firefox is installed as a Snap package

@@ -8,7 +8,7 @@ rating: https://forms.gle/9H7fhG69rdGg4Cx98
 
 
 
-## Links
+
 
 ## Topics
 * Episode Guide!!

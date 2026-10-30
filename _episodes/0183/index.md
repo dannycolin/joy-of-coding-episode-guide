@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=c3ecaca5-9d9c-48
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1566906](https://bugzilla.mozilla.org/show_bug.cgi?id=1566906) - Picture-in-Picture toggle should not open PiP except on primary mouse click

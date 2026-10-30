@@ -8,7 +8,7 @@ rating: https://forms.gle/Qn3SPSzPmqW13qpt9
 
 
 
-## Links
+
 
 ## Topics
 * Sorry for the delays!

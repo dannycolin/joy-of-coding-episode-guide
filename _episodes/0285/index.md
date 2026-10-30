@@ -8,7 +8,7 @@ rating: https://forms.gle/B4UQBg7c3RKF3ZBU8
 
 
 
-## Links
+
 
 ## Topics
 * Let's review a patch!

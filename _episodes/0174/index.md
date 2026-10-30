@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=daa2ff86-709c-4d
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1527925](https://bugzilla.mozilla.org/show_bug.cgi?id=1527925) - Enable user-initiated Picture in Picture for video by default on Nightly for Windows

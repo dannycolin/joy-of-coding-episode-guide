@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/l/AbLxzfDA-kRA7Z_QhBnzPA3d9UUHzPTtQ7w
 
 
 
-## Links
+
 
 ## Topics
 * Code review of [bug 1399075](https://bugzilla.mozilla.org/show_bug.cgi?id=1399075)

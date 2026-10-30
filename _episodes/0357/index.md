@@ -8,7 +8,7 @@ rating: https://forms.gle/39DE99HJ4oYXeMJ57
 
 
 
-## Links
+
 
 ## Topics
 * Jump List stuff

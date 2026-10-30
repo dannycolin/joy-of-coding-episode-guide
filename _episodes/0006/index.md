@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/sh/ecf52506-c31e-481c-8b75-8aff8d546
 
 
 
-## Links
+
 
 * [Blog post on this episode](https://mikeconley.ca/blog/2015/03/19/the-joy-of-coding-episode-6-plugins/)
 

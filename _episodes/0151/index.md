@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/client/snv?noteGuid=1bf24a7c-16c6-431d-8007-cf0
 
 
 
-## Links
+
 
 ## Topics
 * Update [Bug 1492482](https://bugzilla.mozilla.org/show_bug.cgi?id=1492482) - Stop sending CPOWs from RemoteWebProgress.jsm  [Notes](https://www.evernote.com/client/snv?noteGuid=45a2bf63-bbc5-44b1-9377-1446fbae95ad&noteKey=36c821586733a679&var=b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2F45a2bf63-bbc5-44b1-9377-1446fbae95ad%2F36c821586733a679&exp=ENB3538)

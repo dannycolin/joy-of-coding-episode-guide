@@ -8,7 +8,7 @@ rating: https://forms.gle/Jzk5Z7QQhoc4Lxdo9
 
 
 
-## Links
+
 
 ## Topics
 * No episode next week due to vacation!

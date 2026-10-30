@@ -8,7 +8,7 @@ rating: https://forms.gle/4yWxPMt4PtXTPDy76
 
 
 
-## Links
+
 
 ## Topics
 * Migrator reusable component infrastructure is being added in [this patch](https://phabricator.services.mozilla.com/D162623)

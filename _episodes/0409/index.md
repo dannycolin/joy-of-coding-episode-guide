@@ -8,7 +8,7 @@ rating: https://forms.gle/9vbS3sLszM4VpJDH8
 
 
 
-## Links
+
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/d4c22c7458a84d9eb1916d1ca94912bf "keanu code 409")

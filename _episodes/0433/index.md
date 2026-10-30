@@ -8,7 +8,7 @@ rating: https://forms.gle/rn9d2bksX6gsBojS6
 
 
 
-## Links
+
 
 ## Topics
 * No keanu.codes today, or for the next while.

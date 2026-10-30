@@ -8,7 +8,7 @@ rating: https://forms.gle/A8e5j2jixmVEeemv8
 
 
 
-## Links
+
 
 ## Topics
 * SUMO changes

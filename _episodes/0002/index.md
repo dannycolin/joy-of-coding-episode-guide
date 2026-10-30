@@ -6,7 +6,7 @@ youtube: https://www.youtube.com/watch?v=iENUiXDSRdo
 
 
 
-## Links
+
 
 * [Blog post on this episode](https://mikeconley.ca/blog/2015/02/18/the-joy-of-coding-episode-2/)
 

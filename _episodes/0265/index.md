@@ -8,7 +8,7 @@ rating: https://forms.gle/xYGfDZK2n9jE7mpAA
 
 
 
-## Links
+
 
 ## Topics
 * [Review patch](https://phabricator.services.mozilla.com/D128102)

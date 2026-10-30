@@ -8,7 +8,7 @@ rating: https://forms.gle/qko6hyi4mfr5SN3D7
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1712750](https://bugzilla.mozilla.org/show_bug.cgi?id=1712750) - Clear Recent History modal has the Old UI

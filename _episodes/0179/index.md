@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=629cb3c6-ca3a-46
 
 
 
-## Links
+
 
 ## Topics
 * Patch review for [Bug 1505909](https://bugzilla.mozilla.org/show_bug.cgi?id=1505909)

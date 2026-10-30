@@ -8,7 +8,7 @@ rating: https://forms.gle/yPW9f4CaPr9sUT7p7
 
 
 
-## Links
+
 
 ## Topics
 * aukkras with a tip: EXPECT_HRESULT_SUCCEEDED, ASSERT_HRESULT_SUCCEEDED

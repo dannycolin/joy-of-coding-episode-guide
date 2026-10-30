@@ -8,7 +8,7 @@ rating: https://forms.gle/xGBNun9gsjsDvhqD8
 
 
 
-## Links
+
 
 ## Topics
 * Commandeer, add some changes to, and then land a colleagues patch

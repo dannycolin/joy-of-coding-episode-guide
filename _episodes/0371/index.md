@@ -8,7 +8,7 @@ rating: https://forms.gle/tFjRn2B37jPDGmGu9
 
 
 
-## Links
+
 
 ## Topics
 * Designing and writing tests for the OSKeyStore recovery mechanism

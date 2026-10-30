@@ -8,7 +8,7 @@ rating: https://forms.gle/oKjVEPMzXGzoRUs4A
 
 
 
-## Links
+
 
 ## Topics
 * Starting in Firefox 140, users can remove the addons toolbar button

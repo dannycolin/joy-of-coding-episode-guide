@@ -8,7 +8,7 @@ rating: https://forms.gle/KRhaDTQwKkn8SW488
 
 
 
-## Links
+
 
 ## Topics
 * Whoops - accidental episode skippage last week

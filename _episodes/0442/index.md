@@ -8,7 +8,7 @@ rating: https://forms.gle/DnGpVpBMpbyx8WsS6
 
 
 
-## Links
+
 
 ## Topics
 * Waiting for build, let's work on https://bugzilla.mozilla.org/show_bug.cgi?id=1918085

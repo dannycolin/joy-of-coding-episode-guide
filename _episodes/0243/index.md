@@ -8,7 +8,7 @@ rating: https://forms.gle/xbt4VGyh1CBguDtc7
 
 
 
-## Links
+
 
 ## Topics
 * Back to Joplin! Need to clean up the code, and eventually I'll put it in the Joy of Coding Episode Guide repository.

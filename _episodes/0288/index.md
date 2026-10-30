@@ -8,7 +8,7 @@ rating: https://forms.gle/4SMJAbXD3r9VJ61o9
 
 
 
-## Links
+
 
 ## Topics
 * Happy Firefox 100!

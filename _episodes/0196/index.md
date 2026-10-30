@@ -8,7 +8,7 @@ rating: https://forms.gle/Le3S34oahX8mwtjL6
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1582600](https://bugzilla.mozilla.org/show_bug.cgi?id=1582600) - Intermittent toolkit/components/pictureinpicture/tests/browser_togglePointerEventsNone.js - Test timed out

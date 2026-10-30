@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=e4f9356f-e8c6-42
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1571214](https://bugzilla.mozilla.org/show_bug.cgi?id=1571214) - Video is shifted down in Picture-in-Picture player window

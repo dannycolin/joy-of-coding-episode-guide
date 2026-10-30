@@ -8,7 +8,7 @@ rating: https://forms.gle/aWjmGDYu3hqjaS577
 
 
 
-## Links
+
 
 ## Topics
 * [News](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/): Mozilla and the Fediverse

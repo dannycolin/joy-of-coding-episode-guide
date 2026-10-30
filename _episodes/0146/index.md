@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/l/AbIjO9t0VeRL6aNbINmQ2-yUj_EPU1jGLyU
 
 
 
-## Links
+
 
 ## Shoutouts
 * [Les Orchard](https://www.twitch.tv/lmorchard/videos/all) Hacks on [Firefox Color](https://color.firefox.com)

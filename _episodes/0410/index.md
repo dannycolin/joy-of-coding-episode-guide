@@ -8,7 +8,7 @@ rating: https://forms.gle/rDgbB7NP7t7Voo1G6
 
 
 
-## Links
+
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/bbdf9d1427ee40f182d5790222c79b5e "keanu code 410")

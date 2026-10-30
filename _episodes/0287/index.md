@@ -8,7 +8,7 @@ rating: https://forms.gle/RkwYwDd4ztoDQGNd8
 
 
 
-## Links
+
 
 ## Topics
 * Back in the office today! Hooray! But things might fall over. Let's find out!

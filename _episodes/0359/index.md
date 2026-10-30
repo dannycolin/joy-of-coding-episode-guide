@@ -8,7 +8,7 @@ rating: https://forms.gle/pQVL8cX6Y7XZEzBd6
 
 
 
-## Links
+
 
 ## Topics
 * Wiring up our favicon fetching utility to JS via XPCOM! Let's see if it works!

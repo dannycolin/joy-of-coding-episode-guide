@@ -8,7 +8,7 @@ rating: https://forms.gle/NrFBdp3nGBoGauZR6
 
 
 
-## Links
+
 
 ## Topics
 * HTTP Error Code 427? Does not exist apparently. ¯\_(ツ)_/¯

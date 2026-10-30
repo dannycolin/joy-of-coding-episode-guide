@@ -8,7 +8,7 @@ rating: https://forms.gle/gxAQXX5ixFzUCSu47
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1736690](https://bugzilla.mozilla.org/show_bug.cgi?id=1736690) - Remove or update probes expiring in Firefox 96: pictureinpicture.most_concurrent_players

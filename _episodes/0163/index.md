@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=534eeccf-3988-4e
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1277060](https://bugzilla.mozilla.org/show_bug.cgi?id=1277060) - When typing in the URL bar if a parent process page is loaded and loading about:home using the toolbar button, shortcut, a bookmark, anything besides the url bar - the location bar is not cleared - [Notes](https://www.evernote.com/shard/s434/client/snv?noteGuid=c94dc66e-8e9e-4fd0-b156-db23188d2a15&noteKey=9361bc97828da4b4&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs434%2Fsh%2Fc94dc66e-8e9e-4fd0-b156-db23188d2a15%2F9361bc97828da4b4&title=Bug%2B1277060%2B-%2BWhen%2Btyping%2Bin%2Bthe%2BURL%2Bbar%2Bif%2Ba%2Bparent%2Bprocess%2Bpage%2Bis%2Bloaded%2Band%2Bloading%2Babout%253Ahome%2Busing%2Bthe%2Btoolbar%2Bbutton%252C%2Bshortcut%252C%2Ba%2Bbookmark%252C%2Banything%2Bbesides%2Bthe%2Burl%2Bbar%2B-%2Bthe%2Blocation%2Bbar%2Bis%2Bnot%2Bcleared)

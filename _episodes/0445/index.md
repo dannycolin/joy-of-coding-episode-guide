@@ -8,7 +8,7 @@ rating: https://forms.gle/4fkqa4p86tkUVDUq5
 
 
 
-## Links
+
 
 ## Topics
 * Got feedback on center cropping! Let's get it cleaned up and post another revision.

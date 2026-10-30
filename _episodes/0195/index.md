@@ -8,7 +8,7 @@ rating: https://forms.gle/fPj1pEC9otZME6eX6
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1592539](https://bugzilla.mozilla.org/show_bug.cgi?id=1592539) - HTMLVideoElement cloned for PiP doesn't track the selected video track properly when playing a MediaStream

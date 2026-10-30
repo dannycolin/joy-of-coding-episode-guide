@@ -8,7 +8,7 @@ rating: https://forms.gle/81V9s2Dxua6S4EVM7
 
 
 
-## Links
+
 
 ## Topics
 * During this episode the #livehacking channel on irc.mozilla.org was not available

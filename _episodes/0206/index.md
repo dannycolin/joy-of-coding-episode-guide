@@ -8,7 +8,7 @@ rating: https://forms.gle/7G9tSWZTuAt6ViqM7
 
 
 
-## Links
+
 
 ## Topics
 * 5th year aniversary since 1st episode of Joy of Coding

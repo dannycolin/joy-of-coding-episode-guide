@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/l/AbIs3LRknK1AwbmFb8RozrnZvefTFPZv15s
 
 
 
-## Links
+
 
 * [Adso!](https://github.com/mikeconley/joy-of-coding-episode-guide/tree/master/utils/adso)
 Want to help me out? Please help correct transcriptions of episodes at [Amara](https://amara.org)

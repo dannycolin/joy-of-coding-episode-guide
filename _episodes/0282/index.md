@@ -8,7 +8,7 @@ rating: https://forms.gle/NUYTxcwhdpoc9Jub7
 
 
 
-## Links
+
 
 ## Topics
 * Help people not able to connect to internet, by setting up your own [TOR bridge](https://community.torproject.org/relay/setup/bridge/)!

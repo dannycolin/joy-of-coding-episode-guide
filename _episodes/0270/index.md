@@ -8,7 +8,7 @@ rating: https://forms.gle/F3xKxZhh3bEGYnPu9
 
 
 
-## Links
+
 
 ## Topics
 * Matrix / Twitch bridge is currently one-way

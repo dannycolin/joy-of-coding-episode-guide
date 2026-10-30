@@ -8,7 +8,7 @@ rating: https://forms.gle/u2Qe7W73AbLY3oSK9
 
 
 
-## Links
+
 
 ## Topics
 * More documentation in customizableui!

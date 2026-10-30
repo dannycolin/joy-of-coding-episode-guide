@@ -8,7 +8,7 @@ rating: https://forms.gle/CfMw243fnFNbqKEN9
 
 
 
-## Links
+
 
 ## Topics
 * Why isn't moz-label appearing properly? What we we doing wrong in usage?

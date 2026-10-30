@@ -8,7 +8,7 @@ rating: https://forms.gle/EjwkQDZ2wGntgqLJ9
 
 
 
-## Links
+
 
 ## Topics
 * No episode next week or the week after - I'll be back on August 28th!

@@ -8,7 +8,7 @@ rating: https://forms.gle/jF9w71ZWuqh8d53k7
 
 
 
-## Links
+
 
 ## Topics
 * FilterAdult changes landed! \o/

@@ -8,7 +8,7 @@ rating: https://forms.gle/gBk41mEqDfWkFGCR8
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1354248](https://bugzilla.mozilla.org/show_bug.cgi?id=1354248) - Allow privileged about content process use page-icon protocol

@@ -8,7 +8,7 @@ rating: https://forms.gle/bZpu86ArLXFEX2CN7
 
 
 
-## Links
+
 
 ## Topics
 * I've started to use Git for my mozilla VCS work

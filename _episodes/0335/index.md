@@ -8,7 +8,7 @@ rating: https://forms.gle/NAZ6G6gDjkbKAAKH8
 
 
 
-## Links
+
 
 ## Topics
 * No episodes for the next two weeks due to travel!

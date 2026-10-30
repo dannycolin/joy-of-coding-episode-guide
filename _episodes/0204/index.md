@@ -8,7 +8,7 @@ rating: https://forms.gle/FYN9W45u68hbRbpR6
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1576917](https://bugzilla.mozilla.org/show_bug.cgi?id=1576917) - Port PopupBlockingChild from a message manager actor to a JSWindowActor - [Patch](https://phabricator.services.mozilla.com/D53075)

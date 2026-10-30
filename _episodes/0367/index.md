@@ -8,7 +8,7 @@ rating: https://forms.gle/YhcimzH8swgovew67
 
 
 
-## Links
+
 
 ## Topics
 * I'm back!

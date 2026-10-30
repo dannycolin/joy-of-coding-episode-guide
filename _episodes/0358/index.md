@@ -8,7 +8,7 @@ rating: https://forms.gle/btpF3oaG6CE4YkZy5
 
 
 
-## Links
+
 
 ## Topics
 * Off-main-thread Windows Jump List got green sign-off to go out in Firefox 124!

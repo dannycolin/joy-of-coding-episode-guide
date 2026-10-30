@@ -8,7 +8,7 @@ rating: https://forms.gle/SSpT4vYSGYM6vAWU9
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1707582](https://bugzilla.mozilla.org/show_bug.cgi?id=1707582) - Bug 1707582 - Intermittent /modules/test/browser/browser_UsageTelemetry_interaction.js | Expected to see the correct value for bookmark-item in bookmarks_bar. - "undefined" == 1 - JS frame :: /browser/modules/test/browser/browser_UsageTelemetry_interaction.js :: assert

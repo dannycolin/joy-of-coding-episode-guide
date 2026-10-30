@@ -8,7 +8,7 @@ rating: https://forms.gle/DMXZpMtHHnBfXEVU7
 
 
 
-## Links
+
 
 ## Topics
 * Sorry about last week - network issues.

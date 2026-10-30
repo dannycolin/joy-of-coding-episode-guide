@@ -8,7 +8,7 @@ rating: https://forms.gle/sGFwWopvHzb3fszb6
 
 
 
-## Links
+
 
 ## Topics
 * Extensions update

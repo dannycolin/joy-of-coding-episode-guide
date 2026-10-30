@@ -8,7 +8,7 @@ rating: https://forms.gle/T1GiTe6kBjEVdQy8A
 
 
 
-## Links
+
 
 ## Topics
 * Note to Amy and Katie - have a great trip!

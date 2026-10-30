@@ -8,7 +8,7 @@ rating: https://forms.gle/L6PnBNknBFyiJsnR7
 
 
 
-## Links
+
 
 ## Topics
 * Happy 2025!

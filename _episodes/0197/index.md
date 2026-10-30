@@ -8,7 +8,7 @@ rating: https://forms.gle/tkDSMhnowHrvSYgh8
 
 
 
-## Links
+
 
 ## Topics
 * Filed [Bug 1596169](https://bugzilla.mozilla.org/show_bug.cgi?id=1596169) - Run stopTrackingMouseOverVideos inside of PictureInPictureChild's willDestroy

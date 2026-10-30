@@ -8,7 +8,7 @@ rating: https://forms.gle/yfUExx6JyTL8W3XT7
 
 
 
-## Links
+
 
 ## Topics
 * HTTP Error Code 430 - not "official", but I found this: https://http.dev/430

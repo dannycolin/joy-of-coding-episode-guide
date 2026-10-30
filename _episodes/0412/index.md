@@ -8,7 +8,7 @@ rating: https://forms.gle/YbnHW1iJbDdYp6Hz9
 
 
 
-## Links
+
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/77ceb7a8a5b144afb46a4c60bc4cbb11 "keanu code 412")

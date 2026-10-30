@@ -8,7 +8,7 @@ rating: https://forms.gle/nMqrbrnvApSBUDns9
 
 
 
-## Links
+
 
 ## Topics
 * WindowsJumpLists! Let's keep going!

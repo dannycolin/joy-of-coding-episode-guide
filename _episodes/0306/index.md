@@ -8,7 +8,7 @@ rating: https://forms.gle/dZGL98EpguYzJWRC8
 
 
 
-## Links
+
 
 ## Topics
 * WindowsJumpList work has to wait while we focus on WebExtension stuff.

@@ -8,7 +8,7 @@ rating: https://forms.gle/f11KhxnjBLUEsVNu8
 
 
 
-## Links
+
 
 ## Topics
 * Twitch / Matrix bridge appears to be working again. Hooray!

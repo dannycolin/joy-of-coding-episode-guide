@@ -8,7 +8,7 @@ rating: https://forms.gle/2utD9jZNZUT8pRJQ8
 
 
 
-## Links
+
 
 ## Topics
 * ![Alt text](https://mikeconley.ca/joc/agendas/images/8581655ae38f4ed1b35ffa890eecbf34 "keanu code 428")

@@ -8,7 +8,7 @@ rating: https://forms.gle/uC3CYi14o93cAGA16
 
 
 
-## Links
+
 
 ## Topics
 * Thunderbird patch from Episode 300 was merged!

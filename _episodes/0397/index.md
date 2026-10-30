@@ -8,7 +8,7 @@ rating: https://forms.gle/9s3tYWn9xdsX6Gmz9
 
 
 
-## Links
+
 
 ## Topics
 * Must end slightly early (around 2:20PM ET)

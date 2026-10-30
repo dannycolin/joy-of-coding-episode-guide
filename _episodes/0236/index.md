@@ -8,7 +8,7 @@ rating: https://forms.gle/XWopDP6T1nKFCy9v5
 
 
 
-## Links
+
 
 ## Topics
 * HAPPY NEW YEAR! Welcome to 2021!

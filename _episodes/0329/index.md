@@ -8,7 +8,7 @@ rating: https://forms.gle/d7VRh19tf2Zgad467
 
 
 
-## Links
+
 
 ## Topics
 * Volume control in Picture-in-Picture! That's in Nightly right now, might roll out to users in Firefox 116.

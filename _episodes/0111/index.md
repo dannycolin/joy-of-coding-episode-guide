@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/l/AbLjuPins4BIYLmUhdQ6Owgz0LxhCT0GYHI
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1387130](https://bugzilla.mozilla.org/show_bug.cgi?id=1387130) tab scrolling, [window.scrollBy](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollBy)

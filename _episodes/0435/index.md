@@ -8,7 +8,7 @@ rating: https://forms.gle/8SPt94L51yE8dgg76
 
 
 
-## Links
+
 
 ## Topics
 * Q: "could you please go over the about:config preferences for the Firefox Nova re-theme?"

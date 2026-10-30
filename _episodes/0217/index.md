@@ -8,7 +8,7 @@ rating: https://forms.gle/gC8Den9B23UbrQky8
 
 
 
-## Links
+
 
 ## Topics
 * Pandemic edition! Mike is streaming from home! Let's hope the wifi holds out

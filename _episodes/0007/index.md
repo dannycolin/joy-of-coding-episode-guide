@@ -7,7 +7,7 @@ agenda: https://www.evernote.com/l/AbJGwcy3Gt1I3qlhCpUuZebtW82W3tnAujk
 
 
 
-## Links
+
 
 * [Blog post on this episode](https://mikeconley.ca/blog/2015/03/27/the-joy-of-coding-episode-7-code-review-and-a-regression/)
 

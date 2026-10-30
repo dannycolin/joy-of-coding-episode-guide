@@ -8,7 +8,7 @@ rating: https://forms.gle/LX7ey3xuqdqhEtjZ9
 
 
 
-## Links
+
 
 ## Topics
 * Help with [Bug 1873947](https://bugzilla.mozilla.org/show_bug.cgi?id=1873947) - Screenshots get broken when dragging the tab to a new window

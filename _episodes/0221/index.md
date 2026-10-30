@@ -10,7 +10,7 @@ rating: https://forms.gle/7ENMNpmwejkNdVkUA
 
 **Reminder**: No plan survives breakfast.
 
-## Links
+
 
 ## Topics
 * Pandemic edition! Mike is streaming from home! Let's hope the wifi holds out

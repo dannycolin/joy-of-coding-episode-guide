@@ -8,7 +8,7 @@ rating: https://forms.gle/UGqrf26P5hjVhpGE8
 
 
 
-## Links
+
 
 ## Topics
 * From the form: "You might want to mark [1738027](https://bugzil.la/1738027) a duplicate of [1779280](https://bugzil.la/1779280) from this stream, as it has the links back to the Tor bug 25660"

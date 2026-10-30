@@ -8,7 +8,7 @@ rating: https://forms.gle/Hn9zuXR8Hav1Sg49A
 
 
 
-## Links
+
 
 ## Topics
 * Code review: [D155448](https://phabricator.services.mozilla.com/D155448)

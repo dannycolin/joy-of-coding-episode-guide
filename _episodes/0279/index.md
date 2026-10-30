@@ -8,7 +8,7 @@ rating: https://forms.gle/R8EJyWGFrjJQnAYt5
 
 
 
-## Links
+
 
 ## Topics
 * FOSDEM:

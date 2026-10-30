@@ -8,7 +8,7 @@ rating: https://forms.gle/kKAy3aHUYeq7jMqm6
 
 
 
-## Links
+
 
 ## Topics
 * Let's look at what it took to get the moz-label working like we wanted

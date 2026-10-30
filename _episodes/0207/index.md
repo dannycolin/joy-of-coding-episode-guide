@@ -8,7 +8,7 @@ rating: https://forms.gle/thsbPdHowxU5nVpG6
 
 
 
-## Links
+
 
 ## Topics
 * Tried some background [music](https://www.youtube.com/watch?v=2HiP-Sdtbck&list=PL06diOotXAJLAAHBY7kIUm5GQwm2ZinOz)

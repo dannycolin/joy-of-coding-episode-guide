@@ -8,7 +8,7 @@ rating: https://forms.gle/9cuNmhbudBes1YWG9
 
 
 
-## Links
+
 
 ## Topics
 * Welcome to today's spOOooOOooOoky episode at a spOoooOooOoky alternative time!

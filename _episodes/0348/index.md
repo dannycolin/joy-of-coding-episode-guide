@@ -8,7 +8,7 @@ rating: https://forms.gle/yZnmvHvmLQEsfojR8
 
 
 
-## Links
+
 
 ## Topics
 * Laptop drive failure

@@ -8,7 +8,7 @@ rating: https://forms.gle/FAyEEyhmrrvdW7K38
 
 
 
-## Links
+
 
 ## Topics
 * Keanu code for HTTP 420 ? There is no official HTTP status code 420.

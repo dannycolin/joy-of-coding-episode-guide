@@ -8,7 +8,7 @@ rating: https://forms.gle/sryx9WBMq2dvnu5Y6
 
 
 
-## Links
+
 
 ## Topics
 * Cool new tooltips in Firefox Nightly! Currently disabled by default while we do behavioural / accessibility review and ensure that it's a total improvement over existing tooltips

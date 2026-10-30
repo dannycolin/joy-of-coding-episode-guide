@@ -8,7 +8,7 @@ rating: https://forms.gle/qsNmPHhuZ5yLVnnEA
 
 
 
-## Links
+
 
 ## Topics
 * [Bug 1724675](https://bugzilla.mozilla.org/show_bug.cgi?id=1724675) - The button from the Synced Tabs doorhanger is missing the label

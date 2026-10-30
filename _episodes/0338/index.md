@@ -8,7 +8,7 @@ rating: https://forms.gle/g3G2T9vuetweJgZRA
 
 
 
-## Links
+
 
 ## Topics
 * [Faster Vue.js execution](https://hacks.mozilla.org/2023/09/faster-vue-js-execution-in-firefox/) in Firefox

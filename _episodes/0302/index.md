@@ -8,7 +8,7 @@ rating: https://forms.gle/jFQ1xLiJ5unBatWR7
 
 
 
-## Links
+
 
 ## Topics
 * Today - Goal: I want the JumpListManager to only ever be accessed off of the main thread, so that the main thread in the parent process never has to await a lock.
