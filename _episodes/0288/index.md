@@ -20,6 +20,6 @@ Question: Is there a good place in the Fediverse where I should also broadcast m
 
 * [Rate this episode](https://forms.gle/4SMJAbXD3r9VJ61o9)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

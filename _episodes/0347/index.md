@@ -63,6 +63,6 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0347.html
 
 * [Rate this episode](https://forms.gle/P8qR1FjHzb9tAH2H9)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

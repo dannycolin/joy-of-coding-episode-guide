@@ -28,6 +28,6 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0298.html
 
 * [Rate this episode](https://forms.gle/Hn9zuXR8Hav1Sg49A)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

@@ -33,6 +33,6 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0329.html
 
 * [Rate this episode](https://forms.gle/d7VRh19tf2Zgad467)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

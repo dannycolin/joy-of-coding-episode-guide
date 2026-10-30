@@ -42,6 +42,6 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0264.html
 
 * [Rate this episode](https://forms.gle/ninYYnQ6tc4KDc6U6)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

@@ -34,6 +34,6 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0313.html
 
 * [Rate this episode](https://forms.gle/kUwBNR7s5m9fifMY9)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

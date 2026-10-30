@@ -15,6 +15,6 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0386.html
 
 * [Rate this episode](https://forms.gle/n5xqtSdJ7adfNeEB8)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

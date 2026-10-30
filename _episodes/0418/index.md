@@ -36,6 +36,6 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0418.html
 
 * [Rate this episode](https://forms.gle/Qn3SPSzPmqW13qpt9)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

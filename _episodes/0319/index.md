@@ -39,6 +39,6 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0319.html
 * Next week, I am travelling and won't be able to stream! Sorry!
 * [Rate this episode](https://forms.gle/j8giTgUbTM5NMXgL6)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

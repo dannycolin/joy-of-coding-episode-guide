@@ -35,6 +35,6 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0281.html
 
 * [Rate this episode](https://forms.gle/7ShpaeGnymXAfBrh9)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

@@ -22,6 +22,6 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0419.html
 
 * [Rate this episode](https://forms.gle/Rh7AuM9aZWZmdz3u5)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

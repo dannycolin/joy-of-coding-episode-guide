@@ -38,6 +38,6 @@ Question time:
 
 * [Rate this episode](https://forms.gle/B4UQBg7c3RKF3ZBU8)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

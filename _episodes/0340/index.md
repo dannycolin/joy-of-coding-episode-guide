@@ -51,6 +51,6 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0340.html
 
 * [Rate this episode](https://forms.gle/Km16yJ6z42y65xcKA)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

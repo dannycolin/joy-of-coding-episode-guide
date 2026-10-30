@@ -21,6 +21,6 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0272.html
 
 * [Rate this episode](https://forms.gle/1Dc1G3wit2g4YpSu7)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

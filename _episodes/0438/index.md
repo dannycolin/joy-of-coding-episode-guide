@@ -28,6 +28,6 @@ Could you please clarify which is correct, is the only outstanding functionality
 
 * [Rate this episode](https://forms.gle/eXS3w4RC4SPZmFYE6)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

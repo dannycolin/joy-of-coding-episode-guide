@@ -19,6 +19,6 @@ agenda: https://www.evernote.com/shard/s434/client/snv?noteGuid=0eb8b240-8c5f-4f
 
 * [Rate this episode](https://forms.gle/ZHfTJVfftk75avWy8)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

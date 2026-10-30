@@ -23,6 +23,6 @@ I'd love to hear your thoughts, <email address>"
 
 * [Rate this episode](https://forms.gle/vfQCHugyqakFRWwb9)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

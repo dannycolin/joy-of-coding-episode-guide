@@ -32,6 +32,6 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0299.html
 
 * [Rate this episode](https://forms.gle/ZLfhcDHnDcexXwjj7)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 

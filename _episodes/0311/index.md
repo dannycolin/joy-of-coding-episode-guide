@@ -36,6 +36,6 @@ agenda: https://mikeconley.ca/joc/agendas/Episode-0311.html
 
 * [Rate this episode](https://forms.gle/zenyCRvp5YH1Ukfr8)
 
-## Chat
-* [Join us on Matrix!](https://matrix.to/#/!enWuAmKDOEEPYejXRk:mozilla.org?via=mozilla.org&via=raim.ist)
+
+
 
